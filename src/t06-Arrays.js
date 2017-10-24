@@ -1,4 +1,3 @@
-
 const people = ["Habs", "Brad", "Peter", "Joel"]
 
 //get last
