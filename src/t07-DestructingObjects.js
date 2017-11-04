@@ -2,9 +2,9 @@ const car = {
   name: 'First Car',
   type: 'Mercedes',
   wheels: 4,
-  isForChildren: true
+  isForChildren: true,
 }
 
 const { name, type, isForChildren } = car
 
-console.log(name + " # " + type + " # " + isForChildren)
+console.log(`${name} # ${type} # ${isForChildren}`)
