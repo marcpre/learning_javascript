@@ -11,5 +11,12 @@ people.forEach((item, index, array) => {
 
 // find in an array
 const filteredArray = people.filter(people => people.length > 4)
-
 console.log(filteredArray)
+
+// add to a beginning of an array
+const beginning = people.unshift("baz", "test")
+console.log(beginning.toString())
+
+// Add Element(s) to the Middle of an Array
+const middle = people.splice(3, 0, "foo", "bar")
+console.log(middle)
