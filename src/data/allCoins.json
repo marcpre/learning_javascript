@@ -1,0 +1,7643 @@
+{
+  "currency": [
+    {},
+    {
+      "Coin": "Bitcoin",
+      "Url": "/currencies/bitcoin/",
+      "Symbol": "BTC",
+      "Price": "$7366.73"
+    },
+    {
+      "Coin": "Ethereum",
+      "Url": "/currencies/ethereum/",
+      "Symbol": "ETH",
+      "Price": "$297.61"
+    },
+    {
+      "Coin": "Bitcoin Cash",
+      "Url": "/currencies/bitcoin-cash/",
+      "Symbol": "BCH",
+      "Price": "$638.60"
+    },
+    {
+      "Coin": "Ripple",
+      "Url": "/currencies/ripple/",
+      "Symbol": "XRP",
+      "Price": "$0.209016"
+    },
+    {
+      "Coin": "Litecoin",
+      "Url": "/currencies/litecoin/",
+      "Symbol": "LTC",
+      "Price": "$61.69"
+    },
+    {
+      "Coin": "Dash",
+      "Url": "/currencies/dash/",
+      "Symbol": "DASH",
+      "Price": "$296.18"
+    },
+    {
+      "Coin": "NEO",
+      "Url": "/currencies/neo/",
+      "Symbol": "NEO",
+      "Price": "$26.48"
+    },
+    {
+      "Coin": "NEM",
+      "Url": "/currencies/nem/",
+      "Symbol": "XEM",
+      "Price": "$0.182744"
+    },
+    {
+      "Coin": "Monero",
+      "Url": "/currencies/monero/",
+      "Symbol": "XMR",
+      "Price": "$100.73"
+    },
+    {
+      "Coin": "Ethereum Classic",
+      "Url": "/currencies/ethereum-classic/",
+      "Symbol": "ETC",
+      "Price": "$14.15"
+    },
+    {
+      "Coin": "IOTA",
+      "Url": "/currencies/iota/",
+      "Symbol": "MIOTA",
+      "Price": "$0.394424"
+    },
+    {
+      "Coin": "Qtum",
+      "Url": "/currencies/qtum/",
+      "Symbol": "QTUM",
+      "Price": "$11.16"
+    },
+    {
+      "Coin": "OmiseGO",
+      "Url": "/currencies/omisego/",
+      "Symbol": "OMG",
+      "Price": "$6.46"
+    },
+    {
+      "Coin": "Zcash",
+      "Url": "/currencies/zcash/",
+      "Symbol": "ZEC",
+      "Price": "$242.85"
+    },
+    {
+      "Coin": "BitConnect",
+      "Url": "/currencies/bitconnect/",
+      "Symbol": "BCC",
+      "Price": "$280.15"
+    },
+    {
+      "Coin": "Lisk",
+      "Url": "/currencies/lisk/",
+      "Symbol": "LSK",
+      "Price": "$5.18"
+    },
+    {
+      "Coin": "Cardano",
+      "Url": "/currencies/cardano/",
+      "Symbol": "ADA",
+      "Price": "$0.022384"
+    },
+    {
+      "Coin": "Tether",
+      "Url": "/currencies/tether/",
+      "Symbol": "USDT",
+      "Price": "$1.00"
+    },
+    {
+      "Coin": "Stellar Lumens",
+      "Url": "/currencies/stellar/",
+      "Symbol": "XLM",
+      "Price": "$0.029834"
+    },
+    {
+      "Coin": "EOS",
+      "Url": "/currencies/eos/",
+      "Symbol": "EOS",
+      "Price": "$1.03"
+    },
+    {
+      "Coin": "Hshare",
+      "Url": "/currencies/hshare/",
+      "Symbol": "HSR",
+      "Price": "$9.68"
+    },
+    {
+      "Coin": "Waves",
+      "Url": "/currencies/waves/",
+      "Symbol": "WAVES",
+      "Price": "$3.75"
+    },
+    {
+      "Coin": "Stratis",
+      "Url": "/currencies/stratis/",
+      "Symbol": "STRAT",
+      "Price": "$2.98"
+    },
+    {
+      "Coin": "Komodo",
+      "Url": "/currencies/komodo/",
+      "Symbol": "KMD",
+      "Price": "$2.65"
+    },
+    {
+      "Coin": "Ark",
+      "Url": "/currencies/ark/",
+      "Symbol": "ARK",
+      "Price": "$2.60"
+    },
+    {
+      "Coin": "Electroneum",
+      "Url": "/currencies/electroneum/",
+      "Symbol": "ETN",
+      "Price": "$0.049593"
+    },
+    {
+      "Coin": "Bytecoin",
+      "Url": "/currencies/bytecoin-bcn/",
+      "Symbol": "BCN",
+      "Price": "$0.001298"
+    },
+    {
+      "Coin": "Steem",
+      "Url": "/currencies/steem/",
+      "Symbol": "STEEM",
+      "Price": "$0.900671"
+    },
+    {
+      "Coin": "Ardor",
+      "Url": "/currencies/ardor/",
+      "Symbol": "ARDR",
+      "Price": "$0.208329"
+    },
+    {
+      "Coin": "Populous",
+      "Url": "/currencies/populous/",
+      "Symbol": "PPT",
+      "Price": "$4.66"
+    },
+    {
+      "Coin": "Augur",
+      "Url": "/currencies/augur/",
+      "Symbol": "REP",
+      "Price": "$17.33"
+    },
+    {
+      "Coin": "Binance Coin",
+      "Url": "/currencies/binance-coin/",
+      "Symbol": "BNB",
+      "Price": "$1.90"
+    },
+    {
+      "Coin": "Decred",
+      "Url": "/currencies/decred/",
+      "Symbol": "DCR",
+      "Price": "$29.06"
+    },
+    {
+      "Coin": "MaidSafeCoin",
+      "Url": "/currencies/maidsafecoin/",
+      "Symbol": "MAID",
+      "Price": "$0.385266"
+    },
+    {
+      "Coin": "TenX",
+      "Url": "/currencies/tenx/",
+      "Symbol": "PAY",
+      "Price": "$1.65"
+    },
+    {
+      "Coin": "BitcoinDark",
+      "Url": "/currencies/bitcoindark/",
+      "Symbol": "BTCD",
+      "Price": "$129.04"
+    },
+    {
+      "Coin": "BitShares",
+      "Url": "/currencies/bitshares/",
+      "Symbol": "BTS",
+      "Price": "$0.063213"
+    },
+    {
+      "Coin": "Golem",
+      "Url": "/currencies/golem-network-tokens/",
+      "Symbol": "GNT",
+      "Price": "$0.192452"
+    },
+    {
+      "Coin": "Gas",
+      "Url": "/currencies/gas/",
+      "Symbol": "GAS",
+      "Price": "$17.89"
+    },
+    {
+      "Coin": "PIVX",
+      "Url": "/currencies/pivx/",
+      "Symbol": "PIVX",
+      "Price": "$2.78"
+    },
+    {
+      "Coin": "TRON",
+      "Url": "/currencies/tron/",
+      "Symbol": "TRX",
+      "Price": "$0.002269"
+    },
+    {
+      "Coin": "Vertcoin",
+      "Url": "/currencies/vertcoin/",
+      "Symbol": "VTC",
+      "Price": "$3.57"
+    },
+    {
+      "Coin": "MonaCoin",
+      "Url": "/currencies/monacoin/",
+      "Symbol": "MONA",
+      "Price": "$2.63"
+    },
+    {
+      "Coin": "Factom",
+      "Url": "/currencies/factom/",
+      "Symbol": "FCT",
+      "Price": "$16.53"
+    },
+    {
+      "Coin": "Basic Attenti...",
+      "Url": "/currencies/basic-attention-token/",
+      "Symbol": "BAT",
+      "Price": "$0.142907"
+    },
+    {
+      "Coin": "SALT",
+      "Url": "/currencies/salt/",
+      "Symbol": "SALT",
+      "Price": "$2.99"
+    },
+    {
+      "Coin": "Kyber Network",
+      "Url": "/currencies/kyber-network/",
+      "Symbol": "KNC",
+      "Price": "$1.03"
+    },
+    {
+      "Coin": "Dogecoin",
+      "Url": "/currencies/dogecoin/",
+      "Symbol": "DOGE",
+      "Price": "$0.001193"
+    },
+    {
+      "Coin": "DigixDAO",
+      "Url": "/currencies/digixdao/",
+      "Symbol": "DGD",
+      "Price": "$65.33"
+    },
+    {
+      "Coin": "Veritaseum",
+      "Url": "/currencies/veritaseum/",
+      "Symbol": "VERI",
+      "Price": "$61.62"
+    },
+    {
+      "Coin": "SingularDTV",
+      "Url": "/currencies/singulardtv/",
+      "Symbol": "SNGLS",
+      "Price": "$0.201682"
+    },
+    {
+      "Coin": "Walton",
+      "Url": "/currencies/walton/",
+      "Symbol": "WTC",
+      "Price": "$4.85"
+    },
+    {
+      "Coin": "Byteball Bytes",
+      "Url": "/currencies/byteball/",
+      "Symbol": "GBYTE",
+      "Price": "$177.79"
+    },
+    {
+      "Coin": "Bytom",
+      "Url": "/currencies/bytom/",
+      "Symbol": "BTM",
+      "Price": "$0.115346"
+    },
+    {
+      "Coin": "GameCredits",
+      "Url": "/currencies/gamecredits/",
+      "Symbol": "GAME",
+      "Price": "$1.75"
+    },
+    {
+      "Coin": "Syscoin",
+      "Url": "/currencies/syscoin/",
+      "Symbol": "SYS",
+      "Price": "$0.209829"
+    },
+    {
+      "Coin": "Siacoin",
+      "Url": "/currencies/siacoin/",
+      "Symbol": "SC",
+      "Price": "$0.003610"
+    },
+    {
+      "Coin": "GXShares",
+      "Url": "/currencies/gxshares/",
+      "Symbol": "GXS",
+      "Price": "$2.73"
+    },
+    {
+      "Coin": "Metaverse ETP",
+      "Url": "/currencies/metaverse/",
+      "Symbol": "ETP",
+      "Price": "$3.04"
+    },
+    {
+      "Coin": "Status",
+      "Url": "/currencies/status/",
+      "Symbol": "SNT",
+      "Price": "$0.030745"
+    },
+    {
+      "Coin": "0x",
+      "Url": "/currencies/0x/",
+      "Symbol": "ZRX",
+      "Price": "$0.206358"
+    },
+    {
+      "Coin": "Verge",
+      "Url": "/currencies/verge/",
+      "Symbol": "XVG",
+      "Price": "$0.007216"
+    },
+    {
+      "Coin": "Civic",
+      "Url": "/currencies/civic/",
+      "Symbol": "CVC",
+      "Price": "$0.281604"
+    },
+    {
+      "Coin": "Blocknet",
+      "Url": "/currencies/blocknet/",
+      "Symbol": "BLOCK",
+      "Price": "$19.63"
+    },
+    {
+      "Coin": "Lykke",
+      "Url": "/currencies/lykke/",
+      "Symbol": "LKK",
+      "Price": "$0.365367"
+    },
+    {
+      "Coin": "Metal",
+      "Url": "/currencies/metal/",
+      "Symbol": "MTL",
+      "Price": "$4.90"
+    },
+    {
+      "Coin": "Iconomi",
+      "Url": "/currencies/iconomi/",
+      "Symbol": "ICN",
+      "Price": "$0.919440"
+    },
+    {
+      "Coin": "Aeternity",
+      "Url": "/currencies/aeternity/",
+      "Symbol": "AE",
+      "Price": "$0.379000"
+    },
+    {
+      "Coin": "DigiByte",
+      "Url": "/currencies/digibyte/",
+      "Symbol": "DGB",
+      "Price": "$0.008436"
+    },
+    {
+      "Coin": "Bancor",
+      "Url": "/currencies/bancor/",
+      "Symbol": "BNT",
+      "Price": "$1.92"
+    },
+    {
+      "Coin": "Ripio Credit ...",
+      "Url": "/currencies/ripio-credit-network/",
+      "Symbol": "RCN",
+      "Price": "$0.158895"
+    },
+    {
+      "Coin": "ATMChain",
+      "Url": "/currencies/attention-token-of-media/",
+      "Symbol": "ATM",
+      "Price": "$0.024497"
+    },
+    {
+      "Coin": "Gnosis",
+      "Url": "/currencies/gnosis-gno/",
+      "Symbol": "GNO",
+      "Price": "$63.79"
+    },
+    {
+      "Coin": "Pura",
+      "Url": "/currencies/pura/",
+      "Symbol": "PURA",
+      "Price": "$0.394635"
+    },
+    {
+      "Coin": "Particl",
+      "Url": "/currencies/particl/",
+      "Symbol": "PART",
+      "Price": "$8.63"
+    },
+    {
+      "Coin": "VeChain",
+      "Url": "/currencies/vechain/",
+      "Symbol": "VEN",
+      "Price": "$0.239821"
+    },
+    {
+      "Coin": "Bitquence",
+      "Url": "/currencies/bitquence/",
+      "Symbol": "BQX",
+      "Price": "$0.873241"
+    },
+    {
+      "Coin": "KuCoin Shares",
+      "Url": "/currencies/kucoin/",
+      "Symbol": "KCS",
+      "Price": "$0.693156"
+    },
+    {
+      "Coin": "ChainLink",
+      "Url": "/currencies/chainlink/",
+      "Symbol": "LINK",
+      "Price": "$0.178096"
+    },
+    {
+      "Coin": "Power Ledger",
+      "Url": "/currencies/power-ledger/",
+      "Symbol": "POWR",
+      "Price": "$0.178132"
+    },
+    {
+      "Coin": "FunFair",
+      "Url": "/currencies/funfair/",
+      "Symbol": "FUN",
+      "Price": "$0.015311"
+    },
+    {
+      "Coin": "Nxt",
+      "Url": "/currencies/nxt/",
+      "Symbol": "NXT",
+      "Price": "$0.060336"
+    },
+    {
+      "Coin": "Monaco",
+      "Url": "/currencies/monaco/",
+      "Symbol": "MCO",
+      "Price": "$5.78"
+    },
+    {
+      "Coin": "Storj",
+      "Url": "/currencies/storj/",
+      "Symbol": "STORJ",
+      "Price": "$0.554664"
+    },
+    {
+      "Coin": "Cryptonex",
+      "Url": "/currencies/cryptonex/",
+      "Symbol": "CNX",
+      "Price": "$1.25"
+    },
+    {
+      "Coin": "MCAP",
+      "Url": "/currencies/mcap/",
+      "Symbol": "MCAP",
+      "Price": "$1.45"
+    },
+    {
+      "Coin": "Nexus",
+      "Url": "/currencies/nexus/",
+      "Symbol": "NXS",
+      "Price": "$0.994239"
+    },
+    {
+      "Coin": "ZenCash",
+      "Url": "/currencies/zencash/",
+      "Symbol": "ZEN",
+      "Price": "$21.72"
+    },
+    {
+      "Coin": "Streamr DATAcoin",
+      "Url": "/currencies/streamr-datacoin/",
+      "Symbol": "DATA",
+      "Price": "$0.076932"
+    },
+    {
+      "Coin": "Neblio",
+      "Url": "/currencies/neblio/",
+      "Symbol": "NEBL",
+      "Price": "$4.14"
+    },
+    {
+      "Coin": "Zeusshield",
+      "Url": "/currencies/zeusshield/",
+      "Symbol": "ZSC",
+      "Price": "$0.044438"
+    },
+    {
+      "Coin": "NAV Coin",
+      "Url": "/currencies/nav-coin/",
+      "Symbol": "NAV",
+      "Price": "$0.819319"
+    },
+    {
+      "Coin": "SmartCash",
+      "Url": "/currencies/smartcash/",
+      "Symbol": "SMART",
+      "Price": "$0.059142"
+    },
+    {
+      "Coin": "AdEx",
+      "Url": "/currencies/adx-net/",
+      "Symbol": "ADX",
+      "Price": "$0.880909"
+    },
+    {
+      "Coin": "Open Trading ...",
+      "Url": "/currencies/open-trading-network/",
+      "Symbol": "OTN",
+      "Price": "$35.85"
+    },
+    {
+      "Coin": "ZCoin",
+      "Url": "/currencies/zcoin/",
+      "Symbol": "XZC",
+      "Price": "$14.27"
+    },
+    {
+      "Coin": "Bitdeal",
+      "Url": "/currencies/bitdeal/",
+      "Symbol": "BDL",
+      "Price": "$0.301946"
+    },
+    {
+      "Coin": "B3Coin",
+      "Url": "/currencies/b3coin/",
+      "Symbol": "B3",
+      "Price": "$0.002694"
+    },
+    {
+      "Coin": "Loopring",
+      "Url": "/currencies/loopring/",
+      "Symbol": "LRC",
+      "Price": "$0.157051"
+    },
+    {
+      "Coin": "Edgeless",
+      "Url": "/currencies/edgeless/",
+      "Symbol": "EDG",
+      "Price": "$0.547762"
+    },
+    {
+      "Coin": "FairCoin",
+      "Url": "/currencies/faircoin/",
+      "Symbol": "FAIR",
+      "Price": "$0.843638"
+    },
+    {
+      "Coin": "Ubiq",
+      "Url": "/currencies/ubiq/",
+      "Symbol": "UBQ",
+      "Price": "$1.14"
+    },
+    {
+      "Coin": "Groestlcoin",
+      "Url": "/currencies/groestlcoin/",
+      "Symbol": "GRS",
+      "Price": "$0.637706"
+    },
+    {
+      "Coin": "iExec RLC",
+      "Url": "/currencies/rlc/",
+      "Symbol": "RLC",
+      "Price": "$0.548083"
+    },
+    {
+      "Coin": "I/O Coin",
+      "Url": "/currencies/iocoin/",
+      "Symbol": "IOC",
+      "Price": "$2.62"
+    },
+    {
+      "Coin": "NoLimitCoin",
+      "Url": "/currencies/nolimitcoin/",
+      "Symbol": "NLC2",
+      "Price": "$0.197897"
+    },
+    {
+      "Coin": "Aragon",
+      "Url": "/currencies/aragon/",
+      "Symbol": "ANT",
+      "Price": "$1.19"
+    },
+    {
+      "Coin": "Kin",
+      "Url": "/currencies/kin/",
+      "Symbol": "KIN",
+      "Price": "$0.000051"
+    },
+    {
+      "Coin": "TaaS",
+      "Url": "/currencies/taas/",
+      "Symbol": "TAAS",
+      "Price": "$4.72"
+    },
+    {
+      "Coin": "AirSwap",
+      "Url": "/currencies/airswap/",
+      "Symbol": "AST",
+      "Price": "$0.243440"
+    },
+    {
+      "Coin": "Modum",
+      "Url": "/currencies/modum/",
+      "Symbol": "MOD",
+      "Price": "$2.09"
+    },
+    {
+      "Coin": "Decentraland",
+      "Url": "/currencies/decentraland/",
+      "Symbol": "MANA",
+      "Price": "$0.015892"
+    },
+    {
+      "Coin": "Peercoin",
+      "Url": "/currencies/peercoin/",
+      "Symbol": "PPC",
+      "Price": "$1.47"
+    },
+    {
+      "Coin": "Gulden",
+      "Url": "/currencies/gulden/",
+      "Symbol": "NLG",
+      "Price": "$0.099474"
+    },
+    {
+      "Coin": "Wings",
+      "Url": "/currencies/wings/",
+      "Symbol": "WINGS",
+      "Price": "$0.393105"
+    },
+    {
+      "Coin": "Melon",
+      "Url": "/currencies/melon/",
+      "Symbol": "MLN",
+      "Price": "$57.63"
+    },
+    {
+      "Coin": "Dentacoin",
+      "Url": "/currencies/dentacoin/",
+      "Symbol": "DCN",
+      "Price": "$0.000106"
+    },
+    {
+      "Coin": "Viacoin",
+      "Url": "/currencies/viacoin/",
+      "Symbol": "VIA",
+      "Price": "$1.46"
+    },
+    {
+      "Coin": "Request Network",
+      "Url": "/currencies/request-network/",
+      "Symbol": "REQ",
+      "Price": "$0.051996"
+    },
+    {
+      "Coin": "ATBCoin",
+      "Url": "/currencies/atbcoin/",
+      "Symbol": "ATB",
+      "Price": "$0.843955"
+    },
+    {
+      "Coin": "Counterparty",
+      "Url": "/currencies/counterparty/",
+      "Symbol": "XCP",
+      "Price": "$12.49"
+    },
+    {
+      "Coin": "Quantum Resis...",
+      "Url": "/currencies/quantum-resistant-ledger/",
+      "Symbol": "QRL",
+      "Price": "$0.627606"
+    },
+    {
+      "Coin": "Amber",
+      "Url": "/currencies/amber/",
+      "Symbol": "AMB",
+      "Price": "$0.224961"
+    },
+    {
+      "Coin": "Enigma",
+      "Url": "/currencies/enigma-project/",
+      "Symbol": "ENG",
+      "Price": "$0.415874"
+    },
+    {
+      "Coin": "LEOcoin",
+      "Url": "/currencies/leocoin/",
+      "Symbol": "LEO",
+      "Price": "$0.332025"
+    },
+    {
+      "Coin": "Moeda Loyalty...",
+      "Url": "/currencies/moeda-loyalty-points/",
+      "Symbol": "MDA",
+      "Price": "$1.57"
+    },
+    {
+      "Coin": "SONM",
+      "Url": "/currencies/sonm/",
+      "Symbol": "SNM",
+      "Price": "$0.084298"
+    },
+    {
+      "Coin": "Achain",
+      "Url": "/currencies/achain/",
+      "Symbol": "ACT",
+      "Price": "$0.100980"
+    },
+    {
+      "Coin": "ReddCoin",
+      "Url": "/currencies/reddcoin/",
+      "Symbol": "RDD",
+      "Price": "$0.001034"
+    },
+    {
+      "Coin": "MobileGo",
+      "Url": "/currencies/mobilego/",
+      "Symbol": "MGO",
+      "Price": "$0.301001"
+    },
+    {
+      "Coin": "SuperNET",
+      "Url": "/currencies/supernet-unity/",
+      "Symbol": "UNITY",
+      "Price": "$36.05"
+    },
+    {
+      "Coin": "Rise",
+      "Url": "/currencies/rise/",
+      "Symbol": "RISE",
+      "Price": "$0.251508"
+    },
+    {
+      "Coin": "FirstBlood",
+      "Url": "/currencies/firstblood/",
+      "Symbol": "1ST",
+      "Price": "$0.332528"
+    },
+    {
+      "Coin": "Tierion",
+      "Url": "/currencies/tierion/",
+      "Symbol": "TNT",
+      "Price": "$0.065833"
+    },
+    {
+      "Coin": "PotCoin",
+      "Url": "/currencies/potcoin/",
+      "Symbol": "POT",
+      "Price": "$0.127120"
+    },
+    {
+      "Coin": "Cofound.it",
+      "Url": "/currencies/cofound-it/",
+      "Symbol": "CFI",
+      "Price": "$0.084918"
+    },
+    {
+      "Coin": "Everex",
+      "Url": "/currencies/everex/",
+      "Symbol": "EVX",
+      "Price": "$1.67"
+    },
+    {
+      "Coin": "Viberate",
+      "Url": "/currencies/viberate/",
+      "Symbol": "VIB",
+      "Price": "$0.168571"
+    },
+    {
+      "Coin": "BitBay",
+      "Url": "/currencies/bitbay/",
+      "Symbol": "BAY",
+      "Price": "$0.025859"
+    },
+    {
+      "Coin": "Substratum",
+      "Url": "/currencies/substratum/",
+      "Symbol": "SUB",
+      "Price": "$0.113152"
+    },
+    {
+      "Coin": "Emercoin",
+      "Url": "/currencies/emercoin/",
+      "Symbol": "EMC",
+      "Price": "$0.623158"
+    },
+    {
+      "Coin": "Centra",
+      "Url": "/currencies/centra/",
+      "Symbol": "CTR",
+      "Price": "$0.373282"
+    },
+    {
+      "Coin": "TokenCard",
+      "Url": "/currencies/tokencard/",
+      "Symbol": "TKN",
+      "Price": "$1.07"
+    },
+    {
+      "Coin": "ICOS",
+      "Url": "/currencies/icos/",
+      "Symbol": "ICOS",
+      "Price": "$44.60"
+    },
+    {
+      "Coin": "CloakCoin",
+      "Url": "/currencies/cloakcoin/",
+      "Symbol": "CLOAK",
+      "Price": "$4.82"
+    },
+    {
+      "Coin": "Stox",
+      "Url": "/currencies/stox/",
+      "Symbol": "STX",
+      "Price": "$0.823787"
+    },
+    {
+      "Coin": "Skycoin",
+      "Url": "/currencies/skycoin/",
+      "Symbol": "SKY",
+      "Price": "$4.09"
+    },
+    {
+      "Coin": "CoinDash",
+      "Url": "/currencies/coindash/",
+      "Symbol": "CDT",
+      "Price": "$0.043570"
+    },
+    {
+      "Coin": "Pillar",
+      "Url": "/currencies/pillar/",
+      "Symbol": "PLR",
+      "Price": "$0.106023"
+    },
+    {
+      "Coin": "district0x",
+      "Url": "/currencies/district0x/",
+      "Symbol": "DNT",
+      "Price": "$0.039779"
+    },
+    {
+      "Coin": "Credence Coin",
+      "Url": "/currencies/credence-coin/",
+      "Symbol": "CRDNC",
+      "Price": "$7.15"
+    },
+    {
+      "Coin": "WeTrust",
+      "Url": "/currencies/trust/",
+      "Symbol": "TRST",
+      "Price": "$0.255852"
+    },
+    {
+      "Coin": "Xaurum",
+      "Url": "/currencies/xaurum/",
+      "Symbol": "XAUR",
+      "Price": "$0.185013"
+    },
+    {
+      "Coin": "Elastic",
+      "Url": "/currencies/elastic/",
+      "Symbol": "XEL",
+      "Price": "$0.265524"
+    },
+    {
+      "Coin": "Diamond",
+      "Url": "/currencies/diamond/",
+      "Symbol": "DMD",
+      "Price": "$9.19"
+    },
+    {
+      "Coin": "DECENT",
+      "Url": "/currencies/decent/",
+      "Symbol": "DCT",
+      "Price": "$0.448479"
+    },
+    {
+      "Coin": "Crown",
+      "Url": "/currencies/crown/",
+      "Symbol": "CRW",
+      "Price": "$1.44"
+    },
+    {
+      "Coin": "XPlay",
+      "Url": "/currencies/xplay/",
+      "Symbol": "XPA",
+      "Price": "$0.022840"
+    },
+    {
+      "Coin": "Aeon",
+      "Url": "/currencies/aeon/",
+      "Symbol": "AEON",
+      "Price": "$1.55"
+    },
+    {
+      "Coin": "Paragon",
+      "Url": "/currencies/paragon/",
+      "Symbol": "PRG",
+      "Price": "$0.349611"
+    },
+    {
+      "Coin": "Red Pulse",
+      "Url": "/currencies/red-pulse/",
+      "Symbol": "RPX",
+      "Price": "$0.040001"
+    },
+    {
+      "Coin": "The ChampCoin",
+      "Url": "/currencies/the-champcoin/",
+      "Symbol": "TCC",
+      "Price": "$0.130000"
+    },
+    {
+      "Coin": "Namecoin",
+      "Url": "/currencies/namecoin/",
+      "Symbol": "NMC",
+      "Price": "$1.44"
+    },
+    {
+      "Coin": "Feathercoin",
+      "Url": "/currencies/feathercoin/",
+      "Symbol": "FTC",
+      "Price": "$0.116398"
+    },
+    {
+      "Coin": "Eidoo",
+      "Url": "/currencies/eidoo/",
+      "Symbol": "EDO",
+      "Price": "$1.95"
+    },
+    {
+      "Coin": "Etheroll",
+      "Url": "/currencies/etheroll/",
+      "Symbol": "DICE",
+      "Price": "$2.87"
+    },
+    {
+      "Coin": "Rubycoin",
+      "Url": "/currencies/rubycoin/",
+      "Symbol": "RBY",
+      "Price": "$0.801599"
+    },
+    {
+      "Coin": "bitqy",
+      "Url": "/currencies/bitqy/",
+      "Symbol": "BQ",
+      "Price": "$0.012743"
+    },
+    {
+      "Coin": "Safe Exchange...",
+      "Url": "/currencies/safe-exchange-coin/",
+      "Symbol": "SAFEX",
+      "Price": "$0.008904"
+    },
+    {
+      "Coin": "Triggers",
+      "Url": "/currencies/triggers/",
+      "Symbol": "TRIG",
+      "Price": "$0.586658"
+    },
+    {
+      "Coin": "ION",
+      "Url": "/currencies/ion/",
+      "Symbol": "ION",
+      "Price": "$1.07"
+    },
+    {
+      "Coin": "OKCash",
+      "Url": "/currencies/okcash/",
+      "Symbol": "OK",
+      "Price": "$0.250918"
+    },
+    {
+      "Coin": "SIBCoin",
+      "Url": "/currencies/sibcoin/",
+      "Symbol": "SIB",
+      "Price": "$1.10"
+    },
+    {
+      "Coin": "Chronobank",
+      "Url": "/currencies/chronobank/",
+      "Symbol": "TIME",
+      "Price": "$24.08"
+    },
+    {
+      "Coin": "BlackCoin",
+      "Url": "/currencies/blackcoin/",
+      "Symbol": "BLK",
+      "Price": "$0.223577"
+    },
+    {
+      "Coin": "Dimecoin",
+      "Url": "/currencies/dimecoin/",
+      "Symbol": "DIME",
+      "Price": "$0.000032"
+    },
+    {
+      "Coin": "DomRaider",
+      "Url": "/currencies/domraider/",
+      "Symbol": "DRT",
+      "Price": "$0.032581"
+    },
+    {
+      "Coin": "Monetha",
+      "Url": "/currencies/monetha/",
+      "Symbol": "MTH",
+      "Price": "$0.077053"
+    },
+    {
+      "Coin": "PayPie",
+      "Url": "/currencies/paypie/",
+      "Symbol": "PPP",
+      "Price": "$0.202296"
+    },
+    {
+      "Coin": "E-coin",
+      "Url": "/currencies/e-coin/",
+      "Symbol": "ECN",
+      "Price": "$3.72"
+    },
+    {
+      "Coin": "ToaCoin",
+      "Url": "/currencies/toacoin/",
+      "Symbol": "TOA",
+      "Price": "$0.009356"
+    },
+    {
+      "Coin": "LBRY Credits",
+      "Url": "/currencies/library-credit/",
+      "Symbol": "LBC",
+      "Price": "$0.154069"
+    },
+    {
+      "Coin": "VeriCoin",
+      "Url": "/currencies/vericoin/",
+      "Symbol": "VRC",
+      "Price": "$0.526529"
+    },
+    {
+      "Coin": "GridCoin",
+      "Url": "/currencies/gridcoin/",
+      "Symbol": "GRC",
+      "Price": "$0.041061"
+    },
+    {
+      "Coin": "Revain",
+      "Url": "/currencies/revain/",
+      "Symbol": "R",
+      "Price": "$0.086325"
+    },
+    {
+      "Coin": "Peerplays",
+      "Url": "/currencies/peerplays-ppy/",
+      "Symbol": "PPY",
+      "Price": "$4.16"
+    },
+    {
+      "Coin": "Cindicator",
+      "Url": "/currencies/cindicator/",
+      "Symbol": "CND",
+      "Price": "$0.010904"
+    },
+    {
+      "Coin": "Energycoin",
+      "Url": "/currencies/energycoin/",
+      "Symbol": "ENRG",
+      "Price": "$0.128822"
+    },
+    {
+      "Coin": "BitDice",
+      "Url": "/currencies/bitdice/",
+      "Symbol": "CSNO",
+      "Price": "$0.220991"
+    },
+    {
+      "Coin": "DigitalNote",
+      "Url": "/currencies/digitalnote/",
+      "Symbol": "XDN",
+      "Price": "$0.002197"
+    },
+    {
+      "Coin": "Agoras Tokens",
+      "Url": "/currencies/agoras-tokens/",
+      "Symbol": "AGRS",
+      "Price": "$0.359949"
+    },
+    {
+      "Coin": "Humaniq",
+      "Url": "/currencies/humaniq/",
+      "Symbol": "HMQ",
+      "Price": "$0.090898"
+    },
+    {
+      "Coin": "Golos",
+      "Url": "/currencies/golos/",
+      "Symbol": "GOLOS",
+      "Price": "$0.118823"
+    },
+    {
+      "Coin": "Primas",
+      "Url": "/currencies/primas/",
+      "Symbol": "PST",
+      "Price": "$0.288245"
+    },
+    {
+      "Coin": "SolarCoin",
+      "Url": "/currencies/solarcoin/",
+      "Symbol": "SLR",
+      "Price": "$0.394883"
+    },
+    {
+      "Coin": "Rialto",
+      "Url": "/currencies/rialto/",
+      "Symbol": "XRL",
+      "Price": "$0.170871"
+    },
+    {
+      "Coin": "Pepe Cash",
+      "Url": "/currencies/pepe-cash/",
+      "Symbol": "PEPECASH",
+      "Price": "$0.020542"
+    },
+    {
+      "Coin": "SaluS",
+      "Url": "/currencies/salus/",
+      "Symbol": "SLS",
+      "Price": "$14.24"
+    },
+    {
+      "Coin": "Expanse",
+      "Url": "/currencies/expanse/",
+      "Symbol": "EXP",
+      "Price": "$1.81"
+    },
+    {
+      "Coin": "DubaiCoin",
+      "Url": "/currencies/dubaicoin-dbix/",
+      "Symbol": "DBIX",
+      "Price": "$9.72"
+    },
+    {
+      "Coin": "Blackmoon Crypto",
+      "Url": "/currencies/blackmoon-crypto/",
+      "Symbol": "BMC",
+      "Price": "$0.463236"
+    },
+    {
+      "Coin": "Po.et",
+      "Url": "/currencies/poet/",
+      "Symbol": "POE",
+      "Price": "$0.006412"
+    },
+    {
+      "Coin": "Mothership",
+      "Url": "/currencies/mothership/",
+      "Symbol": "MSP",
+      "Price": "$0.097737"
+    },
+    {
+      "Coin": "Credo",
+      "Url": "/currencies/credo/",
+      "Symbol": "CREDO",
+      "Price": "$0.024588"
+    },
+    {
+      "Coin": "Einsteinium",
+      "Url": "/currencies/einsteinium/",
+      "Symbol": "EMC2",
+      "Price": "$0.062099"
+    },
+    {
+      "Coin": "RaiBlocks",
+      "Url": "/currencies/raiblocks/",
+      "Symbol": "XRB",
+      "Price": "$0.100353"
+    },
+    {
+      "Coin": "WhiteCoin",
+      "Url": "/currencies/whitecoin/",
+      "Symbol": "XWC",
+      "Price": "$0.053547"
+    },
+    {
+      "Coin": "Numeraire",
+      "Url": "/currencies/numeraire/",
+      "Symbol": "NMR",
+      "Price": "$10.60"
+    },
+    {
+      "Coin": "Vcash",
+      "Url": "/currencies/vcash/",
+      "Symbol": "XVC",
+      "Price": "$0.863967"
+    },
+    {
+      "Coin": "TransferCoin",
+      "Url": "/currencies/transfercoin/",
+      "Symbol": "TX",
+      "Price": "$2.12"
+    },
+    {
+      "Coin": "Bitcore",
+      "Url": "/currencies/bitcore/",
+      "Symbol": "BTX",
+      "Price": "$10.94"
+    },
+    {
+      "Coin": "Omni",
+      "Url": "/currencies/omni/",
+      "Symbol": "OMNI",
+      "Price": "$23.19"
+    },
+    {
+      "Coin": "OAX",
+      "Url": "/currencies/oax/",
+      "Symbol": "OAX",
+      "Price": "$0.512503"
+    },
+    {
+      "Coin": "Waves Communi...",
+      "Url": "/currencies/waves-community-token/",
+      "Symbol": "WCT",
+      "Price": "$1.28"
+    },
+    {
+      "Coin": "Santiment Net...",
+      "Url": "/currencies/santiment/",
+      "Symbol": "SAN",
+      "Price": "$0.210816"
+    },
+    {
+      "Coin": "MonetaryUnit",
+      "Url": "/currencies/monetaryunit/",
+      "Symbol": "MUE",
+      "Price": "$0.098329"
+    },
+    {
+      "Coin": "Clams",
+      "Url": "/currencies/clams/",
+      "Symbol": "CLAM",
+      "Price": "$4.62"
+    },
+    {
+      "Coin": "Matchpool",
+      "Url": "/currencies/guppy/",
+      "Symbol": "GUP",
+      "Price": "$0.164950"
+    },
+    {
+      "Coin": "Polybius",
+      "Url": "/currencies/polybius/",
+      "Symbol": "PLBT",
+      "Price": "$3.22"
+    },
+    {
+      "Coin": "Asch",
+      "Url": "/currencies/asch/",
+      "Symbol": "XAS",
+      "Price": "$0.604467"
+    },
+    {
+      "Coin": "Nexium",
+      "Url": "/currencies/nexium/",
+      "Symbol": "NXC",
+      "Price": "$0.182992"
+    },
+    {
+      "Coin": "Agrello",
+      "Url": "/currencies/agrello-delta/",
+      "Symbol": "DLT",
+      "Price": "$0.141194"
+    },
+    {
+      "Coin": "Shift",
+      "Url": "/currencies/shift/",
+      "Symbol": "SHIFT",
+      "Price": "$1.07"
+    },
+    {
+      "Coin": "FlorinCoin",
+      "Url": "/currencies/florincoin/",
+      "Symbol": "FLO",
+      "Price": "$0.086512"
+    },
+    {
+      "Coin": "Aventus",
+      "Url": "/currencies/aventus/",
+      "Symbol": "AVT",
+      "Price": "$1.99"
+    },
+    {
+      "Coin": "Synereo",
+      "Url": "/currencies/synereo/",
+      "Symbol": "AMP",
+      "Price": "$0.144927"
+    },
+    {
+      "Coin": "Mysterium",
+      "Url": "/currencies/mysterium/",
+      "Symbol": "MYST",
+      "Price": "$0.611551"
+    },
+    {
+      "Coin": "adToken",
+      "Url": "/currencies/adtoken/",
+      "Symbol": "ADT",
+      "Price": "$0.019642"
+    },
+    {
+      "Coin": "Databits",
+      "Url": "/currencies/databits/",
+      "Symbol": "DTB",
+      "Price": "$0.506759"
+    },
+    {
+      "Coin": "Centurion",
+      "Url": "/currencies/centurion/",
+      "Symbol": "CNT",
+      "Price": "$0.155989"
+    },
+    {
+      "Coin": "Lunyr",
+      "Url": "/currencies/lunyr/",
+      "Symbol": "LUN",
+      "Price": "$4.91"
+    },
+    {
+      "Coin": "ALIS",
+      "Url": "/currencies/alis/",
+      "Symbol": "ALIS",
+      "Price": "$0.296863"
+    },
+    {
+      "Coin": "Patientory",
+      "Url": "/currencies/patientory/",
+      "Symbol": "PTOY",
+      "Price": "$0.159342"
+    },
+    {
+      "Coin": "Burst",
+      "Url": "/currencies/burst/",
+      "Symbol": "BURST",
+      "Price": "$0.006113"
+    },
+    {
+      "Coin": "Soarcoin",
+      "Url": "/currencies/soarcoin/",
+      "Symbol": "SOAR",
+      "Price": "$0.015467"
+    },
+    {
+      "Coin": "Radium",
+      "Url": "/currencies/radium/",
+      "Symbol": "RADS",
+      "Price": "$3.21"
+    },
+    {
+      "Coin": "Unobtanium",
+      "Url": "/currencies/unobtanium/",
+      "Symbol": "UNO",
+      "Price": "$54.82"
+    },
+    {
+      "Coin": "Greencoin",
+      "Url": "/currencies/greencoin/",
+      "Symbol": "GRE",
+      "Price": "$0.002946"
+    },
+    {
+      "Coin": "Spectrecoin",
+      "Url": "/currencies/spectrecoin/",
+      "Symbol": "XSPEC",
+      "Price": "$0.492957"
+    },
+    {
+      "Coin": "BitSend",
+      "Url": "/currencies/bitsend/",
+      "Symbol": "BSD",
+      "Price": "$0.599545"
+    },
+    {
+      "Coin": "LoMoCoin",
+      "Url": "/currencies/lomocoin/",
+      "Symbol": "LMC",
+      "Price": "$0.045813"
+    },
+    {
+      "Coin": "KickCoin",
+      "Url": "/currencies/kickico/",
+      "Symbol": "KICK",
+      "Price": "$0.031125"
+    },
+    {
+      "Coin": "Novacoin",
+      "Url": "/currencies/novacoin/",
+      "Symbol": "NVC",
+      "Price": "$5.22"
+    },
+    {
+      "Coin": "Swarm City",
+      "Url": "/currencies/swarm-city/",
+      "Symbol": "SWT",
+      "Price": "$1.27"
+    },
+    {
+      "Coin": "PRIZM",
+      "Url": "/currencies/prizm/",
+      "Symbol": "PZM",
+      "Price": "$0.986071"
+    },
+    {
+      "Coin": "Nebulas Token",
+      "Url": "/currencies/nebulas-token/",
+      "Symbol": "NAS",
+      "Price": "$1.93"
+    },
+    {
+      "Coin": "BCAP",
+      "Url": "/currencies/bcap/",
+      "Symbol": "BCAP",
+      "Price": "$0.956867"
+    },
+    {
+      "Coin": "Compcoin",
+      "Url": "/currencies/compcoin/",
+      "Symbol": "CMP",
+      "Price": "$2.21"
+    },
+    {
+      "Coin": "Quantum",
+      "Url": "/currencies/quantum/",
+      "Symbol": "QAU",
+      "Price": "$0.115125"
+    },
+    {
+      "Coin": "Sphere",
+      "Url": "/currencies/sphere/",
+      "Symbol": "SPHR",
+      "Price": "$2.93"
+    },
+    {
+      "Coin": "Wagerr",
+      "Url": "/currencies/wagerr/",
+      "Symbol": "WGR",
+      "Price": "$0.049317"
+    },
+    {
+      "Coin": "Change",
+      "Url": "/currencies/change/",
+      "Symbol": "CAG",
+      "Price": "$0.284376"
+    },
+    {
+      "Coin": "InvestFeed",
+      "Url": "/currencies/investfeed/",
+      "Symbol": "IFT",
+      "Price": "$0.047001"
+    },
+    {
+      "Coin": "Gambit",
+      "Url": "/currencies/gambit/",
+      "Symbol": "GAM",
+      "Price": "$7.33"
+    },
+    {
+      "Coin": "NeosCoin",
+      "Url": "/currencies/neoscoin/",
+      "Symbol": "NEOS",
+      "Price": "$2.43"
+    },
+    {
+      "Coin": "DAO.Casino",
+      "Url": "/currencies/dao-casino/",
+      "Symbol": "BET",
+      "Price": "$0.051409"
+    },
+    {
+      "Coin": "Target Coin",
+      "Url": "/currencies/target-coin/",
+      "Symbol": "TGT",
+      "Price": "$0.009020"
+    },
+    {
+      "Coin": "iXledger",
+      "Url": "/currencies/ixledger/",
+      "Symbol": "IXT",
+      "Price": "$0.239338"
+    },
+    {
+      "Coin": "Lampix",
+      "Url": "/currencies/lampix/",
+      "Symbol": "PIX",
+      "Price": "$0.075105"
+    },
+    {
+      "Coin": "Maecenas",
+      "Url": "/currencies/maecenas/",
+      "Symbol": "ART",
+      "Price": "$0.281114"
+    },
+    {
+      "Coin": "Hive",
+      "Url": "/currencies/hive/",
+      "Symbol": "HVN",
+      "Price": "$0.022267"
+    },
+    {
+      "Coin": "PinkCoin",
+      "Url": "/currencies/pinkcoin/",
+      "Symbol": "PINK",
+      "Price": "$0.022635"
+    },
+    {
+      "Coin": "OBITS",
+      "Url": "/currencies/obits/",
+      "Symbol": "OBITS",
+      "Price": "$0.511458"
+    },
+    {
+      "Coin": "Nimiq",
+      "Url": "/currencies/nimiq/",
+      "Symbol": "NET",
+      "Price": "$0.765547"
+    },
+    {
+      "Coin": "Voxels",
+      "Url": "/currencies/voxels/",
+      "Symbol": "VOX",
+      "Price": "$0.037883"
+    },
+    {
+      "Coin": "Curecoin",
+      "Url": "/currencies/curecoin/",
+      "Symbol": "CURE",
+      "Price": "$0.333955"
+    },
+    {
+      "Coin": "Bitcloud",
+      "Url": "/currencies/bitcloud/",
+      "Symbol": "BTDX",
+      "Price": "$0.534333"
+    },
+    {
+      "Coin": "EncryptoTel [...",
+      "Url": "/currencies/encryptotel/",
+      "Symbol": "ETT",
+      "Price": "$0.124725"
+    },
+    {
+      "Coin": "E-Dinar Coin",
+      "Url": "/currencies/e-dinar-coin/",
+      "Symbol": "EDR",
+      "Price": "$0.008665"
+    },
+    {
+      "Coin": "Bitcrystals",
+      "Url": "/currencies/bitcrystals/",
+      "Symbol": "BCY",
+      "Price": "$0.327166"
+    },
+    {
+      "Coin": "Dovu",
+      "Url": "/currencies/dovu/",
+      "Symbol": "DOVU",
+      "Price": "$0.226471"
+    },
+    {
+      "Coin": "NVO",
+      "Url": "/currencies/nvo/",
+      "Symbol": "NVST",
+      "Price": "$0.501262"
+    },
+    {
+      "Coin": "Incent",
+      "Url": "/currencies/incent/",
+      "Symbol": "INCNT",
+      "Price": "$0.159707"
+    },
+    {
+      "Coin": "Rivetz",
+      "Url": "/currencies/rivetz/",
+      "Symbol": "RVT",
+      "Price": "$0.278707"
+    },
+    {
+      "Coin": "Kore",
+      "Url": "/currencies/korecoin/",
+      "Symbol": "KORE",
+      "Price": "$3.57"
+    },
+    {
+      "Coin": "bitCNY",
+      "Url": "/currencies/bitcny/",
+      "Symbol": "BITCNY",
+      "Price": "$0.148276"
+    },
+    {
+      "Coin": "Blocktix",
+      "Url": "/currencies/blocktix/",
+      "Symbol": "TIX",
+      "Price": "$0.177256"
+    },
+    {
+      "Coin": "Prospectors Gold",
+      "Url": "/currencies/prospectors-gold/",
+      "Symbol": "PGL",
+      "Price": "$0.108555"
+    },
+    {
+      "Coin": "XTRABYTES",
+      "Url": "/currencies/xtrabytes/",
+      "Symbol": "XBY",
+      "Price": "$0.016254"
+    },
+    {
+      "Coin": "COSS",
+      "Url": "/currencies/coss/",
+      "Symbol": "COSS",
+      "Price": "$0.084133"
+    },
+    {
+      "Coin": "vSlice",
+      "Url": "/currencies/vslice/",
+      "Symbol": "VSL",
+      "Price": "$0.201301"
+    },
+    {
+      "Coin": "Pluton",
+      "Url": "/currencies/pluton/",
+      "Symbol": "PLU",
+      "Price": "$7.44"
+    },
+    {
+      "Coin": "CVCoin",
+      "Url": "/currencies/cvcoin/",
+      "Symbol": "CVCOIN",
+      "Price": "$0.633911"
+    },
+    {
+      "Coin": "CasinoCoin",
+      "Url": "/currencies/casinocoin/",
+      "Symbol": "CSC",
+      "Price": "$0.159695"
+    },
+    {
+      "Coin": "BitBean",
+      "Url": "/currencies/bitbean/",
+      "Symbol": "BITB",
+      "Price": "$0.002786"
+    },
+    {
+      "Coin": "Obsidian",
+      "Url": "/currencies/obsidian/",
+      "Symbol": "ODN",
+      "Price": "$0.251672"
+    },
+    {
+      "Coin": "GoldCoin",
+      "Url": "/currencies/goldcoin/",
+      "Symbol": "GLD",
+      "Price": "$0.149459"
+    },
+    {
+      "Coin": "Bitcoin Plus",
+      "Url": "/currencies/bitcoin-plus/",
+      "Symbol": "XBC",
+      "Price": "$58.95"
+    },
+    {
+      "Coin": "Musicoin",
+      "Url": "/currencies/musicoin/",
+      "Symbol": "MUSIC",
+      "Price": "$0.013930"
+    },
+    {
+      "Coin": "HTMLCOIN",
+      "Url": "/currencies/htmlcoin/",
+      "Symbol": "HTML5",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "AirToken",
+      "Url": "/currencies/airtoken/",
+      "Symbol": "AIR",
+      "Price": "$0.005653"
+    },
+    {
+      "Coin": "Sequence",
+      "Url": "/currencies/sequence/",
+      "Symbol": "SEQ",
+      "Price": "$0.130295"
+    },
+    {
+      "Coin": "FoldingCoin",
+      "Url": "/currencies/foldingcoin/",
+      "Symbol": "FLDC",
+      "Price": "$0.011038"
+    },
+    {
+      "Coin": "Project Decorum",
+      "Url": "/currencies/project-decorum/",
+      "Symbol": "PDC",
+      "Price": "$0.115122"
+    },
+    {
+      "Coin": "Dynamic",
+      "Url": "/currencies/dynamic/",
+      "Symbol": "DYN",
+      "Price": "$3.28"
+    },
+    {
+      "Coin": "BlockMason Cr...",
+      "Url": "/currencies/blockmason/",
+      "Symbol": "BCPT",
+      "Price": "$0.126793"
+    },
+    {
+      "Coin": "Rupee",
+      "Url": "/currencies/rupee/",
+      "Symbol": "RUP",
+      "Price": "$0.254274"
+    },
+    {
+      "Coin": "ExclusiveCoin",
+      "Url": "/currencies/exclusivecoin/",
+      "Symbol": "EXCL",
+      "Price": "$1.29"
+    },
+    {
+      "Coin": "Creditbit",
+      "Url": "/currencies/creditbit/",
+      "Symbol": "CRB",
+      "Price": "$0.337555"
+    },
+    {
+      "Coin": "Qwark",
+      "Url": "/currencies/qwark/",
+      "Symbol": "QWARK",
+      "Price": "$0.139893"
+    },
+    {
+      "Coin": "Auroracoin",
+      "Url": "/currencies/auroracoin/",
+      "Symbol": "AUR",
+      "Price": "$0.628519"
+    },
+    {
+      "Coin": "ZrCoin",
+      "Url": "/currencies/zrcoin/",
+      "Symbol": "ZRC",
+      "Price": "$1.44"
+    },
+    {
+      "Coin": "VIBE",
+      "Url": "/currencies/vibe/",
+      "Symbol": "VIBE",
+      "Price": "$0.030782"
+    },
+    {
+      "Coin": "EquiTrader",
+      "Url": "/currencies/equitrader/",
+      "Symbol": "EQT",
+      "Price": "$0.534585"
+    },
+    {
+      "Coin": "EuropeCoin",
+      "Url": "/currencies/europecoin/",
+      "Symbol": "ERC",
+      "Price": "$0.516097"
+    },
+    {
+      "Coin": "Global Curren...",
+      "Url": "/currencies/global-currency-reserve/",
+      "Symbol": "GCR",
+      "Price": "$0.049128"
+    },
+    {
+      "Coin": "MyBit Token",
+      "Url": "/currencies/mybit-token/",
+      "Symbol": "MYB",
+      "Price": "$1.92"
+    },
+    {
+      "Coin": "BlockCAT",
+      "Url": "/currencies/blockcat/",
+      "Symbol": "CAT",
+      "Price": "$0.662647"
+    },
+    {
+      "Coin": "ArtByte",
+      "Url": "/currencies/applebyte/",
+      "Symbol": "ABY",
+      "Price": "$0.006114"
+    },
+    {
+      "Coin": "XCurrency",
+      "Url": "/currencies/xcurrency/",
+      "Symbol": "XC",
+      "Price": "$0.820953"
+    },
+    {
+      "Coin": "AudioCoin",
+      "Url": "/currencies/audiocoin/",
+      "Symbol": "ADC",
+      "Price": "$0.005753"
+    },
+    {
+      "Coin": "Circuits of V...",
+      "Url": "/currencies/circuits-of-value/",
+      "Symbol": "COVAL",
+      "Price": "$0.004788"
+    },
+    {
+      "Coin": "Voise",
+      "Url": "/currencies/voisecom/",
+      "Symbol": "VOISE",
+      "Price": "$0.007404"
+    },
+    {
+      "Coin": "HEAT",
+      "Url": "/currencies/heat-ledger/",
+      "Symbol": "HEAT",
+      "Price": "$0.158526"
+    },
+    {
+      "Coin": "TrueFlip",
+      "Url": "/currencies/trueflip/",
+      "Symbol": "TFL",
+      "Price": "$0.760602"
+    },
+    {
+      "Coin": "Tao",
+      "Url": "/currencies/tao/",
+      "Symbol": "XTO",
+      "Price": "$0.145541"
+    },
+    {
+      "Coin": "NuShares",
+      "Url": "/currencies/nushares/",
+      "Symbol": "NSR",
+      "Price": "$0.001694"
+    },
+    {
+      "Coin": "Masternodecoin",
+      "Url": "/currencies/masternodecoin/",
+      "Symbol": "MTNC",
+      "Price": "$0.099175"
+    },
+    {
+      "Coin": "Zeitcoin",
+      "Url": "/currencies/zeitcoin/",
+      "Symbol": "ZEIT",
+      "Price": "$0.000127"
+    },
+    {
+      "Coin": "Mooncoin",
+      "Url": "/currencies/mooncoin/",
+      "Symbol": "MOON",
+      "Price": "$0.000021"
+    },
+    {
+      "Coin": "Stealthcoin",
+      "Url": "/currencies/stealthcoin/",
+      "Symbol": "XST",
+      "Price": "$0.170211"
+    },
+    {
+      "Coin": "Pesetacoin",
+      "Url": "/currencies/pesetacoin/",
+      "Symbol": "PTC",
+      "Price": "$0.035188"
+    },
+    {
+      "Coin": "PoSW Coin",
+      "Url": "/currencies/posw-coin/",
+      "Symbol": "POSW",
+      "Price": "$0.104344"
+    },
+    {
+      "Coin": "Synergy",
+      "Url": "/currencies/synergy/",
+      "Symbol": "SNRG",
+      "Price": "$1.42"
+    },
+    {
+      "Coin": "Pascal Coin",
+      "Url": "/currencies/pascal-coin/",
+      "Symbol": "PASC",
+      "Price": "$0.294029"
+    },
+    {
+      "Coin": "Bela",
+      "Url": "/currencies/belacoin/",
+      "Symbol": "BELA",
+      "Price": "$0.114188"
+    },
+    {
+      "Coin": "Bitswift",
+      "Url": "/currencies/bitswift/",
+      "Symbol": "SWIFT",
+      "Price": "$1.07"
+    },
+    {
+      "Coin": "Propy",
+      "Url": "/currencies/propy/",
+      "Symbol": "PRO",
+      "Price": "$0.309535"
+    },
+    {
+      "Coin": "Myriad",
+      "Url": "/currencies/myriad/",
+      "Symbol": "XMY",
+      "Price": "$0.002817"
+    },
+    {
+      "Coin": "Yocoin",
+      "Url": "/currencies/yocoin/",
+      "Symbol": "YOC",
+      "Price": "$0.039080"
+    },
+    {
+      "Coin": "Hush",
+      "Url": "/currencies/hush/",
+      "Symbol": "HUSH",
+      "Price": "$1.87"
+    },
+    {
+      "Coin": "VeriumReserve",
+      "Url": "/currencies/veriumreserve/",
+      "Symbol": "VRM",
+      "Price": "$3.02"
+    },
+    {
+      "Coin": "Syndicate",
+      "Url": "/currencies/syndicate/",
+      "Symbol": "SYNX",
+      "Price": "$0.251116"
+    },
+    {
+      "Coin": "TheGCCcoin",
+      "Url": "/currencies/thegcccoin/",
+      "Symbol": "GCC",
+      "Price": "$0.008096"
+    },
+    {
+      "Coin": "Terracoin",
+      "Url": "/currencies/terracoin/",
+      "Symbol": "TRC",
+      "Price": "$0.186394"
+    },
+    {
+      "Coin": "Internet of P...",
+      "Url": "/currencies/internet-of-people/",
+      "Symbol": "IOP",
+      "Price": "$2.17"
+    },
+    {
+      "Coin": "APX",
+      "Url": "/currencies/apx/",
+      "Symbol": "APX",
+      "Price": "$5.39"
+    },
+    {
+      "Coin": "Hedge",
+      "Url": "/currencies/hedge/",
+      "Symbol": "HDG",
+      "Price": "$1.02"
+    },
+    {
+      "Coin": "HempCoin",
+      "Url": "/currencies/hempcoin/",
+      "Symbol": "THC",
+      "Price": "$0.016425"
+    },
+    {
+      "Coin": "Blitzcash",
+      "Url": "/currencies/blitzcash/",
+      "Symbol": "BLITZ",
+      "Price": "$0.905656"
+    },
+    {
+      "Coin": "bitUSD",
+      "Url": "/currencies/bitusd/",
+      "Symbol": "BITUSD",
+      "Price": "$0.991533"
+    },
+    {
+      "Coin": "TrustPlus",
+      "Url": "/currencies/trustplus/",
+      "Symbol": "TRUST",
+      "Price": "$0.113502"
+    },
+    {
+      "Coin": "BlueCoin",
+      "Url": "/currencies/bluecoin/",
+      "Symbol": "BLU",
+      "Price": "$0.006313"
+    },
+    {
+      "Coin": "FLiK",
+      "Url": "/currencies/flik/",
+      "Symbol": "FLIK",
+      "Price": "$0.060183"
+    },
+    {
+      "Coin": "Social",
+      "Url": "/currencies/social/",
+      "Symbol": "SCL",
+      "Price": "$0.214696"
+    },
+    {
+      "Coin": "Memetic",
+      "Url": "/currencies/memetic/",
+      "Symbol": "MEME",
+      "Price": "$0.217944"
+    },
+    {
+      "Coin": "Neutron",
+      "Url": "/currencies/neutron/",
+      "Symbol": "NTRN",
+      "Price": "$0.111903"
+    },
+    {
+      "Coin": "REAL",
+      "Url": "/currencies/real/",
+      "Symbol": "REAL",
+      "Price": "$0.349989"
+    },
+    {
+      "Coin": "Bitmark",
+      "Url": "/currencies/bitmark/",
+      "Symbol": "BTM",
+      "Price": "$0.489901"
+    },
+    {
+      "Coin": "GO! Coin",
+      "Url": "/currencies/go-coin/",
+      "Symbol": "XGOX",
+      "Price": "$0.018045"
+    },
+    {
+      "Coin": "SunContract",
+      "Url": "/currencies/suncontract/",
+      "Symbol": "SNC",
+      "Price": "$0.032029"
+    },
+    {
+      "Coin": "GeoCoin",
+      "Url": "/currencies/geocoin/",
+      "Symbol": "GEO",
+      "Price": "$1.02"
+    },
+    {
+      "Coin": "Hubii Network",
+      "Url": "/currencies/hubii-network/",
+      "Symbol": "HBT",
+      "Price": "$0.151087"
+    },
+    {
+      "Coin": "Steem Dollars",
+      "Url": "/currencies/steem-dollars/",
+      "Symbol": "SBD",
+      "Price": "$0.997686"
+    },
+    {
+      "Coin": "2GIVE",
+      "Url": "/currencies/2give/",
+      "Symbol": "2GIVE",
+      "Price": "$0.006408"
+    },
+    {
+      "Coin": "DNotes",
+      "Url": "/currencies/dnotes/",
+      "Symbol": "NOTE",
+      "Price": "$0.025526"
+    },
+    {
+      "Coin": "BridgeCoin",
+      "Url": "/currencies/bridgecoin/",
+      "Symbol": "BCO",
+      "Price": "$0.123928"
+    },
+    {
+      "Coin": "Breakout Stake",
+      "Url": "/currencies/breakout-stake/",
+      "Symbol": "BRX",
+      "Price": "$0.509394"
+    },
+    {
+      "Coin": "Royal Kingdom...",
+      "Url": "/currencies/royal-kingdom-coin/",
+      "Symbol": "RKC",
+      "Price": "$1.18"
+    },
+    {
+      "Coin": "VIVO",
+      "Url": "/currencies/vivo/",
+      "Symbol": "VIVO",
+      "Price": "$5.27"
+    },
+    {
+      "Coin": "Dent",
+      "Url": "/currencies/dent/",
+      "Symbol": "DENT",
+      "Price": "$0.000298"
+    },
+    {
+      "Coin": "PutinCoin",
+      "Url": "/currencies/putincoin/",
+      "Symbol": "PUT",
+      "Price": "$0.015638"
+    },
+    {
+      "Coin": "Riecoin",
+      "Url": "/currencies/riecoin/",
+      "Symbol": "RIC",
+      "Price": "$0.079989"
+    },
+    {
+      "Coin": "BitcoinZ",
+      "Url": "/currencies/bitcoinz/",
+      "Symbol": "BTCZ",
+      "Price": "$0.007221"
+    },
+    {
+      "Coin": "EverGreenCoin",
+      "Url": "/currencies/evergreencoin/",
+      "Symbol": "EGC",
+      "Price": "$0.228302"
+    },
+    {
+      "Coin": "Primecoin",
+      "Url": "/currencies/primecoin/",
+      "Symbol": "XPM",
+      "Price": "$0.142530"
+    },
+    {
+      "Coin": "ZClassic",
+      "Url": "/currencies/zclassic/",
+      "Symbol": "ZCL",
+      "Price": "$1.67"
+    },
+    {
+      "Coin": "Opus",
+      "Url": "/currencies/opus/",
+      "Symbol": "OPT",
+      "Price": "$0.020618"
+    },
+    {
+      "Coin": "SpreadCoin",
+      "Url": "/currencies/spreadcoin/",
+      "Symbol": "SPR",
+      "Price": "$0.313766"
+    },
+    {
+      "Coin": "Sexcoin",
+      "Url": "/currencies/sexcoin/",
+      "Symbol": "SXC",
+      "Price": "$0.022530"
+    },
+    {
+      "Coin": "Tracto",
+      "Url": "/currencies/tracto/",
+      "Symbol": "TRCT",
+      "Price": "$0.957753"
+    },
+    {
+      "Coin": "Breakout",
+      "Url": "/currencies/breakout/",
+      "Symbol": "BRK",
+      "Price": "$0.149148"
+    },
+    {
+      "Coin": "Atmos",
+      "Url": "/currencies/atmos/",
+      "Symbol": "ATMS",
+      "Price": "$0.026665"
+    },
+    {
+      "Coin": "Unity Ingot",
+      "Url": "/currencies/unity-ingot/",
+      "Symbol": "UNY",
+      "Price": "$0.013106"
+    },
+    {
+      "Coin": "Remicoin",
+      "Url": "/currencies/remicoin/",
+      "Symbol": "RMC",
+      "Price": "$1.33"
+    },
+    {
+      "Coin": "LAToken",
+      "Url": "/currencies/latoken/",
+      "Symbol": "LA",
+      "Price": "$0.126223"
+    },
+    {
+      "Coin": "Autonio",
+      "Url": "/currencies/autonio/",
+      "Symbol": "NIO",
+      "Price": "$0.038683"
+    },
+    {
+      "Coin": "NEVERDIE",
+      "Url": "/currencies/neverdie/",
+      "Symbol": "NDC",
+      "Price": "$0.061915"
+    },
+    {
+      "Coin": "Primalbase Token",
+      "Url": "/currencies/primalbase/",
+      "Symbol": "PBT",
+      "Price": "$2508.27"
+    },
+    {
+      "Coin": "DeepOnion",
+      "Url": "/currencies/deeponion/",
+      "Symbol": "ONION",
+      "Price": "$0.664073"
+    },
+    {
+      "Coin": "Crave",
+      "Url": "/currencies/crave/",
+      "Symbol": "CRAVE",
+      "Price": "$1.73"
+    },
+    {
+      "Coin": "Bitland",
+      "Url": "/currencies/bitland/",
+      "Symbol": "CADASTRAL",
+      "Price": "$0.080869"
+    },
+    {
+      "Coin": "Visio",
+      "Url": "/currencies/visio/",
+      "Symbol": "VISIO",
+      "Price": "$0.047506"
+    },
+    {
+      "Coin": "ParkByte",
+      "Url": "/currencies/parkbyte/",
+      "Symbol": "PKB",
+      "Price": "$0.500906"
+    },
+    {
+      "Coin": "Indorse Token",
+      "Url": "/currencies/indorse-token/",
+      "Symbol": "IND",
+      "Price": "$0.050294"
+    },
+    {
+      "Coin": "DopeCoin",
+      "Url": "/currencies/dopecoin/",
+      "Symbol": "DOPE",
+      "Price": "$0.021008"
+    },
+    {
+      "Coin": "Mercury",
+      "Url": "/currencies/mercury/",
+      "Symbol": "MER",
+      "Price": "$0.023183"
+    },
+    {
+      "Coin": "Janus",
+      "Url": "/currencies/janus/",
+      "Symbol": "JNS",
+      "Price": "$0.099984"
+    },
+    {
+      "Coin": "vTorrent",
+      "Url": "/currencies/vtorrent/",
+      "Symbol": "VTR",
+      "Price": "$0.210063"
+    },
+    {
+      "Coin": "ClearPoll",
+      "Url": "/currencies/clearpoll/",
+      "Symbol": "POLL",
+      "Price": "$0.319738"
+    },
+    {
+      "Coin": "HelloGold",
+      "Url": "/currencies/hellogold/",
+      "Symbol": "HGT",
+      "Price": "$0.008436"
+    },
+    {
+      "Coin": "CryptoPing",
+      "Url": "/currencies/cryptoping/",
+      "Symbol": "PING",
+      "Price": "$0.220898"
+    },
+    {
+      "Coin": "Creativecoin",
+      "Url": "/currencies/creativecoin/",
+      "Symbol": "CREA",
+      "Price": "$0.168528"
+    },
+    {
+      "Coin": "Starta",
+      "Url": "/currencies/starta/",
+      "Symbol": "STA",
+      "Price": "$0.421179"
+    },
+    {
+      "Coin": "ATC Coin",
+      "Url": "/currencies/atc-coin/",
+      "Symbol": "ATCC",
+      "Price": "$0.199079"
+    },
+    {
+      "Coin": "Espers",
+      "Url": "/currencies/espers/",
+      "Symbol": "ESP",
+      "Price": "$0.000101"
+    },
+    {
+      "Coin": "Embers",
+      "Url": "/currencies/embers/",
+      "Symbol": "MBRS",
+      "Price": "$0.041738"
+    },
+    {
+      "Coin": "CannabisCoin",
+      "Url": "/currencies/cannabiscoin/",
+      "Symbol": "CANN",
+      "Price": "$0.026896"
+    },
+    {
+      "Coin": "Mintcoin",
+      "Url": "/currencies/mintcoin/",
+      "Symbol": "MINT",
+      "Price": "$0.000082"
+    },
+    {
+      "Coin": "Bismuth",
+      "Url": "/currencies/bismuth/",
+      "Symbol": "BIS",
+      "Price": "$0.418826"
+    },
+    {
+      "Coin": "Karbowanec",
+      "Url": "/currencies/karbowanec/",
+      "Symbol": "KRB",
+      "Price": "$0.433794"
+    },
+    {
+      "Coin": "Condensate",
+      "Url": "/currencies/condensate/",
+      "Symbol": "RAIN",
+      "Price": "$0.026675"
+    },
+    {
+      "Coin": "Zoin",
+      "Url": "/currencies/zoin/",
+      "Symbol": "ZOI",
+      "Price": "$0.133027"
+    },
+    {
+      "Coin": "Xios",
+      "Url": "/currencies/xios/",
+      "Symbol": "XIOS",
+      "Price": "$0.970621"
+    },
+    {
+      "Coin": "ChainCoin",
+      "Url": "/currencies/chaincoin/",
+      "Symbol": "CHC",
+      "Price": "$0.123144"
+    },
+    {
+      "Coin": "Startcoin",
+      "Url": "/currencies/startcoin/",
+      "Symbol": "START",
+      "Price": "$0.043486"
+    },
+    {
+      "Coin": "Quark",
+      "Url": "/currencies/quark/",
+      "Symbol": "QRK",
+      "Price": "$0.007735"
+    },
+    {
+      "Coin": "Tokes",
+      "Url": "/currencies/tokes/",
+      "Symbol": "TKS",
+      "Price": "$1.71"
+    },
+    {
+      "Coin": "e-Gulden",
+      "Url": "/currencies/e-gulden/",
+      "Symbol": "EFL",
+      "Price": "$0.124767"
+    },
+    {
+      "Coin": "ArcticCoin",
+      "Url": "/currencies/arcticcoin/",
+      "Symbol": "ARC",
+      "Price": "$0.077940"
+    },
+    {
+      "Coin": "MarteXcoin",
+      "Url": "/currencies/martexcoin/",
+      "Symbol": "MXT",
+      "Price": "$0.682266"
+    },
+    {
+      "Coin": "HunterCoin",
+      "Url": "/currencies/huntercoin/",
+      "Symbol": "HUC",
+      "Price": "$0.095088"
+    },
+    {
+      "Coin": "CHIPS",
+      "Url": "/currencies/chips/",
+      "Symbol": "CHIPS",
+      "Price": "$0.100907"
+    },
+    {
+      "Coin": "Zennies",
+      "Url": "/currencies/zennies/",
+      "Symbol": "ZENI",
+      "Price": "$0.001834"
+    },
+    {
+      "Coin": "Magi",
+      "Url": "/currencies/magi/",
+      "Symbol": "XMG",
+      "Price": "$0.241971"
+    },
+    {
+      "Coin": "Onix",
+      "Url": "/currencies/onix/",
+      "Symbol": "ONX",
+      "Price": "$0.066558"
+    },
+    {
+      "Coin": "Legends Room",
+      "Url": "/currencies/legends-room/",
+      "Symbol": "LGD",
+      "Price": "$0.910876"
+    },
+    {
+      "Coin": "LuckChain",
+      "Url": "/currencies/luckchain/",
+      "Symbol": "BASH",
+      "Price": "$0.002506"
+    },
+    {
+      "Coin": "XP",
+      "Url": "/currencies/xp/",
+      "Symbol": "XP",
+      "Price": "$0.000011"
+    },
+    {
+      "Coin": "Kolion",
+      "Url": "/currencies/kolion/",
+      "Symbol": "KLN",
+      "Price": "$2.86"
+    },
+    {
+      "Coin": "eBTC",
+      "Url": "/currencies/ebtcnew/",
+      "Symbol": "EBTC",
+      "Price": "$0.089506"
+    },
+    {
+      "Coin": "Pirl",
+      "Url": "/currencies/pirl/",
+      "Symbol": "PIRL",
+      "Price": "$0.575687"
+    },
+    {
+      "Coin": "AdShares",
+      "Url": "/currencies/adshares/",
+      "Symbol": "ADST",
+      "Price": "$0.138529"
+    },
+    {
+      "Coin": "Crypto Bullion",
+      "Url": "/currencies/cryptogenic-bullion/",
+      "Symbol": "CBX",
+      "Price": "$1.65"
+    },
+    {
+      "Coin": "CryptoInsight",
+      "Url": "/currencies/trackr/",
+      "Symbol": "TKR",
+      "Price": "$0.132131"
+    },
+    {
+      "Coin": "NewYorkCoin",
+      "Url": "/currencies/newyorkcoin/",
+      "Symbol": "NYC",
+      "Price": "$0.000013"
+    },
+    {
+      "Coin": "Bytecent",
+      "Url": "/currencies/bytecent/",
+      "Symbol": "BYC",
+      "Price": "$0.868902"
+    },
+    {
+      "Coin": "Oceanlab",
+      "Url": "/currencies/oceanlab/",
+      "Symbol": "OCL",
+      "Price": "$0.034341"
+    },
+    {
+      "Coin": "Dotcoin",
+      "Url": "/currencies/dotcoin/",
+      "Symbol": "DOT",
+      "Price": "$0.005926"
+    },
+    {
+      "Coin": "Elixir",
+      "Url": "/currencies/elixir/",
+      "Symbol": "ELIX",
+      "Price": "$0.066572"
+    },
+    {
+      "Coin": "Mao Zedong",
+      "Url": "/currencies/mao-zedong/",
+      "Symbol": "MAO",
+      "Price": "$0.244680"
+    },
+    {
+      "Coin": "Bitzeny",
+      "Url": "/currencies/bitzeny/",
+      "Symbol": "ZNY",
+      "Price": "$0.019214"
+    },
+    {
+      "Coin": "SkinCoin",
+      "Url": "/currencies/skincoin/",
+      "Symbol": "SKIN",
+      "Price": "$0.016075"
+    },
+    {
+      "Coin": "Adzcoin",
+      "Url": "/currencies/adzcoin/",
+      "Symbol": "ADZ",
+      "Price": "$0.031659"
+    },
+    {
+      "Coin": "NautilusCoin",
+      "Url": "/currencies/nautiluscoin/",
+      "Symbol": "NAUT",
+      "Price": "$0.084334"
+    },
+    {
+      "Coin": "Internxt",
+      "Url": "/currencies/internxt/",
+      "Symbol": "INXT",
+      "Price": "$2.16"
+    },
+    {
+      "Coin": "Helleniccoin",
+      "Url": "/currencies/helleniccoin/",
+      "Symbol": "HNC",
+      "Price": "$0.021267"
+    },
+    {
+      "Coin": "Giga Watt Token",
+      "Url": "/currencies/giga-watt-token/",
+      "Symbol": "WTT",
+      "Price": "$1.45"
+    },
+    {
+      "Coin": "Woodcoin",
+      "Url": "/currencies/woodcoin/",
+      "Symbol": "LOG",
+      "Price": "$0.162040"
+    },
+    {
+      "Coin": "eBoost",
+      "Url": "/currencies/eboostcoin/",
+      "Symbol": "EBST",
+      "Price": "$0.103632"
+    },
+    {
+      "Coin": "Gimli",
+      "Url": "/currencies/gimli/",
+      "Symbol": "GIM",
+      "Price": "$0.015405"
+    },
+    {
+      "Coin": "DraftCoin",
+      "Url": "/currencies/draftcoin/",
+      "Symbol": "DFT",
+      "Price": "$0.614998"
+    },
+    {
+      "Coin": "REX",
+      "Url": "/currencies/real-estate-tokens/",
+      "Symbol": "REX",
+      "Price": "$0.140960"
+    },
+    {
+      "Coin": "TrezarCoin",
+      "Url": "/currencies/trezarcoin/",
+      "Symbol": "TZC",
+      "Price": "$0.015683"
+    },
+    {
+      "Coin": "CryptoCarbon",
+      "Url": "/currencies/cryptocarbon/",
+      "Symbol": "CCRB",
+      "Price": "$0.334236"
+    },
+    {
+      "Coin": "Altcoin",
+      "Url": "/currencies/altcoin-alt/",
+      "Symbol": "ALT",
+      "Price": "$9.48"
+    },
+    {
+      "Coin": "MonacoCoin",
+      "Url": "/currencies/monacocoin/",
+      "Symbol": "XMCC",
+      "Price": "$0.474384"
+    },
+    {
+      "Coin": "HyperStake",
+      "Url": "/currencies/hyperstake/",
+      "Symbol": "HYP",
+      "Price": "$0.001106"
+    },
+    {
+      "Coin": "Influxcoin",
+      "Url": "/currencies/influxcoin/",
+      "Symbol": "INFX",
+      "Price": "$0.674876"
+    },
+    {
+      "Coin": "Darcrus",
+      "Url": "/currencies/darcrus/",
+      "Symbol": "DAR",
+      "Price": "$0.080796"
+    },
+    {
+      "Coin": "Growers Inter...",
+      "Url": "/currencies/growers-international/",
+      "Symbol": "GRWI",
+      "Price": "$0.958463"
+    },
+    {
+      "Coin": "UFO Coin",
+      "Url": "/currencies/ufo-coin/",
+      "Symbol": "UFO",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Fastcoin",
+      "Url": "/currencies/fastcoin/",
+      "Symbol": "FST",
+      "Price": "$0.008020"
+    },
+    {
+      "Coin": "Renos",
+      "Url": "/currencies/renos/",
+      "Symbol": "RNS",
+      "Price": "$0.030276"
+    },
+    {
+      "Coin": "Bitradio",
+      "Url": "/currencies/bitradio/",
+      "Symbol": "BRO",
+      "Price": "$0.171581"
+    },
+    {
+      "Coin": "NuBits",
+      "Url": "/currencies/nubits/",
+      "Symbol": "USNBT",
+      "Price": "$0.997576"
+    },
+    {
+      "Coin": "Dinastycoin",
+      "Url": "/currencies/dinastycoin/",
+      "Symbol": "DCY",
+      "Price": "$0.000668"
+    },
+    {
+      "Coin": "BriaCoin",
+      "Url": "/currencies/briacoin/",
+      "Symbol": "BRIA",
+      "Price": "$1.87"
+    },
+    {
+      "Coin": "Linda",
+      "Url": "/currencies/linda/",
+      "Symbol": "LINDA",
+      "Price": "$0.000151"
+    },
+    {
+      "Coin": "Happycoin",
+      "Url": "/currencies/happycoin/",
+      "Symbol": "HPC",
+      "Price": "$0.071996"
+    },
+    {
+      "Coin": "EmberCoin",
+      "Url": "/currencies/embercoin/",
+      "Symbol": "EMB",
+      "Price": "$0.000009"
+    },
+    {
+      "Coin": "FIMKrypto",
+      "Url": "/currencies/fimkrypto/",
+      "Symbol": "FIMK",
+      "Price": "$0.001473"
+    },
+    {
+      "Coin": "Sovereign Hero",
+      "Url": "/currencies/sovereign-hero/",
+      "Symbol": "HERO",
+      "Price": "$177.51"
+    },
+    {
+      "Coin": "Megacoin",
+      "Url": "/currencies/megacoin/",
+      "Symbol": "MEC",
+      "Price": "$0.022833"
+    },
+    {
+      "Coin": "HiCoin",
+      "Url": "/currencies/hicoin/",
+      "Symbol": "XHI",
+      "Price": "$0.004272"
+    },
+    {
+      "Coin": "SmileyCoin",
+      "Url": "/currencies/smileycoin/",
+      "Symbol": "SMLY",
+      "Price": "$0.000031"
+    },
+    {
+      "Coin": "Zetacoin",
+      "Url": "/currencies/zetacoin/",
+      "Symbol": "ZET",
+      "Price": "$0.004760"
+    },
+    {
+      "Coin": "LiteDoge",
+      "Url": "/currencies/litedoge/",
+      "Symbol": "LDOGE",
+      "Price": "$0.000053"
+    },
+    {
+      "Coin": "Unify",
+      "Url": "/currencies/unify/",
+      "Symbol": "UNIFY",
+      "Price": "$0.044499"
+    },
+    {
+      "Coin": "Bata",
+      "Url": "/currencies/bata/",
+      "Symbol": "BTA",
+      "Price": "$0.157304"
+    },
+    {
+      "Coin": "Rustbits",
+      "Url": "/currencies/rustbits/",
+      "Symbol": "RUSTBITS",
+      "Price": "$0.021930"
+    },
+    {
+      "Coin": "RouletteToken",
+      "Url": "/currencies/roulettetoken/",
+      "Symbol": "RLT",
+      "Price": "$0.075900"
+    },
+    {
+      "Coin": "Capricoin",
+      "Url": "/currencies/capricoin/",
+      "Symbol": "CPC",
+      "Price": "$0.372701"
+    },
+    {
+      "Coin": "KekCoin",
+      "Url": "/currencies/kekcoin/",
+      "Symbol": "KEK",
+      "Price": "$0.070340"
+    },
+    {
+      "Coin": "Linx",
+      "Url": "/currencies/linx/",
+      "Symbol": "LINX",
+      "Price": "$0.068542"
+    },
+    {
+      "Coin": "LIFE",
+      "Url": "/currencies/life/",
+      "Symbol": "LIFE",
+      "Price": "$0.000116"
+    },
+    {
+      "Coin": "Ethereum Gold",
+      "Url": "/currencies/ethereum-gold/",
+      "Symbol": "ETG",
+      "Price": "$0.060030"
+    },
+    {
+      "Coin": "Signatum",
+      "Url": "/currencies/signatum/",
+      "Symbol": "SIGT",
+      "Price": "$0.006631"
+    },
+    {
+      "Coin": "Sumokoin",
+      "Url": "/currencies/sumokoin/",
+      "Symbol": "SUMO",
+      "Price": "$0.341285"
+    },
+    {
+      "Coin": "Miners' Rewar...",
+      "Url": "/currencies/miners-reward-token/",
+      "Symbol": "MRT",
+      "Price": "$0.071006"
+    },
+    {
+      "Coin": "NobleCoin",
+      "Url": "/currencies/noblecoin/",
+      "Symbol": "NOBL",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "UnbreakableCoin",
+      "Url": "/currencies/unbreakablecoin/",
+      "Symbol": "UNB",
+      "Price": "$0.292924"
+    },
+    {
+      "Coin": "Minereum",
+      "Url": "/currencies/minereum/",
+      "Symbol": "MNE",
+      "Price": "$0.482057"
+    },
+    {
+      "Coin": "Moin",
+      "Url": "/currencies/moin/",
+      "Symbol": "MOIN",
+      "Price": "$0.089243"
+    },
+    {
+      "Coin": "SuperCoin",
+      "Url": "/currencies/supercoin/",
+      "Symbol": "SUPER",
+      "Price": "$0.014215"
+    },
+    {
+      "Coin": "NetCoin",
+      "Url": "/currencies/netcoin/",
+      "Symbol": "NET",
+      "Price": "$0.000790"
+    },
+    {
+      "Coin": "WhaleCoin",
+      "Url": "/currencies/whalecoin/",
+      "Symbol": "WHL",
+      "Price": "$0.204826"
+    },
+    {
+      "Coin": "Fujinto",
+      "Url": "/currencies/fujinto/",
+      "Symbol": "NTO",
+      "Price": "$0.008927"
+    },
+    {
+      "Coin": "Monster Byte",
+      "Url": "/currencies/monster-byte/",
+      "Symbol": "MBI",
+      "Price": "$0.033911"
+    },
+    {
+      "Coin": "BitBar",
+      "Url": "/currencies/bitbar/",
+      "Symbol": "BTB",
+      "Price": "$16.21"
+    },
+    {
+      "Coin": "Bitstar",
+      "Url": "/currencies/bitstar/",
+      "Symbol": "BITS",
+      "Price": "$0.024583"
+    },
+    {
+      "Coin": "Sprouts",
+      "Url": "/currencies/sprouts/",
+      "Symbol": "SPRTS",
+      "Price": "$5.7e-07"
+    },
+    {
+      "Coin": "Solaris",
+      "Url": "/currencies/solaris/",
+      "Symbol": "XLR",
+      "Price": "$1.01"
+    },
+    {
+      "Coin": "Unitus",
+      "Url": "/currencies/unitus/",
+      "Symbol": "UIS",
+      "Price": "$0.011512"
+    },
+    {
+      "Coin": "42-coin",
+      "Url": "/currencies/42-coin/",
+      "Symbol": "42",
+      "Price": "$12736.40"
+    },
+    {
+      "Coin": "Billionaire T...",
+      "Url": "/currencies/billionaire-token/",
+      "Symbol": "XBL",
+      "Price": "$0.160187"
+    },
+    {
+      "Coin": "Footy Cash",
+      "Url": "/currencies/footy-cash/",
+      "Symbol": "XFT",
+      "Price": "$0.110261"
+    },
+    {
+      "Coin": "InsaneCoin",
+      "Url": "/currencies/insanecoin-insn/",
+      "Symbol": "INSN",
+      "Price": "$0.028147"
+    },
+    {
+      "Coin": "Ethereum Blue",
+      "Url": "/currencies/ethereum-blue/",
+      "Symbol": "BLUE",
+      "Price": "$0.014766"
+    },
+    {
+      "Coin": "DigitalPrice",
+      "Url": "/currencies/digitalprice/",
+      "Symbol": "DP",
+      "Price": "$0.028654"
+    },
+    {
+      "Coin": "BlakeStar",
+      "Url": "/currencies/blakestar/",
+      "Symbol": "BLAS",
+      "Price": "$0.001913"
+    },
+    {
+      "Coin": "Dashcoin",
+      "Url": "/currencies/dashcoin/",
+      "Symbol": "DSH",
+      "Price": "$0.026691"
+    },
+    {
+      "Coin": "Tychocoin",
+      "Url": "/currencies/tychocoin/",
+      "Symbol": "TYCHO",
+      "Price": "$0.093320"
+    },
+    {
+      "Coin": "FujiCoin",
+      "Url": "/currencies/fujicoin/",
+      "Symbol": "FJC",
+      "Price": "$0.000392"
+    },
+    {
+      "Coin": "LUXCoin",
+      "Url": "/currencies/luxcoin/",
+      "Symbol": "LUX",
+      "Price": "$1.72"
+    },
+    {
+      "Coin": "EthBet",
+      "Url": "/currencies/ethbet/",
+      "Symbol": "EBET",
+      "Price": "$0.053334"
+    },
+    {
+      "Coin": "AltCommunity ...",
+      "Url": "/currencies/altcommunity-coin/",
+      "Symbol": "ALTCOM",
+      "Price": "$4.71"
+    },
+    {
+      "Coin": "Zero",
+      "Url": "/currencies/zero/",
+      "Symbol": "ZER",
+      "Price": "$0.232892"
+    },
+    {
+      "Coin": "PoSToken",
+      "Url": "/currencies/postoken/",
+      "Symbol": "POS",
+      "Price": "$0.637920"
+    },
+    {
+      "Coin": "PiplCoin",
+      "Url": "/currencies/piplcoin/",
+      "Symbol": "PIPL",
+      "Price": "$0.031637"
+    },
+    {
+      "Coin": "808Coin",
+      "Url": "/currencies/808coin/",
+      "Symbol": "808",
+      "Price": "$0.000442"
+    },
+    {
+      "Coin": "Eternity",
+      "Url": "/currencies/eternity/",
+      "Symbol": "ENT",
+      "Price": "$0.098498"
+    },
+    {
+      "Coin": "FuturXe",
+      "Url": "/currencies/futurexe/",
+      "Symbol": "FXE",
+      "Price": "$1.69"
+    },
+    {
+      "Coin": "Ethereum Dark",
+      "Url": "/currencies/ethereum-dark/",
+      "Symbol": "ETHD",
+      "Price": "$0.263504"
+    },
+    {
+      "Coin": "Ellaism",
+      "Url": "/currencies/ellaism/",
+      "Symbol": "ELLA",
+      "Price": "$0.213598"
+    },
+    {
+      "Coin": "Mincoin",
+      "Url": "/currencies/mincoin/",
+      "Symbol": "MNC",
+      "Price": "$0.097921"
+    },
+    {
+      "Coin": "Dalecoin",
+      "Url": "/currencies/dalecoin/",
+      "Symbol": "DALC",
+      "Price": "$0.954737"
+    },
+    {
+      "Coin": "Authorship",
+      "Url": "/currencies/authorship/",
+      "Symbol": "ATS",
+      "Price": "$0.004682"
+    },
+    {
+      "Coin": "Shield Coin",
+      "Url": "/currencies/shield-coin/",
+      "Symbol": "XSH",
+      "Price": "$0.000810"
+    },
+    {
+      "Coin": "WomenCoin",
+      "Url": "/currencies/women/",
+      "Symbol": "WOMEN",
+      "Price": "$0.008240"
+    },
+    {
+      "Coin": "ColossusCoinXT",
+      "Url": "/currencies/colossuscoinxt/",
+      "Symbol": "COLX",
+      "Price": "$0.000076"
+    },
+    {
+      "Coin": "bitBTC",
+      "Url": "/currencies/bitbtc/",
+      "Symbol": "BITBTC",
+      "Price": "$8192.19"
+    },
+    {
+      "Coin": "Deutsche eMark",
+      "Url": "/currencies/deutsche-emark/",
+      "Symbol": "DEM",
+      "Price": "$0.012682"
+    },
+    {
+      "Coin": "eBTC [OLD]",
+      "Url": "/currencies/ebtc/",
+      "Symbol": "EBTC",
+      "Price": "$0.016977"
+    },
+    {
+      "Coin": "Triangles",
+      "Url": "/currencies/triangles/",
+      "Symbol": "TRI",
+      "Price": "$4.78"
+    },
+    {
+      "Coin": "BritCoin",
+      "Url": "/currencies/britcoin/",
+      "Symbol": "BRIT",
+      "Price": "$0.015993"
+    },
+    {
+      "Coin": "Vsync",
+      "Url": "/currencies/vsync-vsx/",
+      "Symbol": "VSX",
+      "Price": "$0.003338"
+    },
+    {
+      "Coin": "Pakcoin",
+      "Url": "/currencies/pakcoin/",
+      "Symbol": "PAK",
+      "Price": "$0.007607"
+    },
+    {
+      "Coin": "PostCoin",
+      "Url": "/currencies/postcoin/",
+      "Symbol": "POST",
+      "Price": "$0.020676"
+    },
+    {
+      "Coin": "DaxxCoin",
+      "Url": "/currencies/daxxcoin/",
+      "Symbol": "DAXX",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "Denarius",
+      "Url": "/currencies/denarius-dnr/",
+      "Symbol": "DNR",
+      "Price": "$0.176758"
+    },
+    {
+      "Coin": "TrumpCoin",
+      "Url": "/currencies/trumpcoin/",
+      "Symbol": "TRUMP",
+      "Price": "$0.046637"
+    },
+    {
+      "Coin": "ProCurrency",
+      "Url": "/currencies/procurrency/",
+      "Symbol": "PROC",
+      "Price": "$0.022835"
+    },
+    {
+      "Coin": "Cannation",
+      "Url": "/currencies/cannation/",
+      "Symbol": "CNNC",
+      "Price": "$0.115441"
+    },
+    {
+      "Coin": "Senderon",
+      "Url": "/currencies/senderon/",
+      "Symbol": "SDRN",
+      "Price": "$0.007540"
+    },
+    {
+      "Coin": "WayGuide",
+      "Url": "/currencies/wayguide/",
+      "Symbol": "WAY",
+      "Price": "$0.002652"
+    },
+    {
+      "Coin": "Bolenum",
+      "Url": "/currencies/bolenum/",
+      "Symbol": "BLN",
+      "Price": "$0.025779"
+    },
+    {
+      "Coin": "Scorecoin",
+      "Url": "/currencies/scorecoin/",
+      "Symbol": "SCORE",
+      "Price": "$0.007862"
+    },
+    {
+      "Coin": "LanaCoin",
+      "Url": "/currencies/lanacoin/",
+      "Symbol": "LANA",
+      "Price": "$0.000287"
+    },
+    {
+      "Coin": "LiteBar",
+      "Url": "/currencies/litebar/",
+      "Symbol": "LTB",
+      "Price": "$0.301589"
+    },
+    {
+      "Coin": "Atomic Coin",
+      "Url": "/currencies/atomic-coin/",
+      "Symbol": "ATOM",
+      "Price": "$0.018269"
+    },
+    {
+      "Coin": "BunnyCoin",
+      "Url": "/currencies/bunnycoin/",
+      "Symbol": "BUN",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "Joulecoin",
+      "Url": "/currencies/joulecoin/",
+      "Symbol": "XJO",
+      "Price": "$0.006702"
+    },
+    {
+      "Coin": "EOT Token",
+      "Url": "/currencies/eot-token/",
+      "Symbol": "EOT",
+      "Price": "$0.023716"
+    },
+    {
+      "Coin": "KiloCoin",
+      "Url": "/currencies/kilocoin/",
+      "Symbol": "KLC",
+      "Price": "$0.000958"
+    },
+    {
+      "Coin": "CampusCoin",
+      "Url": "/currencies/campuscoin/",
+      "Symbol": "CMPCO",
+      "Price": "$0.000846"
+    },
+    {
+      "Coin": "CorgiCoin",
+      "Url": "/currencies/corgicoin/",
+      "Symbol": "CORG",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "ExchangeN",
+      "Url": "/currencies/exchangen/",
+      "Symbol": "EXN",
+      "Price": "$0.036113"
+    },
+    {
+      "Coin": "Ethereum Cash",
+      "Url": "/currencies/ethereumcash/",
+      "Symbol": "ECASH",
+      "Price": "$0.012551"
+    },
+    {
+      "Coin": "C-Bit",
+      "Url": "/currencies/c-bit/",
+      "Symbol": "XCT",
+      "Price": "$0.001086"
+    },
+    {
+      "Coin": "Rupaya",
+      "Url": "/currencies/rupaya/",
+      "Symbol": "RUPX",
+      "Price": "$0.027744"
+    },
+    {
+      "Coin": "Bolivarcoin",
+      "Url": "/currencies/bolivarcoin/",
+      "Symbol": "BOLI",
+      "Price": "$0.020740"
+    },
+    {
+      "Coin": "Elcoin",
+      "Url": "/currencies/elcoin-el/",
+      "Symbol": "EL",
+      "Price": "$0.014731"
+    },
+    {
+      "Coin": "EcoCoin",
+      "Url": "/currencies/ecocoin/",
+      "Symbol": "ECO",
+      "Price": "$0.157293"
+    },
+    {
+      "Coin": "MojoCoin",
+      "Url": "/currencies/mojocoin/",
+      "Symbol": "MOJO",
+      "Price": "$0.013166"
+    },
+    {
+      "Coin": "bitSilver",
+      "Url": "/currencies/bitsilver/",
+      "Symbol": "BITSILVER",
+      "Price": "$16.49"
+    },
+    {
+      "Coin": "PRCoin",
+      "Url": "/currencies/prcoin/",
+      "Symbol": "PRC",
+      "Price": "$0.009501"
+    },
+    {
+      "Coin": "Digitalcoin",
+      "Url": "/currencies/digitalcoin/",
+      "Symbol": "DGC",
+      "Price": "$0.004958"
+    },
+    {
+      "Coin": "iEthereum",
+      "Url": "/currencies/iethereum/",
+      "Symbol": "IETH",
+      "Price": "$0.007400"
+    },
+    {
+      "Coin": "ReeCoin",
+      "Url": "/currencies/reecoin/",
+      "Symbol": "REE",
+      "Price": "$0.000049"
+    },
+    {
+      "Coin": "Virta Unique ...",
+      "Url": "/currencies/virta-unique-coin/",
+      "Symbol": "VUC",
+      "Price": "$0.002001"
+    },
+    {
+      "Coin": "BitTokens",
+      "Url": "/currencies/bittokens/",
+      "Symbol": "BXT",
+      "Price": "$0.218521"
+    },
+    {
+      "Coin": "Slimcoin",
+      "Url": "/currencies/slimcoin/",
+      "Symbol": "SLM",
+      "Price": "$0.008102"
+    },
+    {
+      "Coin": "TEKcoin",
+      "Url": "/currencies/tekcoin/",
+      "Symbol": "TEK",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "CoinonatX",
+      "Url": "/currencies/coinonatx/",
+      "Symbol": "XCXT",
+      "Price": "$0.007145"
+    },
+    {
+      "Coin": "Bitcoin Red",
+      "Url": "/currencies/bitcoin-red/",
+      "Symbol": "BTCRED",
+      "Price": "$0.010163"
+    },
+    {
+      "Coin": "CybCSec",
+      "Url": "/currencies/cybcsec/",
+      "Symbol": "XCS",
+      "Price": "$0.007881"
+    },
+    {
+      "Coin": "Cryptojacks",
+      "Url": "/currencies/cryptojacks/",
+      "Symbol": "CJ",
+      "Price": "$0.000222"
+    },
+    {
+      "Coin": "Interzone",
+      "Url": "/currencies/interzone/",
+      "Symbol": "ITZ",
+      "Price": "$0.068114"
+    },
+    {
+      "Coin": "X-Coin",
+      "Url": "/currencies/x-coin/",
+      "Symbol": "XCO",
+      "Price": "$0.006334"
+    },
+    {
+      "Coin": "BoostCoin",
+      "Url": "/currencies/boostcoin/",
+      "Symbol": "BOST",
+      "Price": "$0.006408"
+    },
+    {
+      "Coin": "Prime-XI",
+      "Url": "/currencies/prime-xi/",
+      "Symbol": "PXI",
+      "Price": "$0.004227"
+    },
+    {
+      "Coin": "CacheCoin",
+      "Url": "/currencies/cachecoin/",
+      "Symbol": "CACH",
+      "Price": "$0.016948"
+    },
+    {
+      "Coin": "Master Swiscoin",
+      "Url": "/currencies/master-swiscoin/",
+      "Symbol": "MSCN",
+      "Price": "$0.001463"
+    },
+    {
+      "Coin": "TajCoin",
+      "Url": "/currencies/tajcoin/",
+      "Symbol": "TAJ",
+      "Price": "$0.008076"
+    },
+    {
+      "Coin": "Coimatic 2.0",
+      "Url": "/currencies/coimatic-2/",
+      "Symbol": "CTIC2",
+      "Price": "$0.005777"
+    },
+    {
+      "Coin": "Braincoin",
+      "Url": "/currencies/braincoin/",
+      "Symbol": "BRAIN",
+      "Price": "$0.005819"
+    },
+    {
+      "Coin": "Ammo Rewards",
+      "Url": "/currencies/ammo-rewards/",
+      "Symbol": "AMMO",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "Tristar Coin",
+      "Url": "/currencies/tristar-coin/",
+      "Symbol": "TSTR",
+      "Price": "$0.009943"
+    },
+    {
+      "Coin": "CryptoWorldX ...",
+      "Url": "/currencies/cryptoworldx-token/",
+      "Symbol": "CWXT",
+      "Price": "$0.000802"
+    },
+    {
+      "Coin": "PlayerCoin",
+      "Url": "/currencies/playercoin/",
+      "Symbol": "PLACO",
+      "Price": "$0.001326"
+    },
+    {
+      "Coin": "RonPaulCoin",
+      "Url": "/currencies/ronpaulcoin/",
+      "Symbol": "RPC",
+      "Price": "$0.045006"
+    },
+    {
+      "Coin": "Impact",
+      "Url": "/currencies/impact/",
+      "Symbol": "IMX",
+      "Price": "$0.000291"
+    },
+    {
+      "Coin": "Iconic",
+      "Url": "/currencies/iconic/",
+      "Symbol": "ICON",
+      "Price": "$0.043088"
+    },
+    {
+      "Coin": "Kronecoin",
+      "Url": "/currencies/kronecoin/",
+      "Symbol": "KRONE",
+      "Price": "$0.006446"
+    },
+    {
+      "Coin": "Dollar Online",
+      "Url": "/currencies/dollar-online/",
+      "Symbol": "DOLLAR",
+      "Price": "$0.022096"
+    },
+    {
+      "Coin": "Veros",
+      "Url": "/currencies/veros/",
+      "Symbol": "VRS",
+      "Price": "$0.000030"
+    },
+    {
+      "Coin": "AgrolifeCoin",
+      "Url": "/currencies/agrolifecoin/",
+      "Symbol": "AGLC",
+      "Price": "$0.001989"
+    },
+    {
+      "Coin": "LiteCoin Ultra",
+      "Url": "/currencies/litecoin-ultra/",
+      "Symbol": "LTCU",
+      "Price": "$0.010107"
+    },
+    {
+      "Coin": "Concoin",
+      "Url": "/currencies/concoin/",
+      "Symbol": "CONX",
+      "Price": "$0.009575"
+    },
+    {
+      "Coin": "Wexcoin",
+      "Url": "/currencies/wexcoin/",
+      "Symbol": "WEX",
+      "Price": "$0.015909"
+    },
+    {
+      "Coin": "HarmonyCoin",
+      "Url": "/currencies/harmonycoin-hmc/",
+      "Symbol": "HMC",
+      "Price": "$0.008473"
+    },
+    {
+      "Coin": "1337",
+      "Url": "/currencies/1337coin/",
+      "Symbol": "1337",
+      "Price": "$0.000059"
+    },
+    {
+      "Coin": "Digital Money...",
+      "Url": "/currencies/digital-money-bits/",
+      "Symbol": "DMB",
+      "Price": "$0.001487"
+    },
+    {
+      "Coin": "Falcoin",
+      "Url": "/currencies/falcoin/",
+      "Symbol": "FAL",
+      "Price": "$0.000664"
+    },
+    {
+      "Coin": "CaliphCoin",
+      "Url": "/currencies/caliphcoin/",
+      "Symbol": "CALC",
+      "Price": "$0.001235"
+    },
+    {
+      "Coin": "FedoraCoin",
+      "Url": "/currencies/fedoracoin/",
+      "Symbol": "TIPS",
+      "Price": "$0.000027"
+    },
+    {
+      "Coin": "Jinn",
+      "Url": "/currencies/jinn/",
+      "Symbol": "JINN",
+      "Price": "$157.23"
+    },
+    {
+      "Coin": "OracleChain",
+      "Url": "/currencies/oraclechain/",
+      "Symbol": "OCT",
+      "Price": "$0.232430"
+    },
+    {
+      "Coin": "Ecobit",
+      "Url": "/currencies/ecobit/",
+      "Symbol": "ECOB",
+      "Price": "$0.015001"
+    },
+    {
+      "Coin": "Bankcoin",
+      "Url": "/currencies/bankcoin/",
+      "Symbol": "B@",
+      "Price": "$0.958682"
+    },
+    {
+      "Coin": "Arcade Token",
+      "Url": "/currencies/arcade-token/",
+      "Symbol": "ARC",
+      "Price": "$2.67"
+    },
+    {
+      "Coin": "YashCoin",
+      "Url": "/currencies/yashcoin/",
+      "Symbol": "YASH",
+      "Price": "$0.433088"
+    },
+    {
+      "Coin": "Stakecoin",
+      "Url": "/currencies/stakecoin-stcn/",
+      "Symbol": "STCN",
+      "Price": "$0.954562"
+    },
+    {
+      "Coin": "AsiaCoin",
+      "Url": "/currencies/asiacoin/",
+      "Symbol": "AC",
+      "Price": "$0.002136"
+    },
+    {
+      "Coin": "Ixcoin",
+      "Url": "/currencies/ixcoin/",
+      "Symbol": "IXC",
+      "Price": "$0.111804"
+    },
+    {
+      "Coin": "VPNCoin",
+      "Url": "/currencies/vpncoin/",
+      "Symbol": "VASH",
+      "Price": "$0.005603"
+    },
+    {
+      "Coin": "iTicoin",
+      "Url": "/currencies/iticoin/",
+      "Symbol": "ITI",
+      "Price": "$67.57"
+    },
+    {
+      "Coin": "Adelphoi",
+      "Url": "/currencies/adelphoi/",
+      "Symbol": "ADL",
+      "Price": "$0.084224"
+    },
+    {
+      "Coin": "Colossuscoin V2",
+      "Url": "/currencies/colossuscoin-v2/",
+      "Symbol": "CV2",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Nexxus",
+      "Url": "/currencies/nexxus/",
+      "Symbol": "NXX",
+      "Price": "$0.008954"
+    },
+    {
+      "Coin": "MergeCoin",
+      "Url": "/currencies/mergecoin/",
+      "Symbol": "MGC",
+      "Price": "$0.014842"
+    },
+    {
+      "Coin": "Ethbits",
+      "Url": "/currencies/ethbits/",
+      "Symbol": "ETBS",
+      "Price": "$1.00"
+    },
+    {
+      "Coin": "ICO OpenLedger",
+      "Url": "/currencies/ico-openledger/",
+      "Symbol": "ICOO",
+      "Price": "$2.82"
+    },
+    {
+      "Coin": "Pandacoin",
+      "Url": "/currencies/pandacoin-pnd/",
+      "Symbol": "PND",
+      "Price": "$0.000040"
+    },
+    {
+      "Coin": "IncaKoin",
+      "Url": "/currencies/incakoin/",
+      "Symbol": "NKA",
+      "Price": "$0.000118"
+    },
+    {
+      "Coin": "InPay",
+      "Url": "/currencies/inpay/",
+      "Symbol": "INPAY",
+      "Price": "$0.117114"
+    },
+    {
+      "Coin": "InflationCoin",
+      "Url": "/currencies/inflationcoin/",
+      "Symbol": "IFLT",
+      "Price": "$0.000035"
+    },
+    {
+      "Coin": "FundYourselfNow",
+      "Url": "/currencies/fundyourselfnow/",
+      "Symbol": "FYN",
+      "Price": "$1.28"
+    },
+    {
+      "Coin": "Carboncoin",
+      "Url": "/currencies/carboncoin/",
+      "Symbol": "CARBON",
+      "Price": "$0.000070"
+    },
+    {
+      "Coin": "Bowhead",
+      "Url": "/currencies/bowhead/",
+      "Symbol": "AHT",
+      "Price": "$0.129156"
+    },
+    {
+      "Coin": "Infinitecoin",
+      "Url": "/currencies/infinitecoin/",
+      "Symbol": "IFC",
+      "Price": "$0.000011"
+    },
+    {
+      "Coin": "ShadowCash",
+      "Url": "/currencies/shadowcash/",
+      "Symbol": "SDC",
+      "Price": "$0.135694"
+    },
+    {
+      "Coin": "UltraCoin",
+      "Url": "/currencies/ultracoin/",
+      "Symbol": "UTC",
+      "Price": "$0.019963"
+    },
+    {
+      "Coin": "WorldCoin",
+      "Url": "/currencies/worldcoin/",
+      "Symbol": "WDC",
+      "Price": "$0.007395"
+    },
+    {
+      "Coin": "EarthCoin",
+      "Url": "/currencies/earthcoin/",
+      "Symbol": "EAC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Netko",
+      "Url": "/currencies/netko/",
+      "Symbol": "NETKO",
+      "Price": "$0.199034"
+    },
+    {
+      "Coin": "MetalCoin",
+      "Url": "/currencies/metalcoin/",
+      "Symbol": "METAL",
+      "Price": "$0.010601"
+    },
+    {
+      "Coin": "HitCoin",
+      "Url": "/currencies/hitcoin/",
+      "Symbol": "HTC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Ultimate Secu...",
+      "Url": "/currencies/ultimate-secure-cash/",
+      "Symbol": "USC",
+      "Price": "$0.077632"
+    },
+    {
+      "Coin": "Shorty",
+      "Url": "/currencies/shorty/",
+      "Symbol": "SHORTY",
+      "Price": "$0.007734"
+    },
+    {
+      "Coin": "Bitpark Coin",
+      "Url": "/currencies/bitpark-coin/",
+      "Symbol": "BPC",
+      "Price": "$0.009649"
+    },
+    {
+      "Coin": "Link Platform",
+      "Url": "/currencies/link-platform/",
+      "Symbol": "LNK",
+      "Price": "$15.20"
+    },
+    {
+      "Coin": "CryptCoin",
+      "Url": "/currencies/cryptcoin/",
+      "Symbol": "CRYPT",
+      "Price": "$0.119071"
+    },
+    {
+      "Coin": "TeslaCoin",
+      "Url": "/currencies/teslacoin/",
+      "Symbol": "TES",
+      "Price": "$0.009755"
+    },
+    {
+      "Coin": "Cream",
+      "Url": "/currencies/cream/",
+      "Symbol": "CRM",
+      "Price": "$0.015806"
+    },
+    {
+      "Coin": "WavesGo",
+      "Url": "/currencies/wavesgo/",
+      "Symbol": "WGO",
+      "Price": "$0.069552"
+    },
+    {
+      "Coin": "Machinecoin",
+      "Url": "/currencies/machinecoin/",
+      "Symbol": "MAC",
+      "Price": "$0.032638"
+    },
+    {
+      "Coin": "Kobocoin",
+      "Url": "/currencies/kobocoin/",
+      "Symbol": "KOBO",
+      "Price": "$0.026592"
+    },
+    {
+      "Coin": "FuckToken",
+      "Url": "/currencies/fucktoken/",
+      "Symbol": "FUCK",
+      "Price": "$0.012352"
+    },
+    {
+      "Coin": "MaxCoin",
+      "Url": "/currencies/maxcoin/",
+      "Symbol": "MAX",
+      "Price": "$0.010312"
+    },
+    {
+      "Coin": "Canada eCoin",
+      "Url": "/currencies/canada-ecoin/",
+      "Symbol": "CDN",
+      "Price": "$0.006383"
+    },
+    {
+      "Coin": "RussiaCoin",
+      "Url": "/currencies/russiacoin/",
+      "Symbol": "RC",
+      "Price": "$0.073728"
+    },
+    {
+      "Coin": "HoboNickels",
+      "Url": "/currencies/hobonickels/",
+      "Symbol": "HBN",
+      "Price": "$0.010312"
+    },
+    {
+      "Coin": "ZcCoin",
+      "Url": "/currencies/zccoin/",
+      "Symbol": "ZCC",
+      "Price": "$0.009844"
+    },
+    {
+      "Coin": "Fantomcoin",
+      "Url": "/currencies/fantomcoin/",
+      "Symbol": "FCN",
+      "Price": "$0.095751"
+    },
+    {
+      "Coin": "Ethereum Movi...",
+      "Url": "/currencies/ethereum-movie-venture/",
+      "Symbol": "EMV",
+      "Price": "$0.088874"
+    },
+    {
+      "Coin": "DigitalDevelo...",
+      "Url": "/currencies/digital-developers-fund/",
+      "Symbol": "DDF",
+      "Price": "$0.109891"
+    },
+    {
+      "Coin": "StarCredits",
+      "Url": "/currencies/starcredits/",
+      "Symbol": "STRC",
+      "Price": "$0.122908"
+    },
+    {
+      "Coin": "E4ROW",
+      "Url": "/currencies/ether-for-the-rest-of-the-world/",
+      "Symbol": "E4ROW",
+      "Price": "$0.132059"
+    },
+    {
+      "Coin": "BTCtalkcoin",
+      "Url": "/currencies/btctalkcoin/",
+      "Symbol": "TALK",
+      "Price": "$0.008367"
+    },
+    {
+      "Coin": "CryptoForecast",
+      "Url": "/currencies/cryptoforecast/",
+      "Symbol": "CFT",
+      "Price": "$0.010974"
+    },
+    {
+      "Coin": "BTSR",
+      "Url": "/currencies/btsr/",
+      "Symbol": "BTSR",
+      "Price": "$0.144647"
+    },
+    {
+      "Coin": "Orbitcoin",
+      "Url": "/currencies/orbitcoin/",
+      "Symbol": "ORB",
+      "Price": "$0.150724"
+    },
+    {
+      "Coin": "Version",
+      "Url": "/currencies/version/",
+      "Symbol": "V",
+      "Price": "$0.000957"
+    },
+    {
+      "Coin": "GCoin",
+      "Url": "/currencies/gcoin/",
+      "Symbol": "GCN",
+      "Price": "$0.000003"
+    },
+    {
+      "Coin": "SmartCoin",
+      "Url": "/currencies/smartcoin/",
+      "Symbol": "SMC",
+      "Price": "$0.018220"
+    },
+    {
+      "Coin": "FinCoin",
+      "Url": "/currencies/fincoin/",
+      "Symbol": "FNC",
+      "Price": "$0.031172"
+    },
+    {
+      "Coin": "AmberCoin",
+      "Url": "/currencies/ambercoin/",
+      "Symbol": "AMBER",
+      "Price": "$0.009059"
+    },
+    {
+      "Coin": "MazaCoin",
+      "Url": "/currencies/mazacoin/",
+      "Symbol": "MZC",
+      "Price": "$0.000294"
+    },
+    {
+      "Coin": "Shadow Token",
+      "Url": "/currencies/shadow-token/",
+      "Symbol": "SHDW",
+      "Price": "$0.054109"
+    },
+    {
+      "Coin": "Newbium",
+      "Url": "/currencies/newbium/",
+      "Symbol": "NEWB",
+      "Price": "$0.007476"
+    },
+    {
+      "Coin": "Jetcoin",
+      "Url": "/currencies/jetcoin/",
+      "Symbol": "JET",
+      "Price": "$0.075888"
+    },
+    {
+      "Coin": "BlockPay",
+      "Url": "/currencies/blockpay/",
+      "Symbol": "BLOCKPAY",
+      "Price": "$0.066189"
+    },
+    {
+      "Coin": "Torcoin",
+      "Url": "/currencies/torcoin-tor/",
+      "Symbol": "TOR",
+      "Price": "$1.10"
+    },
+    {
+      "Coin": "Trollcoin",
+      "Url": "/currencies/trollcoin/",
+      "Symbol": "TROLL",
+      "Price": "$0.000596"
+    },
+    {
+      "Coin": "SwagBucks",
+      "Url": "/currencies/swagbucks/",
+      "Symbol": "BUCKS",
+      "Price": "$1.07"
+    },
+    {
+      "Coin": "FuelCoin",
+      "Url": "/currencies/fuelcoin/",
+      "Symbol": "FC2",
+      "Price": "$0.003167"
+    },
+    {
+      "Coin": "GlobalCoin",
+      "Url": "/currencies/globalcoin/",
+      "Symbol": "GLC",
+      "Price": "$0.004934"
+    },
+    {
+      "Coin": "Valorbit",
+      "Url": "/currencies/valorbit/",
+      "Symbol": "VAL",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Cryptonite",
+      "Url": "/currencies/cryptonite/",
+      "Symbol": "XCN",
+      "Price": "$0.000869"
+    },
+    {
+      "Coin": "I0Coin",
+      "Url": "/currencies/i0coin/",
+      "Symbol": "I0C",
+      "Price": "$0.015114"
+    },
+    {
+      "Coin": "Veltor",
+      "Url": "/currencies/veltor/",
+      "Symbol": "VLT",
+      "Price": "$0.540108"
+    },
+    {
+      "Coin": "Etheriya",
+      "Url": "/currencies/etheriya/",
+      "Symbol": "RIYA",
+      "Price": "$0.188555"
+    },
+    {
+      "Coin": "Anoncoin",
+      "Url": "/currencies/anoncoin/",
+      "Symbol": "ANC",
+      "Price": "$0.139581"
+    },
+    {
+      "Coin": "AurumCoin",
+      "Url": "/currencies/aurumcoin/",
+      "Symbol": "AU",
+      "Price": "$0.988800"
+    },
+    {
+      "Coin": "Goodomy",
+      "Url": "/currencies/goodomy/",
+      "Symbol": "GOOD",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "Bitcoin Scrypt",
+      "Url": "/currencies/bitcoin-scrypt/",
+      "Symbol": "BTCS",
+      "Price": "$0.017466"
+    },
+    {
+      "Coin": "Piggycoin",
+      "Url": "/currencies/piggycoin/",
+      "Symbol": "PIGGY",
+      "Price": "$0.000588"
+    },
+    {
+      "Coin": "TagCoin",
+      "Url": "/currencies/tagcoin/",
+      "Symbol": "TAG",
+      "Price": "$0.047917"
+    },
+    {
+      "Coin": "8Bit",
+      "Url": "/currencies/8bit/",
+      "Symbol": "8BIT",
+      "Price": "$0.240525"
+    },
+    {
+      "Coin": "iCoin",
+      "Url": "/currencies/icoin/",
+      "Symbol": "ICN",
+      "Price": "$0.009059"
+    },
+    {
+      "Coin": "Titcoin",
+      "Url": "/currencies/titcoin/",
+      "Symbol": "TIT",
+      "Price": "$0.005144"
+    },
+    {
+      "Coin": "GAIA",
+      "Url": "/currencies/gaia/",
+      "Symbol": "GAIA",
+      "Price": "$0.010459"
+    },
+    {
+      "Coin": "Phoenixcoin",
+      "Url": "/currencies/phoenixcoin/",
+      "Symbol": "PXC",
+      "Price": "$0.004021"
+    },
+    {
+      "Coin": "Stress",
+      "Url": "/currencies/stress/",
+      "Symbol": "STS",
+      "Price": "$0.000435"
+    },
+    {
+      "Coin": "Universe",
+      "Url": "/currencies/universe/",
+      "Symbol": "UNI",
+      "Price": "$0.024895"
+    },
+    {
+      "Coin": "Opal",
+      "Url": "/currencies/opal/",
+      "Symbol": "OPAL",
+      "Price": "$0.015762"
+    },
+    {
+      "Coin": "Rubies",
+      "Url": "/currencies/rubies/",
+      "Symbol": "RBIES",
+      "Price": "$0.022775"
+    },
+    {
+      "Coin": "PayCoin",
+      "Url": "/currencies/paycoin2/",
+      "Symbol": "XPY",
+      "Price": "$0.019895"
+    },
+    {
+      "Coin": "PureVidz",
+      "Url": "/currencies/purevidz/",
+      "Symbol": "VIDZ",
+      "Price": "$0.001826"
+    },
+    {
+      "Coin": "FlutterCoin",
+      "Url": "/currencies/fluttercoin/",
+      "Symbol": "FLT",
+      "Price": "$0.000700"
+    },
+    {
+      "Coin": "Sterlingcoin",
+      "Url": "/currencies/sterlingcoin/",
+      "Symbol": "SLG",
+      "Price": "$0.052652"
+    },
+    {
+      "Coin": "GoldReserve",
+      "Url": "/currencies/goldreserve/",
+      "Symbol": "XGR",
+      "Price": "$0.012742"
+    },
+    {
+      "Coin": "Guncoin",
+      "Url": "/currencies/guncoin/",
+      "Symbol": "GUN",
+      "Price": "$0.001108"
+    },
+    {
+      "Coin": "Freicoin",
+      "Url": "/currencies/freicoin/",
+      "Symbol": "FRC",
+      "Price": "$0.007365"
+    },
+    {
+      "Coin": "Wyvern",
+      "Url": "/currencies/wyvern/",
+      "Symbol": "WYV",
+      "Price": "$0.125213"
+    },
+    {
+      "Coin": "Elementrem",
+      "Url": "/currencies/elementrem/",
+      "Symbol": "ELE",
+      "Price": "$0.008176"
+    },
+    {
+      "Coin": "Flycoin",
+      "Url": "/currencies/flycoin/",
+      "Symbol": "FLY",
+      "Price": "$0.977690"
+    },
+    {
+      "Coin": "HOdlcoin",
+      "Url": "/currencies/hodlcoin/",
+      "Symbol": "HODL",
+      "Price": "$0.001399"
+    },
+    {
+      "Coin": "Truckcoin",
+      "Url": "/currencies/truckcoin/",
+      "Symbol": "TRK",
+      "Price": "$0.001351"
+    },
+    {
+      "Coin": "SproutsExtreme",
+      "Url": "/currencies/sproutsextreme/",
+      "Symbol": "SPEX",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Bit20",
+      "Url": "/currencies/bit20/",
+      "Symbol": "BTWTY",
+      "Price": "$198,559"
+    },
+    {
+      "Coin": "SACoin",
+      "Url": "/currencies/sacoin/",
+      "Symbol": "SAC",
+      "Price": "$0.085365"
+    },
+    {
+      "Coin": "Prototanium",
+      "Url": "/currencies/prototanium/",
+      "Symbol": "PR",
+      "Price": "$0.994335"
+    },
+    {
+      "Coin": "Bottlecaps",
+      "Url": "/currencies/bottlecaps/",
+      "Symbol": "CAP",
+      "Price": "$0.000958"
+    },
+    {
+      "Coin": "Nyancoin",
+      "Url": "/currencies/nyancoin/",
+      "Symbol": "NYAN",
+      "Price": "$0.000593"
+    },
+    {
+      "Coin": "Honey",
+      "Url": "/currencies/honey/",
+      "Symbol": "HONEY",
+      "Price": "$0.625683"
+    },
+    {
+      "Coin": "PlatinumBAR",
+      "Url": "/currencies/platinumbar/",
+      "Symbol": "XPTX",
+      "Price": "$0.508281"
+    },
+    {
+      "Coin": "Casino",
+      "Url": "/currencies/casino/",
+      "Symbol": "CASINO",
+      "Price": "$0.184512"
+    },
+    {
+      "Coin": "Devcoin",
+      "Url": "/currencies/devcoin/",
+      "Symbol": "DVC",
+      "Price": "$0.000012"
+    },
+    {
+      "Coin": "Cannacoin",
+      "Url": "/currencies/cannacoin/",
+      "Symbol": "CCN",
+      "Price": "$0.039037"
+    },
+    {
+      "Coin": "Coin(O)",
+      "Url": "/currencies/coin/",
+      "Symbol": "CNO",
+      "Price": "$0.001735"
+    },
+    {
+      "Coin": "DigiCube",
+      "Url": "/currencies/digicube/",
+      "Symbol": "CUBE",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "LottoCoin",
+      "Url": "/currencies/lottocoin/",
+      "Symbol": "LOT",
+      "Price": "$0.000012"
+    },
+    {
+      "Coin": "Ratecoin",
+      "Url": "/currencies/ratecoin/",
+      "Symbol": "XRA",
+      "Price": "$0.001534"
+    },
+    {
+      "Coin": "BiblePay",
+      "Url": "/currencies/biblepay/",
+      "Symbol": "BBP",
+      "Price": "$0.000737"
+    },
+    {
+      "Coin": "OHM",
+      "Url": "/currencies/ohm-wallet/",
+      "Symbol": "OHM",
+      "Price": "$0.005892"
+    },
+    {
+      "Coin": "The Cypherfunks",
+      "Url": "/currencies/the-cypherfunks/",
+      "Symbol": "FUNK",
+      "Price": "$0.000004"
+    },
+    {
+      "Coin": "Cypher",
+      "Url": "/currencies/cypher/",
+      "Symbol": "CYP",
+      "Price": "$0.026670"
+    },
+    {
+      "Coin": "Darsek",
+      "Url": "/currencies/darsek/",
+      "Symbol": "KED",
+      "Price": "$0.012668"
+    },
+    {
+      "Coin": "Kayicoin",
+      "Url": "/currencies/kayicoin/",
+      "Symbol": "KAYI",
+      "Price": "$0.000593"
+    },
+    {
+      "Coin": "Francs",
+      "Url": "/currencies/francs/",
+      "Symbol": "FRN",
+      "Price": "$0.043456"
+    },
+    {
+      "Coin": "USDe",
+      "Url": "/currencies/usde/",
+      "Symbol": "USDE",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "Joincoin",
+      "Url": "/currencies/joincoin/",
+      "Symbol": "J",
+      "Price": "$0.068021"
+    },
+    {
+      "Coin": "QubitCoin",
+      "Url": "/currencies/qubitcoin/",
+      "Symbol": "Q2C",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "UniCoin",
+      "Url": "/currencies/unicoin/",
+      "Symbol": "UNIC",
+      "Price": "$0.054136"
+    },
+    {
+      "Coin": "KushCoin",
+      "Url": "/currencies/kushcoin/",
+      "Symbol": "KUSH",
+      "Price": "$0.029388"
+    },
+    {
+      "Coin": "VirtualCoin",
+      "Url": "/currencies/virtualcoin/",
+      "Symbol": "VC",
+      "Price": "$0.015836"
+    },
+    {
+      "Coin": "PetroDollar",
+      "Url": "/currencies/petrodollar/",
+      "Symbol": "XPD",
+      "Price": "$0.002427"
+    },
+    {
+      "Coin": "BigUp",
+      "Url": "/currencies/bigup/",
+      "Symbol": "BIGUP",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "RevolverCoin",
+      "Url": "/currencies/revolvercoin/",
+      "Symbol": "XRE",
+      "Price": "$0.006924"
+    },
+    {
+      "Coin": "Mineum",
+      "Url": "/currencies/mineum/",
+      "Symbol": "MNM",
+      "Price": "$0.016059"
+    },
+    {
+      "Coin": "Bitcurrency",
+      "Url": "/currencies/bitcurrency/",
+      "Symbol": "BTCR",
+      "Price": "$0.000853"
+    },
+    {
+      "Coin": "SatoshiMadness",
+      "Url": "/currencies/satoshimadness/",
+      "Symbol": "MAD",
+      "Price": "$0.000072"
+    },
+    {
+      "Coin": "PIECoin",
+      "Url": "/currencies/piecoin/",
+      "Symbol": "PIE",
+      "Price": "$0.006703"
+    },
+    {
+      "Coin": "Yacoin",
+      "Url": "/currencies/yacoin/",
+      "Symbol": "YAC",
+      "Price": "$0.001178"
+    },
+    {
+      "Coin": "Grantcoin",
+      "Url": "/currencies/grantcoin/",
+      "Symbol": "GRT",
+      "Price": "$0.003241"
+    },
+    {
+      "Coin": "Zurcoin",
+      "Url": "/currencies/zurcoin/",
+      "Symbol": "ZUR",
+      "Price": "$0.001616"
+    },
+    {
+      "Coin": "Tigercoin",
+      "Url": "/currencies/tigercoin/",
+      "Symbol": "TGC",
+      "Price": "$0.003167"
+    },
+    {
+      "Coin": "Electra",
+      "Url": "/currencies/electra/",
+      "Symbol": "ECA",
+      "Price": "$0.000006"
+    },
+    {
+      "Coin": "iDice",
+      "Url": "/currencies/idice/",
+      "Symbol": "ICE",
+      "Price": "$0.087321"
+    },
+    {
+      "Coin": "Theresa May Coin",
+      "Url": "/currencies/theresa-may-coin/",
+      "Symbol": "MAY",
+      "Price": "$0.005892"
+    },
+    {
+      "Coin": "Dollarcoin",
+      "Url": "/currencies/dollarcoin/",
+      "Symbol": "DLC",
+      "Price": "$0.014805"
+    },
+    {
+      "Coin": "CageCoin",
+      "Url": "/currencies/cagecoin/",
+      "Symbol": "CAGE",
+      "Price": "$0.000001"
+    },
+    {
+      "Coin": "Universal Cur...",
+      "Url": "/currencies/universal-currency/",
+      "Symbol": "UNIT",
+      "Price": "$0.010145"
+    },
+    {
+      "Coin": "Evil Coin",
+      "Url": "/currencies/evil-coin/",
+      "Symbol": "EVIL",
+      "Price": "$0.006261"
+    },
+    {
+      "Coin": "Bitgem",
+      "Url": "/currencies/bitgem/",
+      "Symbol": "BTG",
+      "Price": "$2.20"
+    },
+    {
+      "Coin": "Emerald Crypto",
+      "Url": "/currencies/emerald/",
+      "Symbol": "EMD",
+      "Price": "$0.006695"
+    },
+    {
+      "Coin": "ChessCoin",
+      "Url": "/currencies/chesscoin/",
+      "Symbol": "CHESS",
+      "Price": "$0.002308"
+    },
+    {
+      "Coin": "Evotion",
+      "Url": "/currencies/evotion/",
+      "Symbol": "EVO",
+      "Price": "$0.038698"
+    },
+    {
+      "Coin": "BERNcash",
+      "Url": "/currencies/berncash/",
+      "Symbol": "BERN",
+      "Price": "$0.001694"
+    },
+    {
+      "Coin": "GlobalBoost-Y",
+      "Url": "/currencies/globalboost-y/",
+      "Symbol": "BSTY",
+      "Price": "$0.009180"
+    },
+    {
+      "Coin": "Blakecoin",
+      "Url": "/currencies/blakecoin/",
+      "Symbol": "BLC",
+      "Price": "$0.007867"
+    },
+    {
+      "Coin": "AntiBitcoin",
+      "Url": "/currencies/antibitcoin/",
+      "Symbol": "ANTI",
+      "Price": "$0.006703"
+    },
+    {
+      "Coin": "bitGold",
+      "Url": "/currencies/bitgold/",
+      "Symbol": "BITGOLD",
+      "Price": "$1265.77"
+    },
+    {
+      "Coin": "Swing",
+      "Url": "/currencies/swing/",
+      "Symbol": "SWING",
+      "Price": "$0.041541"
+    },
+    {
+      "Coin": "Acoin",
+      "Url": "/currencies/acoin/",
+      "Symbol": "ACOIN",
+      "Price": "$0.088775"
+    },
+    {
+      "Coin": "Crypto",
+      "Url": "/currencies/crypto/",
+      "Symbol": "CTO",
+      "Price": "$0.009059"
+    },
+    {
+      "Coin": "GoldBlocks",
+      "Url": "/currencies/goldblocks/",
+      "Symbol": "GB",
+      "Price": "$0.007198"
+    },
+    {
+      "Coin": "TittieCoin",
+      "Url": "/currencies/tittiecoin/",
+      "Symbol": "TTC",
+      "Price": "$0.000085"
+    },
+    {
+      "Coin": "SpaceCoin",
+      "Url": "/currencies/spacecoin/",
+      "Symbol": "SPACE",
+      "Price": "$0.005156"
+    },
+    {
+      "Coin": "GameUnits",
+      "Url": "/currencies/gameunits/",
+      "Symbol": "UNITS",
+      "Price": "$0.029472"
+    },
+    {
+      "Coin": "Smoke",
+      "Url": "/currencies/smoke/",
+      "Symbol": "SMOKE",
+      "Price": "$0.007634"
+    },
+    {
+      "Coin": "Unrealcoin",
+      "Url": "/currencies/unrealcoin/",
+      "Symbol": "URC",
+      "Price": "$0.014386"
+    },
+    {
+      "Coin": "HempCoin",
+      "Url": "/currencies/hempcoin-hmp/",
+      "Symbol": "HMP",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Franko",
+      "Url": "/currencies/franko/",
+      "Symbol": "FRK",
+      "Price": "$0.106357"
+    },
+    {
+      "Coin": "LeviarCoin",
+      "Url": "/currencies/leviarcoin/",
+      "Symbol": "XLC",
+      "Price": "$0.010206"
+    },
+    {
+      "Coin": "OctoCoin",
+      "Url": "/currencies/octocoin/",
+      "Symbol": "888",
+      "Price": "$0.001923"
+    },
+    {
+      "Coin": "Bitz",
+      "Url": "/currencies/bitz/",
+      "Symbol": "BITZ",
+      "Price": "$0.047875"
+    },
+    {
+      "Coin": "Gapcoin",
+      "Url": "/currencies/gapcoin/",
+      "Symbol": "GAP",
+      "Price": "$0.007955"
+    },
+    {
+      "Coin": "WMCoin",
+      "Url": "/currencies/wmcoin/",
+      "Symbol": "WMC",
+      "Price": "$0.008176"
+    },
+    {
+      "Coin": "PX",
+      "Url": "/currencies/px/",
+      "Symbol": "PX",
+      "Price": "$0.001001"
+    },
+    {
+      "Coin": "Dreamcoin",
+      "Url": "/currencies/dreamcoin/",
+      "Symbol": "DRM",
+      "Price": "$0.038300"
+    },
+    {
+      "Coin": "FUNCoin",
+      "Url": "/currencies/funcoin/",
+      "Symbol": "FUNC",
+      "Price": "$0.016003"
+    },
+    {
+      "Coin": "LTBcoin",
+      "Url": "/currencies/ltbcoin/",
+      "Symbol": "LTBC",
+      "Price": "$0.000189"
+    },
+    {
+      "Coin": "Ripto Bux",
+      "Url": "/currencies/ripto-bux/",
+      "Symbol": "RBX",
+      "Price": "$0.000242"
+    },
+    {
+      "Coin": "DAS",
+      "Url": "/currencies/das/",
+      "Symbol": "DAS",
+      "Price": "$0.034860"
+    },
+    {
+      "Coin": "Global Tour Coin",
+      "Url": "/currencies/global-tour-coin/",
+      "Symbol": "GTC",
+      "Price": "$0.003020"
+    },
+    {
+      "Coin": "LeaCoin",
+      "Url": "/currencies/leacoin/",
+      "Symbol": "LEA",
+      "Price": "$0.000292"
+    },
+    {
+      "Coin": "QuazarCoin",
+      "Url": "/currencies/quazarcoin/",
+      "Symbol": "QCN",
+      "Price": "$0.014731"
+    },
+    {
+      "Coin": "Halcyon",
+      "Url": "/currencies/halcyon/",
+      "Symbol": "HAL",
+      "Price": "$0.017014"
+    },
+    {
+      "Coin": "GoldPieces",
+      "Url": "/currencies/goldpieces/",
+      "Symbol": "GP",
+      "Price": "$0.072330"
+    },
+    {
+      "Coin": "020LondonCoin",
+      "Url": "/currencies/o2olondoncoin/",
+      "Symbol": "020",
+      "Price": "$5.5e-07"
+    },
+    {
+      "Coin": "Philosopher S...",
+      "Url": "/currencies/philosopher-stones/",
+      "Symbol": "PHS",
+      "Price": "$0.014289"
+    },
+    {
+      "Coin": "MTMGaming",
+      "Url": "/currencies/mtmgaming/",
+      "Symbol": "MTM",
+      "Price": "$0.028599"
+    },
+    {
+      "Coin": "Catcoin",
+      "Url": "/currencies/catcoin/",
+      "Symbol": "CAT",
+      "Price": "$0.013921"
+    },
+    {
+      "Coin": "IslaCoin",
+      "Url": "/currencies/islacoin/",
+      "Symbol": "ISL",
+      "Price": "$0.054578"
+    },
+    {
+      "Coin": "Sativacoin",
+      "Url": "/currencies/sativacoin/",
+      "Symbol": "STV",
+      "Price": "$0.011637"
+    },
+    {
+      "Coin": "Aricoin",
+      "Url": "/currencies/aricoin/",
+      "Symbol": "ARI",
+      "Price": "$0.000584"
+    },
+    {
+      "Coin": "DROXNE",
+      "Url": "/currencies/droxne/",
+      "Symbol": "DRXNE",
+      "Price": "$0.001325"
+    },
+    {
+      "Coin": "ChanCoin",
+      "Url": "/currencies/chancoin/",
+      "Symbol": "4CHN",
+      "Price": "$0.012080"
+    },
+    {
+      "Coin": "ParallelCoin",
+      "Url": "/currencies/parallelcoin/",
+      "Symbol": "DUO",
+      "Price": "$0.266144"
+    },
+    {
+      "Coin": "BitAsean",
+      "Url": "/currencies/bitasean/",
+      "Symbol": "BAS",
+      "Price": "$0.015861"
+    },
+    {
+      "Coin": "Sling",
+      "Url": "/currencies/sling/",
+      "Symbol": "SLING",
+      "Price": "$0.073802"
+    },
+    {
+      "Coin": "BumbaCoin",
+      "Url": "/currencies/bumbacoin/",
+      "Symbol": "BUMBA",
+      "Price": "$0.003538"
+    },
+    {
+      "Coin": "Argentum",
+      "Url": "/currencies/argentum/",
+      "Symbol": "ARG",
+      "Price": "$0.009306"
+    },
+    {
+      "Coin": "Flaxscript",
+      "Url": "/currencies/flaxscript/",
+      "Symbol": "FLAX",
+      "Price": "$0.013994"
+    },
+    {
+      "Coin": "Firecoin",
+      "Url": "/currencies/firecoin/",
+      "Symbol": "FIRE",
+      "Price": "$0.787440"
+    },
+    {
+      "Coin": "Asiadigicoin",
+      "Url": "/currencies/asiadigicoin/",
+      "Symbol": "ADCN",
+      "Price": "$0.003093"
+    },
+    {
+      "Coin": "PayCon",
+      "Url": "/currencies/paycon/",
+      "Symbol": "CON",
+      "Price": "$0.003322"
+    },
+    {
+      "Coin": "Digital Rupees",
+      "Url": "/currencies/digital-rupees/",
+      "Symbol": "DRS",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "Independent M...",
+      "Url": "/currencies/independent-money-system/",
+      "Symbol": "IMS",
+      "Price": "$0.013962"
+    },
+    {
+      "Coin": "SecureCoin",
+      "Url": "/currencies/securecoin/",
+      "Symbol": "SRC",
+      "Price": "$0.009207"
+    },
+    {
+      "Coin": "BitcoinFast",
+      "Url": "/currencies/bitcoinfast/",
+      "Symbol": "BCF",
+      "Price": "$0.017751"
+    },
+    {
+      "Coin": "Pascal Lite",
+      "Url": "/currencies/pascal-lite/",
+      "Symbol": "PASL",
+      "Price": "$0.018856"
+    },
+    {
+      "Coin": "Coin2.1",
+      "Url": "/currencies/coin2-1/",
+      "Symbol": "C2",
+      "Price": "$0.000733"
+    },
+    {
+      "Coin": "CoExistCoin",
+      "Url": "/currencies/coexistcoin/",
+      "Symbol": "COXST",
+      "Price": "$0.002632"
+    },
+    {
+      "Coin": "GPU Coin",
+      "Url": "/currencies/gpu-coin/",
+      "Symbol": "GPU",
+      "Price": "$0.001753"
+    },
+    {
+      "Coin": "Money",
+      "Url": "/currencies/money/",
+      "Symbol": "$$$",
+      "Price": "$0.001546"
+    },
+    {
+      "Coin": "Eurocoin",
+      "Url": "/currencies/eurocoin/",
+      "Symbol": "EUC",
+      "Price": "$0.005540"
+    },
+    {
+      "Coin": "Chronos",
+      "Url": "/currencies/chronos/",
+      "Symbol": "CRX",
+      "Price": "$0.000925"
+    },
+    {
+      "Coin": "bitEUR",
+      "Url": "/currencies/biteur/",
+      "Symbol": "BITEUR",
+      "Price": "$1.20"
+    },
+    {
+      "Coin": "Virtacoinplus",
+      "Url": "/currencies/virtacoinplus/",
+      "Symbol": "XVP",
+      "Price": "$0.007246"
+    },
+    {
+      "Coin": "Spots",
+      "Url": "/currencies/spots/",
+      "Symbol": "SPT",
+      "Price": "$0.002946"
+    },
+    {
+      "Coin": "BeaverCoin",
+      "Url": "/currencies/beavercoin/",
+      "Symbol": "BVC",
+      "Price": "$0.020918"
+    },
+    {
+      "Coin": "BitQuark",
+      "Url": "/currencies/bitquark/",
+      "Symbol": "BTQ",
+      "Price": "$0.006997"
+    },
+    {
+      "Coin": "EMoneyPower",
+      "Url": "/currencies/emoneypower/",
+      "Symbol": "EMP",
+      "Price": "$0.006629"
+    },
+    {
+      "Coin": "CompuCoin",
+      "Url": "/currencies/compucoin/",
+      "Symbol": "CPN",
+      "Price": "$0.003093"
+    },
+    {
+      "Coin": "Marscoin",
+      "Url": "/currencies/marscoin/",
+      "Symbol": "MARS",
+      "Price": "$0.002078"
+    },
+    {
+      "Coin": "Kittehcoin",
+      "Url": "/currencies/kittehcoin/",
+      "Symbol": "MEOW",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "TileCoin",
+      "Url": "/currencies/tilecoin/",
+      "Symbol": "XTC",
+      "Price": "$0.000574"
+    },
+    {
+      "Coin": "AquariusCoin",
+      "Url": "/currencies/aquariuscoin/",
+      "Symbol": "ARCO",
+      "Price": "$0.038890"
+    },
+    {
+      "Coin": "Vector",
+      "Url": "/currencies/vector/",
+      "Symbol": "VEC2",
+      "Price": "$0.003388"
+    },
+    {
+      "Coin": "KibiCoin",
+      "Url": "/currencies/kibicoin/",
+      "Symbol": "KIC",
+      "Price": "$0.003720"
+    },
+    {
+      "Coin": "Allion",
+      "Url": "/currencies/allion/",
+      "Symbol": "ALL",
+      "Price": "$0.008761"
+    },
+    {
+      "Coin": "NevaCoin",
+      "Url": "/currencies/nevacoin/",
+      "Symbol": "NEVA",
+      "Price": "$0.022674"
+    },
+    {
+      "Coin": "Quatloo",
+      "Url": "/currencies/quatloo/",
+      "Symbol": "QTL",
+      "Price": "$0.006853"
+    },
+    {
+      "Coin": "SecretCoin",
+      "Url": "/currencies/secretcoin/",
+      "Symbol": "SCRT",
+      "Price": "$0.012345"
+    },
+    {
+      "Coin": "DIBCOIN",
+      "Url": "/currencies/dibcoin/",
+      "Symbol": "DIBC",
+      "Price": "$0.010421"
+    },
+    {
+      "Coin": "Jewels",
+      "Url": "/currencies/jewels/",
+      "Symbol": "JWL",
+      "Price": "$0.002578"
+    },
+    {
+      "Coin": "PonziCoin",
+      "Url": "/currencies/ponzicoin/",
+      "Symbol": "PONZI",
+      "Price": "$0.059889"
+    },
+    {
+      "Coin": "Creatio",
+      "Url": "/currencies/creatio/",
+      "Symbol": "XCRE",
+      "Price": "$0.002504"
+    },
+    {
+      "Coin": "Rimbit",
+      "Url": "/currencies/rimbit/",
+      "Symbol": "RBT",
+      "Price": "$0.000445"
+    },
+    {
+      "Coin": "BillaryCoin",
+      "Url": "/currencies/billarycoin/",
+      "Symbol": "BLRY",
+      "Price": "$0.005524"
+    },
+    {
+      "Coin": "Marijuanacoin",
+      "Url": "/currencies/marijuanacoin/",
+      "Symbol": "MAR",
+      "Price": "$0.034940"
+    },
+    {
+      "Coin": "SixEleven",
+      "Url": "/currencies/sixeleven/",
+      "Symbol": "611",
+      "Price": "$0.112580"
+    },
+    {
+      "Coin": "Uro",
+      "Url": "/currencies/uro/",
+      "Symbol": "URO",
+      "Price": "$0.039854"
+    },
+    {
+      "Coin": "MindCoin",
+      "Url": "/currencies/mindcoin/",
+      "Symbol": "MND",
+      "Price": "$0.003830"
+    },
+    {
+      "Coin": "MustangCoin",
+      "Url": "/currencies/mustangcoin/",
+      "Symbol": "MST",
+      "Price": "$0.075569"
+    },
+    {
+      "Coin": "Tattoocoin (S...",
+      "Url": "/currencies/tattoocoin/",
+      "Symbol": "TSE",
+      "Price": "$0.000516"
+    },
+    {
+      "Coin": "VapersCoin",
+      "Url": "/currencies/vaperscoin/",
+      "Symbol": "VPRC",
+      "Price": "$0.000059"
+    },
+    {
+      "Coin": "Zayedcoin",
+      "Url": "/currencies/zayedcoin/",
+      "Symbol": "ZYD",
+      "Price": "$0.007365"
+    },
+    {
+      "Coin": "Artex Coin",
+      "Url": "/currencies/artex-coin/",
+      "Symbol": "ATX",
+      "Price": "$0.002431"
+    },
+    {
+      "Coin": "Tickets",
+      "Url": "/currencies/tickets/",
+      "Symbol": "TIX",
+      "Price": "$6.8e-07"
+    },
+    {
+      "Coin": "300 Token",
+      "Url": "/currencies/300-token/",
+      "Symbol": "300",
+      "Price": "$151.07"
+    },
+    {
+      "Coin": "Blackstar",
+      "Url": "/currencies/blackstar/",
+      "Symbol": "BSTAR",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Gold Pressed ...",
+      "Url": "/currencies/gold-pressed-latinum/",
+      "Symbol": "GPL",
+      "Price": "$0.178907"
+    },
+    {
+      "Coin": "ZetaMicron",
+      "Url": "/currencies/zetamicron/",
+      "Symbol": "ZMC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "RedCoin",
+      "Url": "/currencies/redcoin/",
+      "Symbol": "RED",
+      "Price": "$0.000588"
+    },
+    {
+      "Coin": "GuccioneCoin",
+      "Url": "/currencies/guccionecoin/",
+      "Symbol": "GCC",
+      "Price": "$0.002136"
+    },
+    {
+      "Coin": "Kurrent",
+      "Url": "/currencies/kurrent/",
+      "Symbol": "KURT",
+      "Price": "$0.004346"
+    },
+    {
+      "Coin": "CryptoEscudo",
+      "Url": "/currencies/cryptoescudo/",
+      "Symbol": "CESC",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Jin Coin",
+      "Url": "/currencies/jin-coin/",
+      "Symbol": "JIN",
+      "Price": "$0.004310"
+    },
+    {
+      "Coin": "Bitcoin 21",
+      "Url": "/currencies/bitcoin-21/",
+      "Symbol": "XBTC21",
+      "Price": "$0.052833"
+    },
+    {
+      "Coin": "SoonCoin",
+      "Url": "/currencies/sooncoin/",
+      "Symbol": "SOON",
+      "Price": "$0.003313"
+    },
+    {
+      "Coin": "HealthyWormCoin",
+      "Url": "/currencies/healthywormcoin/",
+      "Symbol": "WORM",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "JIO Token",
+      "Url": "/currencies/jio-token/",
+      "Symbol": "JIO",
+      "Price": "$0.021216"
+    },
+    {
+      "Coin": "GBCGoldCoin",
+      "Url": "/currencies/gbcgoldcoin/",
+      "Symbol": "GBC",
+      "Price": "$0.003500"
+    },
+    {
+      "Coin": "CrevaCoin",
+      "Url": "/currencies/crevacoin/",
+      "Symbol": "CREVA",
+      "Price": "$0.001089"
+    },
+    {
+      "Coin": "ICOBID",
+      "Url": "/currencies/icobid/",
+      "Symbol": "ICOB",
+      "Price": "$0.000372"
+    },
+    {
+      "Coin": "Neuro",
+      "Url": "/currencies/neuro/",
+      "Symbol": "NRO",
+      "Price": "$0.001178"
+    },
+    {
+      "Coin": "BipCoin",
+      "Url": "/currencies/bipcoin/",
+      "Symbol": "BIP",
+      "Price": "$0.023569"
+    },
+    {
+      "Coin": "BowsCoin",
+      "Url": "/currencies/bowscoin/",
+      "Symbol": "BSC",
+      "Price": "$0.006776"
+    },
+    {
+      "Coin": "GlobalToken",
+      "Url": "/currencies/globaltoken/",
+      "Symbol": "GLT",
+      "Price": "$0.001478"
+    },
+    {
+      "Coin": "Hexx",
+      "Url": "/currencies/hexx/",
+      "Symbol": "HXX",
+      "Price": "$0.025405"
+    },
+    {
+      "Coin": "Shilling",
+      "Url": "/currencies/shilling/",
+      "Symbol": "SH",
+      "Price": "$0.000958"
+    },
+    {
+      "Coin": "WARP",
+      "Url": "/currencies/warp/",
+      "Symbol": "WARP",
+      "Price": "$0.033856"
+    },
+    {
+      "Coin": "Photon",
+      "Url": "/currencies/photon/",
+      "Symbol": "PHO",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "Useless Ether...",
+      "Url": "/currencies/useless-ethereum-token/",
+      "Symbol": "UET",
+      "Price": "$0.008887"
+    },
+    {
+      "Coin": "Metal Music Coin",
+      "Url": "/currencies/metal-music-coin/",
+      "Symbol": "MTLMC3",
+      "Price": "$0.000442"
+    },
+    {
+      "Coin": "ARbit",
+      "Url": "/currencies/arbit/",
+      "Symbol": "ARB",
+      "Price": "$0.004504"
+    },
+    {
+      "Coin": "Comet",
+      "Url": "/currencies/comet/",
+      "Symbol": "CMT",
+      "Price": "$0.039081"
+    },
+    {
+      "Coin": "Eryllium",
+      "Url": "/currencies/eryllium/",
+      "Symbol": "ERY",
+      "Price": "$0.006784"
+    },
+    {
+      "Coin": "AllSafe",
+      "Url": "/currencies/allsafe/",
+      "Symbol": "ASAFE2",
+      "Price": "$0.004226"
+    },
+    {
+      "Coin": "Pulse",
+      "Url": "/currencies/pulse/",
+      "Symbol": "PULSE",
+      "Price": "$0.002366"
+    },
+    {
+      "Coin": "SOILcoin",
+      "Url": "/currencies/soilcoin/",
+      "Symbol": "SOIL",
+      "Price": "$0.005879"
+    },
+    {
+      "Coin": "PopularCoin",
+      "Url": "/currencies/popularcoin/",
+      "Symbol": "POP",
+      "Price": "$0.000010"
+    },
+    {
+      "Coin": "Bitcoin Planet",
+      "Url": "/currencies/bitcoin-planet/",
+      "Symbol": "BTPL",
+      "Price": "$0.006206"
+    },
+    {
+      "Coin": "Wild Beast Block",
+      "Url": "/currencies/wild-beast-block/",
+      "Symbol": "WBB",
+      "Price": "$0.212489"
+    },
+    {
+      "Coin": "MACRON",
+      "Url": "/currencies/macron/",
+      "Symbol": "MCRN",
+      "Price": "$0.000081"
+    },
+    {
+      "Coin": "G3N",
+      "Url": "/currencies/genstake/",
+      "Symbol": "G3N",
+      "Price": "$0.004272"
+    },
+    {
+      "Coin": "Solarflarecoin",
+      "Url": "/currencies/solarflarecoin/",
+      "Symbol": "SFC",
+      "Price": "$0.002291"
+    },
+    {
+      "Coin": "Steps",
+      "Url": "/currencies/steps/",
+      "Symbol": "STEPS",
+      "Price": "$0.001694"
+    },
+    {
+      "Coin": "FlavorCoin",
+      "Url": "/currencies/flavorcoin/",
+      "Symbol": "FLVR",
+      "Price": "$0.001499"
+    },
+    {
+      "Coin": "BenjiRolls",
+      "Url": "/currencies/benjirolls/",
+      "Symbol": "BENJI",
+      "Price": "$0.001544"
+    },
+    {
+      "Coin": "Cabbage",
+      "Url": "/currencies/cabbage/",
+      "Symbol": "CAB",
+      "Price": "$0.002946"
+    },
+    {
+      "Coin": "Vault Coin",
+      "Url": "/currencies/vault-coin/",
+      "Symbol": "VLTC",
+      "Price": "$0.001022"
+    },
+    {
+      "Coin": "Coinonat",
+      "Url": "/currencies/coinonat/",
+      "Symbol": "CXT",
+      "Price": "$0.003547"
+    },
+    {
+      "Coin": "JobsCoin",
+      "Url": "/currencies/jobscoin/",
+      "Symbol": "JOBS",
+      "Price": "$0.000288"
+    },
+    {
+      "Coin": "PLNcoin",
+      "Url": "/currencies/plncoin/",
+      "Symbol": "PLNC",
+      "Price": "$0.001768"
+    },
+    {
+      "Coin": "Hacker Gold",
+      "Url": "/currencies/hacker-gold/",
+      "Symbol": "HKG",
+      "Price": "$0.001823"
+    },
+    {
+      "Coin": "OsmiumCoin",
+      "Url": "/currencies/osmiumcoin/",
+      "Symbol": "OS76",
+      "Price": "$0.032703"
+    },
+    {
+      "Coin": "KingN Coin",
+      "Url": "/currencies/kingn-coin/",
+      "Symbol": "KNC",
+      "Price": "$14.54"
+    },
+    {
+      "Coin": "CRTCoin",
+      "Url": "/currencies/crtcoin/",
+      "Symbol": "CRT",
+      "Price": "$0.353541"
+    },
+    {
+      "Coin": "Pesobit",
+      "Url": "/currencies/pesobit/",
+      "Symbol": "PSB",
+      "Price": "$0.000810"
+    },
+    {
+      "Coin": "iBank",
+      "Url": "/currencies/ibank/",
+      "Symbol": "IBANK",
+      "Price": "$0.005966"
+    },
+    {
+      "Coin": "Orlycoin",
+      "Url": "/currencies/orlycoin/",
+      "Symbol": "ORLY",
+      "Price": "$0.000737"
+    },
+    {
+      "Coin": "Debitcoin",
+      "Url": "/currencies/debitcoin/",
+      "Symbol": "DBTC",
+      "Price": "$0.001473"
+    },
+    {
+      "Coin": "BitCoal",
+      "Url": "/currencies/bitcoal/",
+      "Symbol": "COAL",
+      "Price": "$0.005824"
+    },
+    {
+      "Coin": "Cashcoin",
+      "Url": "/currencies/cashcoin/",
+      "Symbol": "CASH",
+      "Price": "$0.000958"
+    },
+    {
+      "Coin": "Slevin",
+      "Url": "/currencies/slevin/",
+      "Symbol": "SLEVIN",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "GameBet Coin",
+      "Url": "/currencies/gamebet-coin/",
+      "Symbol": "GBT",
+      "Price": "$0.001212"
+    },
+    {
+      "Coin": "DT Token",
+      "Url": "/currencies/dt-token/",
+      "Symbol": "DRACO",
+      "Price": "$0.000283"
+    },
+    {
+      "Coin": "ImpulseCoin",
+      "Url": "/currencies/impulsecoin/",
+      "Symbol": "IMPS",
+      "Price": "$0.001214"
+    },
+    {
+      "Coin": "Beatcoin",
+      "Url": "/currencies/beatcoin/",
+      "Symbol": "XBTS",
+      "Price": "$0.015897"
+    },
+    {
+      "Coin": "BiosCrypto",
+      "Url": "/currencies/bios-crypto/",
+      "Symbol": "BIOS",
+      "Price": "$0.001135"
+    },
+    {
+      "Coin": "Zonecoin",
+      "Url": "/currencies/zonecoin/",
+      "Symbol": "ZNE",
+      "Price": "$0.008618"
+    },
+    {
+      "Coin": "ETHGAS",
+      "Url": "/currencies/ethgas/",
+      "Symbol": "EGAS",
+      "Price": "$0.002177"
+    },
+    {
+      "Coin": "DAPPSTER",
+      "Url": "/currencies/dappster/",
+      "Symbol": "DLISK",
+      "Price": "$0.000221"
+    },
+    {
+      "Coin": "EGO",
+      "Url": "/currencies/ego/",
+      "Symbol": "EGO",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "BlazeCoin",
+      "Url": "/currencies/blazecoin/",
+      "Symbol": "BLZ",
+      "Price": "$0.000036"
+    },
+    {
+      "Coin": "Printerium",
+      "Url": "/currencies/printerium/",
+      "Symbol": "PRX",
+      "Price": "$0.001841"
+    },
+    {
+      "Coin": "Ride My Car",
+      "Url": "/currencies/ride-my-car/",
+      "Symbol": "RIDE",
+      "Price": "$0.000212"
+    },
+    {
+      "Coin": "PosEx",
+      "Url": "/currencies/posex/",
+      "Symbol": "PEX",
+      "Price": "$0.008691"
+    },
+    {
+      "Coin": "FuzzBalls",
+      "Url": "/currencies/fuzzballs/",
+      "Symbol": "FUZZ",
+      "Price": "$0.004399"
+    },
+    {
+      "Coin": "NeuroDAO",
+      "Url": "/currencies/neurodao/",
+      "Symbol": "NDAO",
+      "Price": "$0.117847"
+    },
+    {
+      "Coin": "Litecred",
+      "Url": "/currencies/litecred/",
+      "Symbol": "LTCR",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "Cthulhu Offer...",
+      "Url": "/currencies/cthulhu-offerings/",
+      "Symbol": "OFF",
+      "Price": "$0.007586"
+    },
+    {
+      "Coin": "Doubloon",
+      "Url": "/currencies/doubloon/",
+      "Symbol": "BOAT",
+      "Price": "$0.001033"
+    },
+    {
+      "Coin": "BBQCoin",
+      "Url": "/currencies/bbqcoin/",
+      "Symbol": "BQC",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "LetItRide",
+      "Url": "/currencies/letitride/",
+      "Symbol": "LIR",
+      "Price": "$0.000516"
+    },
+    {
+      "Coin": "VIP Tokens",
+      "Url": "/currencies/vip-tokens/",
+      "Symbol": "VIP",
+      "Price": "$0.000221"
+    },
+    {
+      "Coin": "MiloCoin",
+      "Url": "/currencies/milocoin/",
+      "Symbol": "MILO",
+      "Price": "$0.001708"
+    },
+    {
+      "Coin": "AnarchistsPrime",
+      "Url": "/currencies/anarchistsprime/",
+      "Symbol": "ACP",
+      "Price": "$0.003942"
+    },
+    {
+      "Coin": "DPAY",
+      "Url": "/currencies/dpay/",
+      "Symbol": "DPAY",
+      "Price": "$0.000215"
+    },
+    {
+      "Coin": "TAGRcoin",
+      "Url": "/currencies/tagrcoin/",
+      "Symbol": "TAGR",
+      "Price": "$0.000442"
+    },
+    {
+      "Coin": "SongCoin",
+      "Url": "/currencies/songcoin/",
+      "Symbol": "SONG",
+      "Price": "$0.000516"
+    },
+    {
+      "Coin": "BnrtxCoin",
+      "Url": "/currencies/bnrtxcoin/",
+      "Symbol": "BNX",
+      "Price": "$0.000663"
+    },
+    {
+      "Coin": "Antilitecoin",
+      "Url": "/currencies/antilitecoin/",
+      "Symbol": "ALTC",
+      "Price": "$0.000516"
+    },
+    {
+      "Coin": "High Voltage",
+      "Url": "/currencies/high-voltage/",
+      "Symbol": "HVCO",
+      "Price": "$0.010696"
+    },
+    {
+      "Coin": "RSGPcoin",
+      "Url": "/currencies/rsgpcoin/",
+      "Symbol": "RSGP",
+      "Price": "$9.21"
+    },
+    {
+      "Coin": "BioBar",
+      "Url": "/currencies/biobar/",
+      "Symbol": "BIOB",
+      "Price": "$0.017036"
+    },
+    {
+      "Coin": "SocialCoin",
+      "Url": "/currencies/socialcoin-socc/",
+      "Symbol": "SOCC",
+      "Price": "$0.010680"
+    },
+    {
+      "Coin": "Destiny",
+      "Url": "/currencies/destiny/",
+      "Symbol": "DES",
+      "Price": "$0.009204"
+    },
+    {
+      "Coin": "Luna Coin",
+      "Url": "/currencies/luna-coin/",
+      "Symbol": "LUNA",
+      "Price": "$0.008808"
+    },
+    {
+      "Coin": "CHNCoin",
+      "Url": "/currencies/chncoin/",
+      "Symbol": "CNC",
+      "Price": "$0.000308"
+    },
+    {
+      "Coin": "Xonecoin",
+      "Url": "/currencies/xonecoin/",
+      "Symbol": "XOC",
+      "Price": "$0.032866"
+    },
+    {
+      "Coin": "Speedcash",
+      "Url": "/currencies/speedcash/",
+      "Symbol": "SCS",
+      "Price": "$0.051779"
+    },
+    {
+      "Coin": "Tradecoin",
+      "Url": "/currencies/tradecoin-v2/",
+      "Symbol": "TRADE",
+      "Price": "$0.001841"
+    },
+    {
+      "Coin": "Magnum",
+      "Url": "/currencies/magnum/",
+      "Symbol": "MGM",
+      "Price": "$0.003241"
+    },
+    {
+      "Coin": "Elysium",
+      "Url": "/currencies/elysium/",
+      "Symbol": "ELS",
+      "Price": "$0.002873"
+    },
+    {
+      "Coin": "Qibuck Asset",
+      "Url": "/currencies/qibuck-asset/",
+      "Symbol": "QBK",
+      "Price": "$0.006150"
+    },
+    {
+      "Coin": "Argus",
+      "Url": "/currencies/argus/",
+      "Symbol": "ARGUS",
+      "Price": "$0.008642"
+    },
+    {
+      "Coin": "SydPak",
+      "Url": "/currencies/sydpak/",
+      "Symbol": "SDP",
+      "Price": "$0.058924"
+    },
+    {
+      "Coin": "JavaScript Token",
+      "Url": "/currencies/javascript-token/",
+      "Symbol": "JS",
+      "Price": "$0.001111"
+    },
+    {
+      "Coin": "Litecoin Plus",
+      "Url": "/currencies/litecoin-plus/",
+      "Symbol": "LCP",
+      "Price": "$0.014142"
+    },
+    {
+      "Coin": "Selfiecoin",
+      "Url": "/currencies/selfiecoin/",
+      "Symbol": "SLFI",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "P7Coin",
+      "Url": "/currencies/p7coin/",
+      "Symbol": "P7C",
+      "Price": "$0.000212"
+    },
+    {
+      "Coin": "Save and Gain",
+      "Url": "/currencies/save-and-gain/",
+      "Symbol": "SANDG",
+      "Price": "$0.002431"
+    },
+    {
+      "Coin": "Revenu",
+      "Url": "/currencies/revenu/",
+      "Symbol": "REV",
+      "Price": "$0.006187"
+    },
+    {
+      "Coin": "GeertCoin",
+      "Url": "/currencies/geertcoin/",
+      "Symbol": "GEERT",
+      "Price": "$0.001279"
+    },
+    {
+      "Coin": "Rawcoin",
+      "Url": "/currencies/rawcoin2/",
+      "Symbol": "XRC",
+      "Price": "$0.009217"
+    },
+    {
+      "Coin": "NodeCoin",
+      "Url": "/currencies/nodecoin/",
+      "Symbol": "NODC",
+      "Price": "$0.003647"
+    },
+    {
+      "Coin": "Virtacoin",
+      "Url": "/currencies/virtacoin/",
+      "Symbol": "VTA",
+      "Price": "$0.000001"
+    },
+    {
+      "Coin": "LevoPlus",
+      "Url": "/currencies/levoplus/",
+      "Symbol": "LVPS",
+      "Price": "$0.004714"
+    },
+    {
+      "Coin": "BurstOcean",
+      "Url": "/currencies/burstocean/",
+      "Symbol": "OCEAN",
+      "Price": "$0.026447"
+    },
+    {
+      "Coin": "Bitvolt",
+      "Url": "/currencies/bitvolt/",
+      "Symbol": "VOLT",
+      "Price": "$0.000365"
+    },
+    {
+      "Coin": "BigBoobsCoin",
+      "Url": "/currencies/bigboobscoin/",
+      "Symbol": "BBC",
+      "Price": "$0.036827"
+    },
+    {
+      "Coin": "WalletBuilder...",
+      "Url": "/currencies/wallet-builders-coin/",
+      "Symbol": "WBC",
+      "Price": "$0.265745"
+    },
+    {
+      "Coin": "Enigma",
+      "Url": "/currencies/enigma/",
+      "Symbol": "XNG",
+      "Price": "$0.291893"
+    },
+    {
+      "Coin": "CCMiner",
+      "Url": "/currencies/ccminer/",
+      "Symbol": "CCM100",
+      "Price": "$0.001408"
+    },
+    {
+      "Coin": "LiteBitcoin",
+      "Url": "/currencies/litebitcoin/",
+      "Symbol": "LBTC",
+      "Price": "$0.001402"
+    },
+    {
+      "Coin": "Project-X",
+      "Url": "/currencies/project-x/",
+      "Symbol": "NANOX",
+      "Price": "$51558.10"
+    },
+    {
+      "Coin": "Frazcoin",
+      "Url": "/currencies/frazcoin/",
+      "Symbol": "FRAZ",
+      "Price": "$0.000421"
+    },
+    {
+      "Coin": "Powercoin",
+      "Url": "/currencies/powercoin/",
+      "Symbol": "PWR",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Dix Asset",
+      "Url": "/currencies/dix-asset/",
+      "Symbol": "DIX",
+      "Price": "$3.5e-08"
+    },
+    {
+      "Coin": "Lex4All",
+      "Url": "/currencies/lex4all/",
+      "Symbol": "LEX",
+      "Price": "$0.002829"
+    },
+    {
+      "Coin": "Californium",
+      "Url": "/currencies/californium/",
+      "Symbol": "CF",
+      "Price": "$0.023127"
+    },
+    {
+      "Coin": "GeyserCoin",
+      "Url": "/currencies/geysercoin/",
+      "Symbol": "GSR",
+      "Price": "$0.049275"
+    },
+    {
+      "Coin": "PizzaCoin",
+      "Url": "/currencies/pizzacoin/",
+      "Symbol": "PIZZA",
+      "Price": "$0.001399"
+    },
+    {
+      "Coin": "MantraCoin",
+      "Url": "/currencies/mantracoin/",
+      "Symbol": "MNC",
+      "Price": "$0.000356"
+    },
+    {
+      "Coin": "Sojourn",
+      "Url": "/currencies/sojourn/",
+      "Symbol": "SOJ",
+      "Price": "$0.003236"
+    },
+    {
+      "Coin": "SwapToken",
+      "Url": "/currencies/swaptoken/",
+      "Symbol": "TOKEN",
+      "Price": "$1e-07"
+    },
+    {
+      "Coin": "MikeTheMug",
+      "Url": "/currencies/mikethemug/",
+      "Symbol": "MUG",
+      "Price": "$0.001287"
+    },
+    {
+      "Coin": "Digital Credits",
+      "Url": "/currencies/digital-credits/",
+      "Symbol": "DGCS",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "Abncoin",
+      "Url": "/currencies/abncoin/",
+      "Symbol": "ABN",
+      "Price": "$0.009059"
+    },
+    {
+      "Coin": "Ulatech",
+      "Url": "/currencies/ulatech/",
+      "Symbol": "ULA",
+      "Price": "$0.004417"
+    },
+    {
+      "Coin": "Ebittree Coin",
+      "Url": "/currencies/ebittree-coin/",
+      "Symbol": "EBT",
+      "Price": "$0.000309"
+    },
+    {
+      "Coin": "Future Digita...",
+      "Url": "/currencies/future-digital-currency/",
+      "Symbol": "FDC",
+      "Price": "$0.000061"
+    },
+    {
+      "Coin": "Environ",
+      "Url": "/currencies/environ/",
+      "Symbol": "ENV",
+      "Price": "$0.000001"
+    },
+    {
+      "Coin": "AppleCoin",
+      "Url": "/currencies/applecoin-apw/",
+      "Symbol": "APW",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Bitcoin Gold ...",
+      "Url": "/currencies/bitcoin-gold/",
+      "Symbol": "BTG",
+      "Price": "$155.94"
+    },
+    {
+      "Coin": "YOYOW",
+      "Url": "/currencies/yoyow/",
+      "Symbol": "YOYOW",
+      "Price": "$0.085277"
+    },
+    {
+      "Coin": "Regalcoin",
+      "Url": "/currencies/regalcoin/",
+      "Symbol": "REC",
+      "Price": "$70.65"
+    },
+    {
+      "Coin": "Swisscoin",
+      "Url": "/currencies/swisscoin/",
+      "Symbol": "SIC",
+      "Price": "$0.012521"
+    },
+    {
+      "Coin": "FirstCoin",
+      "Url": "/currencies/firstcoin/",
+      "Symbol": "FRST",
+      "Price": "$17.09"
+    },
+    {
+      "Coin": "Fargocoin",
+      "Url": "/currencies/fargocoin/",
+      "Symbol": "FRGC",
+      "Price": "$8.14"
+    },
+    {
+      "Coin": "BT1 [CST]",
+      "Url": "/currencies/bt1-cst/",
+      "Symbol": "BT1",
+      "Price": "$6332.51"
+    },
+    {
+      "Coin": "Confido",
+      "Url": "/currencies/confido/",
+      "Symbol": "CFD",
+      "Price": "$0.557510"
+    },
+    {
+      "Coin": "BT2 [CST]",
+      "Url": "/currencies/bt2-cst/",
+      "Symbol": "BT2",
+      "Price": "$990.79"
+    },
+    {
+      "Coin": "Infinity Econ...",
+      "Url": "/currencies/infinity-economics/",
+      "Symbol": "XIN",
+      "Price": "$0.085913"
+    },
+    {
+      "Coin": "Nuls",
+      "Url": "/currencies/nuls/",
+      "Symbol": "NULS",
+      "Price": "$0.289462"
+    },
+    {
+      "Coin": "SegWit2x [Fut...",
+      "Url": "/currencies/segwit2x/",
+      "Symbol": "B2X",
+      "Price": "$1307.01"
+    },
+    {
+      "Coin": "TechShares",
+      "Url": "/currencies/techshares/",
+      "Symbol": "THS",
+      "Price": "$0.882802"
+    },
+    {
+      "Coin": "High Gain",
+      "Url": "/currencies/high-gain/",
+      "Symbol": "HIGH",
+      "Price": "$0.005892"
+    },
+    {
+      "Coin": "Tezos (Pre-La...",
+      "Url": "/currencies/tezos/",
+      "Symbol": "XTZ",
+      "Price": "$1.73"
+    },
+    {
+      "Coin": "ClubCoin",
+      "Url": "/currencies/clubcoin/",
+      "Symbol": "CLUB",
+      "Price": "$1.66"
+    },
+    {
+      "Coin": "Enjin Coin",
+      "Url": "/currencies/enjin-coin/",
+      "Symbol": "ENJ",
+      "Price": "$0.019452"
+    },
+    {
+      "Coin": "ICON",
+      "Url": "/currencies/icon/",
+      "Symbol": "ICX",
+      "Price": "$1.21"
+    },
+    {
+      "Coin": "LLToken",
+      "Url": "/currencies/lltoken/",
+      "Symbol": "LLT",
+      "Price": "$0.330029"
+    },
+    {
+      "Coin": "PeopleCoin",
+      "Url": "/currencies/peoplecoin/",
+      "Symbol": "MEN",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Ormeus Coin",
+      "Url": "/currencies/ormeus-coin/",
+      "Symbol": "ORME",
+      "Price": "$0.582970"
+    },
+    {
+      "Coin": "Exchange Union",
+      "Url": "/currencies/exchange-union/",
+      "Symbol": "XUC",
+      "Price": "$2.25"
+    },
+    {
+      "Coin": "Golos Gold",
+      "Url": "/currencies/golos-gold/",
+      "Symbol": "GBG",
+      "Price": "$0.110564"
+    },
+    {
+      "Coin": "StarCash Network",
+      "Url": "/currencies/starcash-network/",
+      "Symbol": "STARS",
+      "Price": "$1.06"
+    },
+    {
+      "Coin": "Aion",
+      "Url": "/currencies/aion/",
+      "Symbol": "AION",
+      "Price": "$0.661618"
+    },
+    {
+      "Coin": "UG Token",
+      "Url": "/currencies/ug-token/",
+      "Symbol": "UGT",
+      "Price": "$0.355926"
+    },
+    {
+      "Coin": "Storjcoin X",
+      "Url": "/currencies/storjcoin-x/",
+      "Symbol": "SJCX",
+      "Price": "$0.506817"
+    },
+    {
+      "Coin": "Bitbase",
+      "Url": "/currencies/bitbase/",
+      "Symbol": "BTBc",
+      "Price": "$0.037687"
+    },
+    {
+      "Coin": "FutCoin",
+      "Url": "/currencies/futcoin/",
+      "Symbol": "FUTC",
+      "Price": "$0.004198"
+    },
+    {
+      "Coin": "Akuya Coin",
+      "Url": "/currencies/akuya-coin/",
+      "Symbol": "AKY",
+      "Price": "$0.817344"
+    },
+    {
+      "Coin": "MSD",
+      "Url": "/currencies/msd/",
+      "Symbol": "MSD",
+      "Price": "$0.014657"
+    },
+    {
+      "Coin": "Grid+",
+      "Url": "/currencies/grid/",
+      "Symbol": "GRID",
+      "Price": "$0.888487"
+    },
+    {
+      "Coin": "Phore",
+      "Url": "/currencies/phore/",
+      "Symbol": "PHR",
+      "Price": "$0.368272"
+    },
+    {
+      "Coin": "Etherparty",
+      "Url": "/currencies/etherparty/",
+      "Symbol": "FUEL",
+      "Price": "$0.034827"
+    },
+    {
+      "Coin": "Farad",
+      "Url": "/currencies/farad/",
+      "Symbol": "FRD",
+      "Price": "$0.077691"
+    },
+    {
+      "Coin": "Cobinhood",
+      "Url": "/currencies/cobinhood/",
+      "Symbol": "COB",
+      "Price": "$0.053260"
+    },
+    {
+      "Coin": "Unikoin Gold",
+      "Url": "/currencies/unikoin-gold/",
+      "Symbol": "UKG",
+      "Price": "$0.201455"
+    },
+    {
+      "Coin": "Suretly",
+      "Url": "/currencies/suretly/",
+      "Symbol": "SUR",
+      "Price": "$2.19"
+    },
+    {
+      "Coin": "Qvolta",
+      "Url": "/currencies/qvolta/",
+      "Symbol": "QVT",
+      "Price": "$0.256893"
+    },
+    {
+      "Coin": "Everus",
+      "Url": "/currencies/everus/",
+      "Symbol": "EVR",
+      "Price": "$4.43"
+    },
+    {
+      "Coin": "Octanox",
+      "Url": "/currencies/octanox/",
+      "Symbol": "OTX",
+      "Price": "$0.061870"
+    },
+    {
+      "Coin": "Natcoin",
+      "Url": "/currencies/natcoin/",
+      "Symbol": "NTC",
+      "Price": "$0.957353"
+    },
+    {
+      "Coin": "Pure",
+      "Url": "/currencies/pure/",
+      "Symbol": "PURE",
+      "Price": "$0.425281"
+    },
+    {
+      "Coin": "BIXC",
+      "Url": "/currencies/bixc/",
+      "Symbol": "BIXC",
+      "Price": "$3.18"
+    },
+    {
+      "Coin": "LiteCoin Gold",
+      "Url": "/currencies/litecoin-gold/",
+      "Symbol": "LTG",
+      "Price": "$0.004327"
+    },
+    {
+      "Coin": "Sphre AIR",
+      "Url": "/currencies/sphre-air/",
+      "Symbol": "XID",
+      "Price": "$0.222097"
+    },
+    {
+      "Coin": "MinexCoin",
+      "Url": "/currencies/minexcoin/",
+      "Symbol": "MNX",
+      "Price": "$3.93"
+    },
+    {
+      "Coin": "iBTC",
+      "Url": "/currencies/ibtc/",
+      "Symbol": "IBTC",
+      "Price": "$0.008763"
+    },
+    {
+      "Coin": "FORCE",
+      "Url": "/currencies/force/",
+      "Symbol": "FOR",
+      "Price": "$0.003540"
+    },
+    {
+      "Coin": "BOScoin",
+      "Url": "/currencies/boscoin/",
+      "Symbol": "BOS",
+      "Price": "$1.29"
+    },
+    {
+      "Coin": "Aureus",
+      "Url": "/currencies/aureus/",
+      "Symbol": "AURS",
+      "Price": "$18.71"
+    },
+    {
+      "Coin": "GulfCoin",
+      "Url": "/currencies/gulfcoin/",
+      "Symbol": "MGC",
+      "Price": "$0.003314"
+    },
+    {
+      "Coin": "Desire",
+      "Url": "/currencies/desire/",
+      "Symbol": "DSR",
+      "Price": "$0.572862"
+    },
+    {
+      "Coin": "RChain",
+      "Url": "/currencies/rchain/",
+      "Symbol": "RHOC",
+      "Price": "$0.127681"
+    },
+    {
+      "Coin": "Chronologic",
+      "Url": "/currencies/chronologic/",
+      "Symbol": "DAY",
+      "Price": "$4.68"
+    },
+    {
+      "Coin": "ATLANT",
+      "Url": "/currencies/atlant/",
+      "Symbol": "ATL",
+      "Price": "$0.175724"
+    },
+    {
+      "Coin": "Xenon",
+      "Url": "/currencies/xenon/",
+      "Symbol": "XNN",
+      "Price": "$0.014693"
+    },
+    {
+      "Coin": "DeusCoin",
+      "Url": "/currencies/deuscoin/",
+      "Symbol": "DEUS",
+      "Price": "$0.492233"
+    },
+    {
+      "Coin": "AlpaCoin",
+      "Url": "/currencies/alpacoin/",
+      "Symbol": "APC",
+      "Price": "$0.003360"
+    },
+    {
+      "Coin": "Regacoin",
+      "Url": "/currencies/regacoin/",
+      "Symbol": "REGA",
+      "Price": "$0.003167"
+    },
+    {
+      "Coin": "BuzzCoin",
+      "Url": "/currencies/buzzcoin/",
+      "Symbol": "BUZZ",
+      "Price": "$0.000221"
+    },
+    {
+      "Coin": "CORION",
+      "Url": "/currencies/corion/",
+      "Symbol": "COR",
+      "Price": "$0.687605"
+    },
+    {
+      "Coin": "Russian Minin...",
+      "Url": "/currencies/russian-mining-coin/",
+      "Symbol": "RMC",
+      "Price": "$9199.44"
+    },
+    {
+      "Coin": "Aeron",
+      "Url": "/currencies/aeron/",
+      "Symbol": "ARN",
+      "Price": "$0.444102"
+    },
+    {
+      "Coin": "Cyder",
+      "Url": "/currencies/cyder/",
+      "Symbol": "CYDER",
+      "Price": "$0.001031"
+    },
+    {
+      "Coin": "CarTaxi Token",
+      "Url": "/currencies/cartaxi-token/",
+      "Symbol": "CTX",
+      "Price": "$0.065470"
+    },
+    {
+      "Coin": "SIGMAcoin",
+      "Url": "/currencies/sigmacoin/",
+      "Symbol": "SIGMA",
+      "Price": "$0.038512"
+    },
+    {
+      "Coin": "Macro",
+      "Url": "/currencies/macro1/",
+      "Symbol": "MCR",
+      "Price": "$2.56"
+    },
+    {
+      "Coin": "Ethereum Lite",
+      "Url": "/currencies/ethereum-lite/",
+      "Symbol": "ELITE",
+      "Price": "$0.124760"
+    },
+    {
+      "Coin": "Bitcoin Silver",
+      "Url": "/currencies/bitcoin-silver/",
+      "Symbol": "BTCS",
+      "Price": "$0.003599"
+    },
+    {
+      "Coin": "Rasputin Onli...",
+      "Url": "/currencies/rasputin-online-coin/",
+      "Symbol": "ROC",
+      "Price": "$0.879844"
+    },
+    {
+      "Coin": "T-coin",
+      "Url": "/currencies/t-coin/",
+      "Symbol": "TCOIN",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Lazaruscoin",
+      "Url": "/currencies/lazaruscoin/",
+      "Symbol": "LAZ",
+      "Price": "$0.002357"
+    },
+    {
+      "Coin": "Huncoin",
+      "Url": "/currencies/huncoin/",
+      "Symbol": "HNC",
+      "Price": "$0.003314"
+    },
+    {
+      "Coin": "Crystal Clear",
+      "Url": "/currencies/crystal-clear/",
+      "Symbol": "CCT",
+      "Price": "$0.485647"
+    },
+    {
+      "Coin": "ELTCOIN",
+      "Url": "/currencies/eltcoin/",
+      "Symbol": "ELTCOIN",
+      "Price": "$0.002103"
+    },
+    {
+      "Coin": "eGold",
+      "Url": "/currencies/egold/",
+      "Symbol": "EGOLD",
+      "Price": "$0.013035"
+    },
+    {
+      "Coin": "Paccoin",
+      "Url": "/currencies/paccoin/",
+      "Symbol": "PAC",
+      "Price": "$3.5e-07"
+    },
+    {
+      "Coin": "Yellow Token",
+      "Url": "/currencies/yellow-token/",
+      "Symbol": "YEL",
+      "Price": "$0.015405"
+    },
+    {
+      "Coin": "Bitcoin Unlim...",
+      "Url": "/currencies/bitcoin-unlimited/",
+      "Symbol": "BTU",
+      "Price": "$225.88"
+    },
+    {
+      "Coin": "First Bitcoin...",
+      "Url": "/currencies/first-bitcoin-capital/",
+      "Symbol": "BITCF",
+      "Price": "$0.124623"
+    },
+    {
+      "Coin": "Dutch Coin",
+      "Url": "/currencies/dutch-coin/",
+      "Symbol": "DUTCH",
+      "Price": "$0.000589"
+    },
+    {
+      "Coin": "Smart Investm...",
+      "Url": "/currencies/smart-investment-fund-token/",
+      "Symbol": "SIFT",
+      "Price": "$2.96"
+    },
+    {
+      "Coin": "iQuant",
+      "Url": "/currencies/iquant/",
+      "Symbol": "IQT",
+      "Price": "$0.184435"
+    },
+    {
+      "Coin": "Alphabit",
+      "Url": "/currencies/alphabitcoinfund/",
+      "Symbol": "ABC",
+      "Price": "$15.52"
+    },
+    {
+      "Coin": "Musiconomi",
+      "Url": "/currencies/musiconomi/",
+      "Symbol": "MCI",
+      "Price": "$0.080321"
+    },
+    {
+      "Coin": "President Trump",
+      "Url": "/currencies/president-trump/",
+      "Symbol": "PRES",
+      "Price": "$0.004836"
+    },
+    {
+      "Coin": "Roofs",
+      "Url": "/currencies/roofs/",
+      "Symbol": "ROOFS",
+      "Price": "$0.000589"
+    },
+    {
+      "Coin": "Wild Crypto",
+      "Url": "/currencies/wild-crypto/",
+      "Symbol": "WILD",
+      "Price": "$0.073229"
+    },
+    {
+      "Coin": "Internet of T...",
+      "Url": "/currencies/internet-of-things/",
+      "Symbol": "XOT",
+      "Price": "$2209.56"
+    },
+    {
+      "Coin": "President Joh...",
+      "Url": "/currencies/president-johnson/",
+      "Symbol": "GARY",
+      "Price": "$0.081094"
+    },
+    {
+      "Coin": "TeslaCoilCoin",
+      "Url": "/currencies/teslacoilcoin/",
+      "Symbol": "TESLA",
+      "Price": "$1.43"
+    },
+    {
+      "Coin": "AmsterdamCoin",
+      "Url": "/currencies/amsterdamcoin/",
+      "Symbol": "AMS",
+      "Price": "$0.004412"
+    },
+    {
+      "Coin": "Flash",
+      "Url": "/currencies/flash/",
+      "Symbol": "FLASH",
+      "Price": "$0.005451"
+    },
+    {
+      "Coin": "Bastonet",
+      "Url": "/currencies/bastonet/",
+      "Symbol": "BSN",
+      "Price": "$0.001031"
+    },
+    {
+      "Coin": "LandCoin",
+      "Url": "/currencies/landcoin/",
+      "Symbol": "LDCN",
+      "Price": "$0.001011"
+    },
+    {
+      "Coin": "MorningStar",
+      "Url": "/currencies/morningstar-payments/",
+      "Symbol": "MRNG",
+      "Price": "$0.000695"
+    },
+    {
+      "Coin": "Cash Poker Pro",
+      "Url": "/currencies/cash-poker-pro/",
+      "Symbol": "CASH",
+      "Price": "$0.091836"
+    },
+    {
+      "Coin": "FlypMe",
+      "Url": "/currencies/flypme/",
+      "Symbol": "FYP",
+      "Price": "$0.108739"
+    },
+    {
+      "Coin": "Intelligent T...",
+      "Url": "/currencies/intelligent-trading-tech/",
+      "Symbol": "ITT",
+      "Price": "$0.177746"
+    },
+    {
+      "Coin": "Vulcano",
+      "Url": "/currencies/vulcano/",
+      "Symbol": "VULC",
+      "Price": "$0.009031"
+    },
+    {
+      "Coin": "UniversalRoya...",
+      "Url": "/currencies/universalroyalcoin/",
+      "Symbol": "UNRC",
+      "Price": "$0.001239"
+    },
+    {
+      "Coin": "Quotient",
+      "Url": "/currencies/quotient/",
+      "Symbol": "XQN",
+      "Price": "$0.007218"
+    },
+    {
+      "Coin": "ECC",
+      "Url": "/currencies/eccoin/",
+      "Symbol": "ECC",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Motocoin",
+      "Url": "/currencies/motocoin/",
+      "Symbol": "MOTO",
+      "Price": "$0.014530"
+    },
+    {
+      "Coin": "LePen",
+      "Url": "/currencies/lepen/",
+      "Symbol": "LEPEN",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Mercury Protocol",
+      "Url": "/currencies/mercury-protocol/",
+      "Symbol": "GMT",
+      "Price": "$0.021122"
+    },
+    {
+      "Coin": "BRAT",
+      "Url": "/currencies/brat/",
+      "Symbol": "BRAT",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Network Token",
+      "Url": "/currencies/network-token/",
+      "Symbol": "NTWK",
+      "Price": "$0.002225"
+    },
+    {
+      "Coin": "OX Fina",
+      "Url": "/currencies/ox-fina/",
+      "Symbol": "OX",
+      "Price": "$0.003995"
+    },
+    {
+      "Coin": "eBIT",
+      "Url": "/currencies/ebit/",
+      "Symbol": "EBIT",
+      "Price": "$0.000930"
+    },
+    {
+      "Coin": "BitSoar",
+      "Url": "/currencies/bitsoar/",
+      "Symbol": "BSR",
+      "Price": "$0.123371"
+    },
+    {
+      "Coin": "Avoncoin",
+      "Url": "/currencies/avoncoin/",
+      "Symbol": "ACN",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Pabyosi Coin ...",
+      "Url": "/currencies/pabyosi-coin-special/",
+      "Symbol": "PCS",
+      "Price": "$0.147661"
+    },
+    {
+      "Coin": "BTCMoon",
+      "Url": "/currencies/btcmoon/",
+      "Symbol": "BTCM",
+      "Price": "$0.001303"
+    },
+    {
+      "Coin": "Sand Coin",
+      "Url": "/currencies/sand-coin/",
+      "Symbol": "SND",
+      "Price": "$0.698618"
+    },
+    {
+      "Coin": "Blockchain Index",
+      "Url": "/currencies/blockchain-index/",
+      "Symbol": "BLX",
+      "Price": "$1.49"
+    },
+    {
+      "Coin": "eUSD",
+      "Url": "/currencies/eusd/",
+      "Symbol": "EUSD",
+      "Price": "$0.000480"
+    },
+    {
+      "Coin": "DFSCoin",
+      "Url": "/currencies/dfscoin/",
+      "Symbol": "DFS",
+      "Price": "$0.009255"
+    },
+    {
+      "Coin": "AMIS",
+      "Url": "/currencies/amis/",
+      "Symbol": "AMIS",
+      "Price": "$37008.10"
+    },
+    {
+      "Coin": "Runners",
+      "Url": "/currencies/runners/",
+      "Symbol": "RUNNERS",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Minex",
+      "Url": "/currencies/minex/",
+      "Symbol": "MINEX",
+      "Price": "$0.030777"
+    },
+    {
+      "Coin": "eREAL",
+      "Url": "/currencies/ereal/",
+      "Symbol": "EREAL",
+      "Price": "$0.000577"
+    },
+    {
+      "Coin": "Wi Coin",
+      "Url": "/currencies/wi-coin/",
+      "Symbol": "WIC",
+      "Price": "$0.004057"
+    },
+    {
+      "Coin": "AdCoin",
+      "Url": "/currencies/adcoin/",
+      "Symbol": "ACC",
+      "Price": "$0.100136"
+    },
+    {
+      "Coin": "Zilbercoin",
+      "Url": "/currencies/zilbercoin/",
+      "Symbol": "ZBC",
+      "Price": "$0.039466"
+    },
+    {
+      "Coin": "BITFID",
+      "Url": "/currencies/bitfid/",
+      "Symbol": "FID",
+      "Price": "$0.147309"
+    },
+    {
+      "Coin": "Rcoin",
+      "Url": "/currencies/rcoin/",
+      "Symbol": "RCN",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Facecoin",
+      "Url": "/currencies/facecoin/",
+      "Symbol": "FC",
+      "Price": "$0.003881"
+    },
+    {
+      "Coin": "FlappyCoin",
+      "Url": "/currencies/flappycoin/",
+      "Symbol": "FLAP",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "ATMCoin",
+      "Url": "/currencies/atmcoin/",
+      "Symbol": "ATMC",
+      "Price": "$1.47"
+    },
+    {
+      "Coin": "India Coin",
+      "Url": "/currencies/india-coin/",
+      "Symbol": "INDIA",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "WA Space",
+      "Url": "/currencies/wa-space/",
+      "Symbol": "WA",
+      "Price": "$0.015909"
+    },
+    {
+      "Coin": "NamoCoin",
+      "Url": "/currencies/namocoin/",
+      "Symbol": "NAMO",
+      "Price": "$0.000086"
+    },
+    {
+      "Coin": "BitcoinCashSc...",
+      "Url": "/currencies/bitcoincashscrypt/",
+      "Symbol": "BCCS",
+      "Price": "$0.008986"
+    },
+    {
+      "Coin": "GAY Money",
+      "Url": "/currencies/gaycoin/",
+      "Symbol": "GAY",
+      "Price": "$0.028918"
+    },
+    {
+      "Coin": "EncryptoTel [...",
+      "Url": "/currencies/encryptotel-eth/",
+      "Symbol": "ETT",
+      "Price": "$0.057522"
+    },
+    {
+      "Coin": "BatCoin",
+      "Url": "/currencies/batcoin/",
+      "Symbol": "BAT",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "RubleBit",
+      "Url": "/currencies/rublebit/",
+      "Symbol": "RUBIT",
+      "Price": "$0.003020"
+    },
+    {
+      "Coin": "Granite",
+      "Url": "/currencies/granitecoin/",
+      "Symbol": "GRN",
+      "Price": "$0.010533"
+    },
+    {
+      "Coin": "EXRNchain",
+      "Url": "/currencies/exrnchain/",
+      "Symbol": "EXRN",
+      "Price": "$8.9e-07"
+    },
+    {
+      "Coin": "EtherDoge",
+      "Url": "/currencies/etherdoge/",
+      "Symbol": "EDOGE",
+      "Price": "$3e-07"
+    },
+    {
+      "Coin": "Voyacoin",
+      "Url": "/currencies/voyacoin/",
+      "Symbol": "VOYA",
+      "Price": "$2.06"
+    },
+    {
+      "Coin": "HODL Bucks",
+      "Url": "/currencies/hodl-bucks/",
+      "Symbol": "HDLB",
+      "Price": "$0.055241"
+    },
+    {
+      "Coin": "9COIN",
+      "Url": "/currencies/9coin/",
+      "Symbol": "9COIN",
+      "Price": "$0.003462"
+    },
+    {
+      "Coin": "Wowecoin",
+      "Url": "/currencies/wowecoin/",
+      "Symbol": "WEC",
+      "Price": "$0.111000"
+    },
+    {
+      "Coin": "Tellurion",
+      "Url": "/currencies/tellurion/",
+      "Symbol": "TELL",
+      "Price": "$0.000293"
+    },
+    {
+      "Coin": "GanjaCoin",
+      "Url": "/currencies/ganjacoin/",
+      "Symbol": "MRJA",
+      "Price": "$0.023938"
+    },
+    {
+      "Coin": "RHFCoin",
+      "Url": "/currencies/rhfcoin/",
+      "Symbol": "RHFC",
+      "Price": "$0.000810"
+    },
+    {
+      "Coin": "PeepCoin",
+      "Url": "/currencies/peepcoin/",
+      "Symbol": "PCN",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Swapcoin",
+      "Url": "/currencies/swapcoin/",
+      "Symbol": "SWP",
+      "Price": "$0.071098"
+    },
+    {
+      "Coin": "MarxCoin",
+      "Url": "/currencies/marxcoin/",
+      "Symbol": "MARX",
+      "Price": "$0.001165"
+    },
+    {
+      "Coin": "StrongHands",
+      "Url": "/currencies/stronghands/",
+      "Symbol": "SHND",
+      "Price": "$2.1e-08"
+    },
+    {
+      "Coin": "Coupecoin",
+      "Url": "/currencies/coupecoin/",
+      "Symbol": "COUPE",
+      "Price": "$0.000006"
+    },
+    {
+      "Coin": "10M Token",
+      "Url": "/currencies/10mtoken/",
+      "Symbol": "10MT",
+      "Price": "$0.003555"
+    },
+    {
+      "Coin": "RabbitCoin",
+      "Url": "/currencies/rabbitcoin/",
+      "Symbol": "RBBT",
+      "Price": "$0.000002"
+    },
+    {
+      "Coin": "GoldMaxCoin",
+      "Url": "/currencies/goldmaxcoin/",
+      "Symbol": "GMX",
+      "Price": "$0.000516"
+    },
+    {
+      "Coin": "KexCoin",
+      "Url": "/currencies/kexcoin/",
+      "Symbol": "KEXCOIN",
+      "Price": "$18.41"
+    },
+    {
+      "Coin": "Protean",
+      "Url": "/currencies/protean/",
+      "Symbol": "PRN",
+      "Price": "$0.000061"
+    },
+    {
+      "Coin": "BetaCoin",
+      "Url": "/currencies/betacoin/",
+      "Symbol": "BET",
+      "Price": "$0.002431"
+    },
+    {
+      "Coin": "Sync",
+      "Url": "/currencies/sync/",
+      "Symbol": "SYNC",
+      "Price": "$220.96"
+    },
+    {
+      "Coin": "UGAIN",
+      "Url": "/currencies/ugain/",
+      "Symbol": "GAIN",
+      "Price": "$0.001026"
+    },
+    {
+      "Coin": "UtaCoin",
+      "Url": "/currencies/utacoin/",
+      "Symbol": "UTA",
+      "Price": "$0.001105"
+    },
+    {
+      "Coin": "Wowcoin",
+      "Url": "/currencies/wowcoin/",
+      "Symbol": "WOW",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "SportsCoin",
+      "Url": "/currencies/sportscoin/",
+      "Symbol": "SPORT",
+      "Price": "$0.000589"
+    },
+    {
+      "Coin": "Qora",
+      "Url": "/currencies/qora/",
+      "Symbol": "QORA",
+      "Price": "$0.131435"
+    },
+    {
+      "Coin": "FireFlyCoin",
+      "Url": "/currencies/fireflycoin/",
+      "Symbol": "FFC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Sharkcoin",
+      "Url": "/currencies/sharkcoin/",
+      "Symbol": "SAK",
+      "Price": "$0.002346"
+    },
+    {
+      "Coin": "Yescoin",
+      "Url": "/currencies/yescoin/",
+      "Symbol": "YES",
+      "Price": "$0.000004"
+    },
+    {
+      "Coin": "Pirate Blocks",
+      "Url": "/currencies/pirate-blocks/",
+      "Symbol": "SKULL",
+      "Price": "$0.001883"
+    },
+    {
+      "Coin": "FAPcoin",
+      "Url": "/currencies/fapcoin/",
+      "Symbol": "FAP",
+      "Price": "$0.009356"
+    },
+    {
+      "Coin": "Cashme",
+      "Url": "/currencies/cashme/",
+      "Symbol": "CME",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Bitcedi",
+      "Url": "/currencies/bitcedi/",
+      "Symbol": "BXC",
+      "Price": "$0.001452"
+    },
+    {
+      "Coin": "Rupaya [OLD]",
+      "Url": "/currencies/rupaya-old/",
+      "Symbol": "RUPX",
+      "Price": "$0.022244"
+    },
+    {
+      "Coin": "IrishCoin",
+      "Url": "/currencies/irishcoin/",
+      "Symbol": "IRL",
+      "Price": "$0.002062"
+    },
+    {
+      "Coin": "SnakeEyes",
+      "Url": "/currencies/snakeeyes/",
+      "Symbol": "SNAKE",
+      "Price": "$0.036902"
+    },
+    {
+      "Coin": "First Bitcoin",
+      "Url": "/currencies/first-bitcoin/",
+      "Symbol": "BIT",
+      "Price": "$0.013479"
+    },
+    {
+      "Coin": "UR",
+      "Url": "/currencies/ur/",
+      "Symbol": "UR",
+      "Price": "$0.000730"
+    },
+    {
+      "Coin": "Coimatic 3.0",
+      "Url": "/currencies/coimatic-3/",
+      "Symbol": "CTIC3",
+      "Price": "$22.83"
+    },
+    {
+      "Coin": "XDE II",
+      "Url": "/currencies/xde-ii/",
+      "Symbol": "XDE2",
+      "Price": "$4.30"
+    },
+    {
+      "Coin": "EggCoin",
+      "Url": "/currencies/eggcoin/",
+      "Symbol": "EGG",
+      "Price": "$0.031966"
+    },
+    {
+      "Coin": "SHACoin",
+      "Url": "/currencies/shacoin/",
+      "Symbol": "SHA",
+      "Price": "$0.001178"
+    },
+    {
+      "Coin": "BlazerCoin",
+      "Url": "/currencies/blazercoin/",
+      "Symbol": "BLAZR",
+      "Price": "$0.001154"
+    },
+    {
+      "Coin": "RichCoin",
+      "Url": "/currencies/richcoin/",
+      "Symbol": "RICHX",
+      "Price": "$0.006187"
+    },
+    {
+      "Coin": "Sakuracoin",
+      "Url": "/currencies/sakuracoin/",
+      "Symbol": "SKR",
+      "Price": "$0.001022"
+    },
+    {
+      "Coin": "Primulon",
+      "Url": "/currencies/primulon/",
+      "Symbol": "PRIMU",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "AvatarCoin",
+      "Url": "/currencies/avatarcoin/",
+      "Symbol": "AV",
+      "Price": "$0.020991"
+    },
+    {
+      "Coin": "International...",
+      "Url": "/currencies/international-diamond/",
+      "Symbol": "XID",
+      "Price": "$0.005303"
+    },
+    {
+      "Coin": "Hyper",
+      "Url": "/currencies/hyper/",
+      "Symbol": "HYPER",
+      "Price": "$0.014731"
+    },
+    {
+      "Coin": "Bitok",
+      "Url": "/currencies/bitok/",
+      "Symbol": "BITOK",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Peacecoin",
+      "Url": "/currencies/peacecoin/",
+      "Symbol": "PEC",
+      "Price": "$0.007439"
+    },
+    {
+      "Coin": "VegasCoin",
+      "Url": "/currencies/vegascoin/",
+      "Symbol": "VGC",
+      "Price": "$0.000290"
+    },
+    {
+      "Coin": "Bubble",
+      "Url": "/currencies/bubble/",
+      "Symbol": "BUB",
+      "Price": "$0.030640"
+    },
+    {
+      "Coin": "WeAreSatoshi",
+      "Url": "/currencies/wearesatoshi/",
+      "Symbol": "WSX",
+      "Price": "$0.001326"
+    },
+    {
+      "Coin": "GoldUnionCoin",
+      "Url": "/currencies/goldunioncoin/",
+      "Symbol": "GUC",
+      "Price": "$0.126686"
+    },
+    {
+      "Coin": "The Vegan Ini...",
+      "Url": "/currencies/the-vegan-initiative/",
+      "Symbol": "XVE",
+      "Price": "$0.000221"
+    },
+    {
+      "Coin": "Animecoin",
+      "Url": "/currencies/animecoin/",
+      "Symbol": "ANI",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "MobileCash",
+      "Url": "/currencies/mobilecash/",
+      "Symbol": "MBL",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "Tattoocoin (L...",
+      "Url": "/currencies/tattoocoin-limited/",
+      "Symbol": "TLE",
+      "Price": "$0.027989"
+    },
+    {
+      "Coin": "Topaz Coin",
+      "Url": "/currencies/topaz/",
+      "Symbol": "TOPAZ",
+      "Price": "$0.069972"
+    },
+    {
+      "Coin": "Excelcoin",
+      "Url": "/currencies/excelcoin/",
+      "Symbol": "EXL",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "Xaucoin",
+      "Url": "/currencies/xaucoin/",
+      "Symbol": "XAU",
+      "Price": "$0.016867"
+    },
+    {
+      "Coin": "Cubits",
+      "Url": "/currencies/cubits/",
+      "Symbol": "QBT",
+      "Price": "$0.000916"
+    },
+    {
+      "Coin": "InvisibleCoin",
+      "Url": "/currencies/invisiblecoin/",
+      "Symbol": "IVZ",
+      "Price": "$0.169700"
+    },
+    {
+      "Coin": "AsicCoin",
+      "Url": "/currencies/asiccoin/",
+      "Symbol": "ASC",
+      "Price": "$0.000270"
+    },
+    {
+      "Coin": "TodayCoin",
+      "Url": "/currencies/todaycoin/",
+      "Symbol": "TODAY",
+      "Price": "$0.000589"
+    },
+    {
+      "Coin": "Clinton",
+      "Url": "/currencies/clinton/",
+      "Symbol": "CLINT",
+      "Price": "$0.010164"
+    },
+    {
+      "Coin": "ZSEcoin",
+      "Url": "/currencies/zsecoin/",
+      "Symbol": "ZSE",
+      "Price": "$0.015604"
+    },
+    {
+      "Coin": "Advanced Inte...",
+      "Url": "/currencies/advanced-internet-blocks/",
+      "Symbol": "AIB",
+      "Price": "$0.003977"
+    },
+    {
+      "Coin": "MoneyCoin",
+      "Url": "/currencies/moneycoin/",
+      "Symbol": "MONEY",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Tyrocoin",
+      "Url": "/currencies/tyrocoin/",
+      "Symbol": "TYC",
+      "Price": "$0.031230"
+    },
+    {
+      "Coin": "TerraNova",
+      "Url": "/currencies/terranova/",
+      "Symbol": "TER",
+      "Price": "$3.54"
+    },
+    {
+      "Coin": "KashhCoin",
+      "Url": "/currencies/kashhcoin/",
+      "Symbol": "KASHH",
+      "Price": "$0.000020"
+    },
+    {
+      "Coin": "eLTC",
+      "Url": "/currencies/eltc/",
+      "Symbol": "ELTC2",
+      "Price": "$0.000050"
+    },
+    {
+      "Coin": "EDRCoin",
+      "Url": "/currencies/edrcoin/",
+      "Symbol": "EDRC",
+      "Price": "$0.046900"
+    },
+    {
+      "Coin": "TopCoin",
+      "Url": "/currencies/topcoin/",
+      "Symbol": "TOP",
+      "Price": "$0.000442"
+    },
+    {
+      "Coin": "SafeCoin",
+      "Url": "/currencies/safecoin/",
+      "Symbol": "SFE",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Skeincoin",
+      "Url": "/currencies/skeincoin/",
+      "Symbol": "SKC",
+      "Price": "$0.002062"
+    },
+    {
+      "Coin": "ShellCoin",
+      "Url": "/currencies/shellcoin/",
+      "Symbol": "SHELL",
+      "Price": "$0.017161"
+    },
+    {
+      "Coin": "netBit",
+      "Url": "/currencies/netbit/",
+      "Symbol": "NBIT",
+      "Price": "$0.016425"
+    },
+    {
+      "Coin": "PayPeer",
+      "Url": "/currencies/paypeer/",
+      "Symbol": "PAYP",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Halloween Coin",
+      "Url": "/currencies/halloween-coin/",
+      "Symbol": "HALLO",
+      "Price": "$0.000075"
+    },
+    {
+      "Coin": "Fonziecoin",
+      "Url": "/currencies/fonziecoin/",
+      "Symbol": "FONZ",
+      "Price": "$0.000368"
+    },
+    {
+      "Coin": "Global Busine...",
+      "Url": "/currencies/global-business-revolution/",
+      "Symbol": "GBRC",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "TrickyCoin",
+      "Url": "/currencies/trickycoin/",
+      "Symbol": "TRICK",
+      "Price": "$0.010459"
+    },
+    {
+      "Coin": "DeltaCredits",
+      "Url": "/currencies/deltacredits/",
+      "Symbol": "DCRE",
+      "Price": "$0.189439"
+    },
+    {
+      "Coin": "Fazzcoin",
+      "Url": "/currencies/fazzcoin/",
+      "Symbol": "FAZZ",
+      "Price": "$0.001841"
+    },
+    {
+      "Coin": "Ergo",
+      "Url": "/currencies/ergo/",
+      "Symbol": "EFYT",
+      "Price": "$8.10"
+    },
+    {
+      "Coin": "Birds",
+      "Url": "/currencies/birds/",
+      "Symbol": "BIRDS",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "Donationcoin",
+      "Url": "/currencies/donationcoin/",
+      "Symbol": "DON",
+      "Price": "$0.000443"
+    },
+    {
+      "Coin": "BitAlphaCoin",
+      "Url": "/currencies/bitalphacoin/",
+      "Symbol": "BAC",
+      "Price": "$0.002946"
+    },
+    {
+      "Coin": "UNCoin",
+      "Url": "/currencies/uncoin/",
+      "Symbol": "UNC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "BestChain",
+      "Url": "/currencies/bestchain/",
+      "Symbol": "BEST",
+      "Price": "$0.000810"
+    },
+    {
+      "Coin": "RoyalCoin",
+      "Url": "/currencies/royalcoin/",
+      "Symbol": "ROYAL",
+      "Price": "$0.004051"
+    },
+    {
+      "Coin": "Moneta",
+      "Url": "/currencies/moneta2/",
+      "Symbol": "MONETA",
+      "Price": "$0.000295"
+    },
+    {
+      "Coin": "Magnetcoin",
+      "Url": "/currencies/magnetcoin/",
+      "Symbol": "MAGN",
+      "Price": "$0.427196"
+    },
+    {
+      "Coin": "Dashs",
+      "Url": "/currencies/dashs/",
+      "Symbol": "DASHS",
+      "Price": "$0.024601"
+    },
+    {
+      "Coin": "Mavro",
+      "Url": "/currencies/mavro/",
+      "Symbol": "MAVRO",
+      "Price": "$0.009059"
+    },
+    {
+      "Coin": "X2",
+      "Url": "/currencies/x2/",
+      "Symbol": "X2",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Quebecoin",
+      "Url": "/currencies/quebecoin/",
+      "Symbol": "QBC",
+      "Price": "$0.001326"
+    },
+    {
+      "Coin": "Cheapcoin",
+      "Url": "/currencies/cheapcoin/",
+      "Symbol": "CHEAP",
+      "Price": "$0.000147"
+    },
+    {
+      "Coin": "Omicron",
+      "Url": "/currencies/omicron/",
+      "Symbol": "OMC",
+      "Price": "$0.117626"
+    },
+    {
+      "Coin": "Wink",
+      "Url": "/currencies/wink/",
+      "Symbol": "WINK",
+      "Price": "$0.000221"
+    },
+    {
+      "Coin": "Antimatter",
+      "Url": "/currencies/antimatter/",
+      "Symbol": "ANTX",
+      "Price": "$0.000003"
+    },
+    {
+      "Coin": "BitCentavo",
+      "Url": "/currencies/bitcentavo/",
+      "Symbol": "NBE",
+      "Price": "$0.000001"
+    },
+    {
+      "Coin": "microCoin",
+      "Url": "/currencies/microcoin/",
+      "Symbol": "MRC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "Elacoin",
+      "Url": "/currencies/elacoin/",
+      "Symbol": "ELC",
+      "Price": "$0.039995"
+    },
+    {
+      "Coin": "Karmacoin",
+      "Url": "/currencies/karmacoin/",
+      "Symbol": "KARMA",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "GameLeagueCoin",
+      "Url": "/currencies/gameleaguecoin/",
+      "Symbol": "GML",
+      "Price": "$0.007836"
+    },
+    {
+      "Coin": "Bongger",
+      "Url": "/currencies/bongger/",
+      "Symbol": "BGR",
+      "Price": "$0.000052"
+    },
+    {
+      "Coin": "CyberCoin",
+      "Url": "/currencies/cybercoin/",
+      "Symbol": "CC",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Dubstep",
+      "Url": "/currencies/dubstep/",
+      "Symbol": "DUB",
+      "Price": "$0.001370"
+    },
+    {
+      "Coin": "Cycling Coin",
+      "Url": "/currencies/cycling-coin/",
+      "Symbol": "CYC",
+      "Price": "$0.001212"
+    },
+    {
+      "Coin": "Axiom",
+      "Url": "/currencies/axiom/",
+      "Symbol": "AXIOM",
+      "Price": "$0.011217"
+    },
+    {
+      "Coin": "Opescoin",
+      "Url": "/currencies/opescoin/",
+      "Symbol": "OPES",
+      "Price": "$0.001701"
+    },
+    {
+      "Coin": "MMXVI",
+      "Url": "/currencies/mmxvi/",
+      "Symbol": "MMXVI",
+      "Price": "$0.003185"
+    },
+    {
+      "Coin": "Psilocybin",
+      "Url": "/currencies/psilocybin/",
+      "Symbol": "PSY",
+      "Price": "$0.019029"
+    },
+    {
+      "Coin": "Operand",
+      "Url": "/currencies/operand/",
+      "Symbol": "OP",
+      "Price": "$0.000719"
+    },
+    {
+      "Coin": "TheCreed",
+      "Url": "/currencies/thecreed/",
+      "Symbol": "TCR",
+      "Price": "$0.000493"
+    },
+    {
+      "Coin": "OCOW",
+      "Url": "/currencies/ocow/",
+      "Symbol": "OCOW",
+      "Price": "$0.003569"
+    },
+    {
+      "Coin": "DarkLisk",
+      "Url": "/currencies/darklisk/",
+      "Symbol": "DISK",
+      "Price": "$0.000539"
+    },
+    {
+      "Coin": "SoulCoin",
+      "Url": "/currencies/soulcoin/",
+      "Symbol": "SOUL",
+      "Price": "$0.000072"
+    },
+    {
+      "Coin": "PrismChain",
+      "Url": "/currencies/prismchain/",
+      "Symbol": "PRM",
+      "Price": "$0.000903"
+    },
+    {
+      "Coin": "Digital Bulli...",
+      "Url": "/currencies/digital-bullion-gold/",
+      "Symbol": "DBG",
+      "Price": "$0.004138"
+    },
+    {
+      "Coin": "Happy Creator...",
+      "Url": "/currencies/happy-creator-coin/",
+      "Symbol": "HCC",
+      "Price": "$0.000298"
+    },
+    {
+      "Coin": "LinkedCoin",
+      "Url": "/currencies/linkedcoin/",
+      "Symbol": "LKC",
+      "Price": "$0.000141"
+    },
+    {
+      "Coin": "FrankyWillCoin",
+      "Url": "/currencies/frankywillcoin/",
+      "Symbol": "FRWC",
+      "Price": "$0.002572"
+    },
+    {
+      "Coin": "PokeCoin",
+      "Url": "/currencies/pokecoin/",
+      "Symbol": "POKE",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Aces",
+      "Url": "/currencies/aces/",
+      "Symbol": "ACES",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Golfcoin",
+      "Url": "/currencies/golfcoin/",
+      "Symbol": "GOLF",
+      "Price": "$0.000070"
+    },
+    {
+      "Coin": "Mind Gene",
+      "Url": "/currencies/mind-gene/",
+      "Symbol": "MG",
+      "Price": "$0.014659"
+    },
+    {
+      "Coin": "LAthaan",
+      "Url": "/currencies/lathaan/",
+      "Symbol": "LTH",
+      "Price": "$0.000511"
+    },
+    {
+      "Coin": "TeamUp",
+      "Url": "/currencies/teamup/",
+      "Symbol": "TEAM",
+      "Price": "$0.000151"
+    },
+    {
+      "Coin": "DynamicCoin",
+      "Url": "/currencies/dynamiccoin/",
+      "Symbol": "DMC",
+      "Price": "$1.00"
+    },
+    {
+      "Coin": "CBD Crystals",
+      "Url": "/currencies/cbd-crystals/",
+      "Symbol": "CBD",
+      "Price": "$0.001452"
+    },
+    {
+      "Coin": "AxFunds",
+      "Url": "/currencies/axfunds/",
+      "Symbol": "AXF",
+      "Price": "$0.029409"
+    },
+    {
+      "Coin": "Safe Trade Coin",
+      "Url": "/currencies/safe-trade-coin/",
+      "Symbol": "XSTC",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "PinkDog",
+      "Url": "/currencies/pinkdog/",
+      "Symbol": "PDG",
+      "Price": "$0.000070"
+    },
+    {
+      "Coin": "Neptune Classic",
+      "Url": "/currencies/neptune-classic/",
+      "Symbol": "NTCC",
+      "Price": "$0.000571"
+    },
+    {
+      "Coin": "TeraCoin",
+      "Url": "/currencies/teracoin/",
+      "Symbol": "TERA",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "PiCoin",
+      "Url": "/currencies/picoin/",
+      "Symbol": "PI",
+      "Price": "$0.001305"
+    },
+    {
+      "Coin": "ZenGold",
+      "Url": "/currencies/zengold/",
+      "Symbol": "ZENGOLD",
+      "Price": "$0.197854"
+    },
+    {
+      "Coin": "Aidos Kuneen",
+      "Url": "/currencies/aidos-kuneen/",
+      "Symbol": "ADK",
+      "Price": "$31.41"
+    },
+    {
+      "Coin": "STEX",
+      "Url": "/currencies/stex/",
+      "Symbol": "STEX",
+      "Price": "$0.117549"
+    },
+    {
+      "Coin": "TurboCoin",
+      "Url": "/currencies/turbocoin/",
+      "Symbol": "TURBO",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "Royalties",
+      "Url": "/currencies/royalties/",
+      "Symbol": "XRY",
+      "Price": "$0.054817"
+    },
+    {
+      "Coin": "Aseancoin",
+      "Url": "/currencies/aseancoin/",
+      "Symbol": "ASN",
+      "Price": "$0.001645"
+    },
+    {
+      "Coin": "Etherx",
+      "Url": "/currencies/etherx/",
+      "Symbol": "ETX",
+      "Price": "$1.76"
+    },
+    {
+      "Coin": "XTD Coin",
+      "Url": "/currencies/xtd-coin/",
+      "Symbol": "XTD",
+      "Price": "$0.000074"
+    },
+    {
+      "Coin": "MIYUCoin",
+      "Url": "/currencies/miyucoin/",
+      "Symbol": "MIU",
+      "Price": "$0.000071"
+    },
+    {
+      "Coin": "InfChain",
+      "Url": "/currencies/infchain/",
+      "Symbol": "INF",
+      "Price": "$0.007269"
+    }
+  ]
+}
