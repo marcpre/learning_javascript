@@ -1,9 +1,9 @@
 const fs = require('fs')
 const path = require('path')
 
-const data = JSON.parse(fs.readFileSync(path.join(__dirname, './data/allCoins.json'), 'utf8'))
+//const data = JSON.parse(fs.readFileSync(path.join(__dirname, './data/allCoins.json'), 'utf8'))
 
-console.log(data)
+//console.log(data)
 
 const data = {
   currency: [{},
@@ -31,7 +31,7 @@ const data = {
 
 const coins = []
 data.currency.forEach((cur) => {
-  if (cur.CoinName) {
+  if (cur.Name) {
     coins.push({
       coinname: cur.Name,
       symbol: cur.Symbol,
