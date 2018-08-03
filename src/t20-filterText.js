@@ -2,3 +2,7 @@ const text = "<h1>Hello world!</h1> <h2>What is {{ $slot }} Ipsum?</h2> <p><stro
 
 let data = text.match(/{{\s*\$\w+\s*}}/g)
 console.log(data)
+
+var json = JSON.parse("[" + data + "]");
+
+console.log(json);
