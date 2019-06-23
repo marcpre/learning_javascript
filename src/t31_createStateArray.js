@@ -1,6 +1,4 @@
 const ticker = ['AAPL', 'MSFT']
-const mbeatUrlEndings = ['price-target/?MostRecent=0', 'insider-trades/', 'institutional-ownership/', 'earnings/', 'dividend/']
-
 
 const res = []
 for (let i = 0; i < ticker.length; i++) {
@@ -27,10 +25,11 @@ for (let i = 0; i < ticker.length; i++) {
   })
 }
 
-console.log(JSON.stringify(res))
+/* console.log(JSON.stringify(res))
+ */
 
-function setState(res, state) {
-  res.state = state
+function setState(obj, bool) {
+  obj.state = bool
 }
 
 function getState(res) {
@@ -39,10 +38,24 @@ function getState(res) {
 
 setState(res[1], true)
 
-console.log(getState(res[2]))
+/* console.log(getState(res[2]))
 console.log(getState(res[1]))
 
-console.log(JSON.stringify(res))
+console.log(JSON.stringify(res)) */
+
+let currentState = res.filter(el => el.state === false)
+console.log(`Initial state: ${  currentState.length}`)
+let i = 0
+while (currentState.length > 0) {
+  res[i].state = true
+  currentState = res.filter(el => el.state === false)
+  console.log(`Set state to true for ${JSON.stringify(res[i])}`)
+  console.log(currentState.length)
+  i++
+}
+
+console.log('###################DONE#####################')
+
 
 /*
  * {
