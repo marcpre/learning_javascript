@@ -45,13 +45,13 @@ console.log(JSON.stringify(res)) */
 
 let currentState = res.filter(el => el.state === false)
 console.log(`Initial state: ${  currentState.length}`)
-let i = 0
+// let i = 0
 while (currentState.length > 0) {
-  res[i].state = true
+  currentState[0].state = true
   currentState = res.filter(el => el.state === false)
-  console.log(`Set state to true for ${JSON.stringify(res[i])}`)
+  console.log(`Set state to true for ${JSON.stringify(currentState[0])}`)
   console.log(currentState.length)
-  i++
+  // i++
 }
 
 console.log('###################DONE#####################')
