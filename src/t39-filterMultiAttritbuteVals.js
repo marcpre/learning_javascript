@@ -9,12 +9,12 @@ let data = [{
   "category": "1231",
   "description": ""
 }, {
-  "name": "",
+  "name": "Product 3",
   "link": null,
-  "ticker": "",
+  "category": "22",
   "description": ""
 }]
 
-data = data.filter(cv => !(cv.name === "" || cv.link === null));
+const filteredData = data.filter(({ category }) => category === "22" || category === "234");
 
-console.log(JSON.stringify(data))
+console.log(JSON.stringify(filteredData))
