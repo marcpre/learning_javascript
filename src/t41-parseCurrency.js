@@ -1,4 +1,4 @@
-const data = ["➝", null, "", "$245.00 ➝ $200.48	", "$247.00	", "$210.00 ➝ €160.00	", "€210.00 -> $160.00	", "£210.00 -> £160.00	", ]
+const data = ["GBX 626	", "C$0.40	", "➝", null, "", "$245.00 ➝ $200.48	", "$247.00	", "$210.00 ➝ €160.00	", "€210.00 -> $160.00	", "£210.00 -> £160.00	", ]
 
 let hasNumber = (s) => {
   return /\d/.test(s);
@@ -11,12 +11,15 @@ let getCurrencySymbol = (s) => {
     return res
   } else {
     let symb = s.match(/[$£€¥]/);
-
-    if (symb[0] === '$') res = "USD"
-    if (symb[0] === '£') res = "Pound"
-    if (symb[0] === '€') res = "EUR"
-    if (symb[0] === '¥') res = "Yen"
-    return res
+    if (symb === undefined || symb === null || s === "") {
+      return res
+    } else {
+      if (symb[0] === '$') res = "USD"
+      if (symb[0] === '£') res = "Pound"
+      if (symb[0] === '€') res = "EUR"
+      if (symb[0] === '¥') res = "Yen"
+      return res
+    }
   }
 }
 
